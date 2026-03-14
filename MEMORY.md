@@ -18,6 +18,7 @@
 - telegram бот: @Kkurush_bot
 - mediaMaxMb: 100
 - git remote: git@github.com:antiggo/kurush-memory.git (SSH)
+- ветка: main (не master)
 
 ## известные проблемы
 - session_status model override блокирует opus — переключать через /model
