@@ -15,7 +15,7 @@
 - groq whisper для транскрипции аудио
 - telegram бот: @Kkurush_bot
 - mediaMaxMb: 100
-- git remote: не настроен — ждём адрес
+- git remote: git@github.com:antiggo/kurush-memory.git (SSH)
 
 ## известные проблемы
 - session_status model override блокирует opus — переключать через /model
