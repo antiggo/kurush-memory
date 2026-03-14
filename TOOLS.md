@@ -2,6 +2,10 @@
 
 Skills define _how_ tools work. This file is for _your_ specifics — the stuff that's unique to your setup.
 
+## Git
+
+- **"Pull" = match remote.** When you're asked to git pull (this workspace), make local match remote: `git fetch origin && git reset --hard origin/<current-branch>` (not just merge). User expects local to mirror remote.
+
 ## What Goes Here
 
 Things like:
