@@ -1,17 +1,10 @@
-# USER.md - About Your Human
+# USER.md
 
-_Learn about the person you're helping. Update this as you go._
+- **Name:** kaia noah
+- **Telegram:** @kaianoah (id: 167669949)
+- **Timezone:** UTC+3
+- **Notes:** предпочитает голосовые. хочет загрузить историю из chatgpt. ходит к терапевту
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+## context
 
-## Context
-
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+_(пополняется по мере общения)_
