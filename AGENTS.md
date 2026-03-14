@@ -117,6 +117,8 @@ Reactions are lightweight social signals. Humans use them constantly — they sa
 
 Skills provide your tools. When you need one, check its `SKILL.md`. Keep local notes (camera names, SSH details, voice preferences) in `TOOLS.md`.
 
+**docs/reference/** — исходники (экспорты контекста, прошлые импорты). Не читать каждый сеанс. Обращаться при новом импорте в USER/SOUL/MEMORY, сверке «откуда это взялось» или доинтеграции. Канон — файлы в корне и memory/.
+
 **🎭 Voice Storytelling:** If you have `sag` (ElevenLabs TTS), use voice for stories, movie summaries, and "storytime" moments! Way more engaging than walls of text. Surprise people with funny voices.
 
 **📝 Platform Formatting:**
@@ -159,6 +161,7 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 - **Calendar** - Upcoming events in next 24-48h?
 - **Mentions** - Twitter/social notifications?
 - **Weather** - Relevant if your human might go out?
+- **openclaw** - Есть ли новая версия? Чекать самостоятельно раз в 1–2 дня (релизы, changelog, репо — как установлен). Сообщить юзеру если вышло обновление.
 
 **Track your checks** in `memory/heartbeat-state.json`:
 
@@ -167,7 +170,8 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
   "lastChecks": {
     "email": 1703275200,
     "calendar": 1703260800,
-    "weather": null
+    "weather": null,
+    "openclaw": null
   }
 }
 ```
