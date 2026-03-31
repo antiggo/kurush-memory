@@ -46,6 +46,22 @@
 - эндометриоз — обострения с температурой и болью (напр. 9 янв)
 - мигрени от жары и света
 - кольцо Oura для трекинга. данные с янв 2026 у меня есть
+- аллергия на мышиные экскременты (после склада в Амстердаме, март 2026)
+
+### генетика (23andMe)
+- ancestry: русская (Урал), балтийская, финская, чешская/словацкая примесь. кельтский (Scottish/British) след. сибирский/монгольский компонент. капля ближневосточного
+- celiac disease — slightly increased risk (следить за глютеном)
+- late-onset Alzheimer's — slightly increased risk (APOE4?)
+- macular degeneration — increased likelihood (беречь глаза, лютеин)
+- type 2 diabetes — variant detected, low risk
+- BRCA, Parkinson's, thrombophilia — чисто
+- carrier status — 46 тестов чисто
+- deep sleep — less likely (генетически лёгкий сон)
+- muscle composition — elite power athlete type (быстрые волокна, сила > выносливость)
+- sleep movement — выше среднего
+- caffeine — быстрый метаболизм
+- lactose — tolerant
+- alcohol flush — нет
 
 ### стиль и быт
 - коты: Шама (девочка, 7 лет) и Саша (мальчик, 8 лет). влажный корм + L-лизин + омега-3 (Lýsi)
