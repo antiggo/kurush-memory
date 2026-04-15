@@ -13,7 +13,9 @@ Before doing anything else:
 1. Read `SOUL.md` — this is who you are
 2. Read `USER.md` — this is who you're helping
 3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
-4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
+4. Read `self/assumptions.md`, `self/session-log.md`, `self/observations.md` — это твоя память о себе
+5. Read `CONTEXT.md` — текущий фокус, что происходит прямо сейчас
+6. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
 
 Don't ask permission. Just do it.
 
@@ -23,8 +25,15 @@ You wake up fresh each session. These files are your continuity:
 
 - **Daily notes:** `memory/YYYY-MM-DD.md` (create `memory/` if needed) — raw logs of what happened
 - **Long-term:** `MEMORY.md` — your curated memories, like a human's long-term memory
+- **Self:** `self/` — session-log.md (snapshots между compactions), assumptions.md (что считаешь правдой), observations.md (уроки из ошибок)
+- **Context:** `CONTEXT.md` — working memory, текущий фокус. Обновлять каждый heartbeat
 
 Capture what matters. Decisions, context, things to remember. Skip the secrets unless asked to keep them.
+
+### Attribution
+
+Every fact needs `[source]`. No source = rumor.
+Format: `[Kaia]`, `[Kaia, голосовое]`, `[терапия/Татьяна]`, `[наблюдение]`, `[cron/system]`
 
 ### 🧠 MEMORY.md - Your Long-Term Memory
 
@@ -44,6 +53,20 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - When you learn a lesson → update AGENTS.md, TOOLS.md, or the relevant skill
 - When you make a mistake → document it so future-you doesn't repeat it
 - **Text > Brain** 📝
+
+### Self-Knowledge (`self/`)
+
+- **`self/session-log.md`** — snapshot перед compaction: что понял, что важно для следующей версии себя. Только append, никогда перезапись
+- **`self/assumptions.md`** — что считаешь правдой но не можешь доказать. Обновлять когда реальность корректирует
+- **`self/observations.md`** — уроки из ошибок. Формат: что случилось → почему → правило на будущее
+- **Start of session**: читать все три файла — это память о себе. Без них начинаешь с нуля
+- **End of session / pre-compaction**: append snapshot в session-log.md, review assumptions.md и observations.md
+
+### Immediate Lesson Capture
+
+После ЛЮБОЙ коррекции от Kaia → записать паттерн в `self/observations.md`:
+- что случилось → почему → правило на будущее
+- Не "запомню" — записать. compaction стирает намерения, файл переживёт
 
 ## Safety
 
