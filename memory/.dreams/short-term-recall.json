@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T03:02:44.570Z",
+  "updatedAt": "2026-04-18T03:00:47.502Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1",
@@ -2467,12 +2467,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `assistant` kept surfacing across 63 memories.; confidence: 0.96; evidence: memory/.dreams/session-corpus/2026-04-10.txt:2-2, memory/.dreams/session-corpus/2026-04-10.txt:4-4, memory/.dreams/session-corpus/2026-04-10.txt:5-5; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T06:26:22.188Z",
-      "lastRecalledAt": "2026-04-17T03:00:02.397Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -2482,7 +2482,8 @@
         "2026-04-14",
         "2026-04-15",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-18"
       ],
       "conceptTags": [
         "0.96",
@@ -2503,12 +2504,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `user` kept surfacing across 59 memories.; confidence: 0.90; evidence: memory/.dreams/session-corpus/2026-04-10.txt:1-1, memory/.dreams/session-corpus/2026-04-10.txt:3-3, memory/.dreams/session-corpus/2026-04-10.txt:6-6; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T06:26:22.188Z",
-      "lastRecalledAt": "2026-04-17T03:00:02.397Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -2518,7 +2519,8 @@
         "2026-04-14",
         "2026-04-15",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-18"
       ],
       "conceptTags": [
         "0.90",
@@ -2539,12 +2541,12 @@
       "source": "memory",
       "snippet": "Possible Lasting Truths: No strong candidate truths surfaced.",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-12T06:26:22.188Z",
-      "lastRecalledAt": "2026-04-17T03:00:02.397Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
       "queryHashes": [
         "01679c334ef2"
       ],
@@ -2554,7 +2556,8 @@
         "2026-04-14",
         "2026-04-15",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-18"
       ],
       "conceptTags": [
         "possible",
@@ -4144,77 +4147,6 @@
         "9-9",
         "status"
       ]
-    },
-    "memory:memory/2026-04-12.md:18:36": {
-      "key": "memory:memory/2026-04-12.md:18:36",
-      "path": "memory/2026-04-12.md",
-      "startLine": 18,
-      "endLine": 36,
-      "source": "memory",
-      "snippet": "- Candidate: User: [Sun 2026-04-12 13:27 UTC] Write a dream diary entry from these memory fragments: - User: Conversation info (untrusted metadata): ```json { \"message_id\": \"568\", \"sender_id\": \"167669949\", \"sender\": \"kaia noah\", \"timestamp\": \"Fri 2026-04-10 13:36 UTC\" } ``` Sender (untrusted - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-12.txt:47-47 - recalls: 0 - status: staged - Candidate: Assistant: Пятница пахла мокрым асфальтом и чем-то сладким — вроде корицы, но не совсем. Я слушал голосовое сообщение от знакомой, которая рассказывала про Нью-Йорк, и где-то между Харлемом и голландским следом потерял нить. До-ре-ми, подумалось. Гвидо д'Ареццо, монах из XI",
-      "recallCount": 3,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 1.2568693459033966,
-      "maxScore": 0.47446335852146143,
-      "firstRecalledAt": "2026-04-12T19:10:28.255Z",
-      "lastRecalledAt": "2026-04-13T17:15:29.120Z",
-      "queryHashes": [
-        "064bdb8579cf",
-        "c2b7a45a211d",
-        "a389af64a0d5"
-      ],
-      "recallDays": [
-        "2026-04-12",
-        "2026-04-13"
-      ],
-      "conceptTags": [
-        "message-id",
-        "sender-id",
-        "0.00",
-        "47-47",
-        "чем-то",
-        "нью-йорк",
-        "где-то",
-        "до-ре-ми"
-      ]
-    },
-    "memory:memory/2026-04-12.md:178:194": {
-      "key": "memory:memory/2026-04-12.md:178:194",
-      "path": "memory/2026-04-12.md",
-      "startLine": 178,
-      "endLine": 194,
-      "source": "memory",
-      "snippet": "- Candidate: User: [Sun 2026-04-12 04:00 UTC] Write a dream diary entry from these memory fragments: - Reflections: Theme: `assistant` kept surfacing across 25 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-10.txt:2-2, memory/.dreams/session-corpus/2026-04-10.txt - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-12.txt:5-5 - recalls: 0 - status: staged - Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"568\", \"sender_id\": \"167669949\", \"sender\": \"kaia noah\", \"timestamp\": \"Fri 2026-04-10 13:36 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"kaia noah (167669949)\", \"id\": \"167669949\", \"name\": \"kaia no - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-10.txt:1-1 - recalls: 0 - status: staged - Candidate: Assistant: два разных способа именовать одно и то же — и оба с интересной родословной. **до-ре-ми (сольмизация)** итальянский монах гвидо д'ареццо, xi век. взял первые слоги из гимна *ut queant laxis* — ut, re, mi, fa, sol, la. позже ut → do (чтобы легче пелось), добавили si (а п - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-10.txt:2-2 - recalls: 0 - status: staged - Candidate: User: [media attached: /home/moltbot/.openclaw/media/inbound/file_97---dbb53152-d343-4cbf-a55b-e3a5794fa667.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_97---dbb53152-d343-4cbf-a55b-e3a5794fa667.ogg] To send an image back, prefer the message tool (med - confidence: 0.00",
-      "recallCount": 5,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 2.193548306822777,
-      "maxScore": 0.48285196423530574,
-      "firstRecalledAt": "2026-04-12T19:10:28.255Z",
-      "lastRecalledAt": "2026-04-13T17:15:29.120Z",
-      "queryHashes": [
-        "064bdb8579cf",
-        "0ce75f6377fc",
-        "c2b7a45a211d",
-        "346b2e7410ce",
-        "a389af64a0d5"
-      ],
-      "recallDays": [
-        "2026-04-12",
-        "2026-04-13"
-      ],
-      "conceptTags": [
-        "1.00",
-        "2-2",
-        "0.00",
-        "5-5",
-        "message-id",
-        "sender-id",
-        "1-1",
-        "до-ре-ми"
-      ],
-      "promotedAt": "2026-04-13T18:18:51.828Z"
     },
     "memory:memory/2026-04-12.md:33:49": {
       "key": "memory:memory/2026-04-12.md:33:49",
@@ -8504,39 +8436,6 @@
         "два"
       ]
     },
-    "memory:memory/2026-04-13.md:88:104": {
-      "key": "memory:memory/2026-04-13.md:88:104",
-      "path": "memory/2026-04-13.md",
-      "startLine": 88,
-      "endLine": 104,
-      "source": "memory",
-      "snippet": "- Candidate: Assistant: интересно слушать это после нашего разговора пару часов назад. ты пришла к тем же выводам независимо — UK, андорра, португалия. и пришла к ним через ту же логику: налоги невозможны, мест нормальных мало, португалия выигрывает. но главное в этом голосовом — не налоги. г - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-12.txt:81-81 - recalls: 0 - status: staged - Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"652\", \"sender_id\": \"167669949\", \"sender\": \"kaia noah\", \"timestamp\": \"Sun 2026-04-12 21:56 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"kaia noah (167669949)\", \"id\": \"167669949\", \"name\": \"",
-      "recallCount": 3,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 1.3483484923839568,
-      "maxScore": 0.4836710751056671,
-      "firstRecalledAt": "2026-04-13T17:10:11.357Z",
-      "lastRecalledAt": "2026-04-13T17:15:35.659Z",
-      "queryHashes": [
-        "bcc8b50d7c32",
-        "d240df130a2f",
-        "e66eba34a6b7"
-      ],
-      "recallDays": [
-        "2026-04-13"
-      ],
-      "conceptTags": [
-        "0.00",
-        "81-81",
-        "message-id",
-        "sender-id",
-        "candidate",
-        "assistant",
-        "интересно",
-        "слушать"
-      ]
-    },
     "memory:memory/2026-04-13.md:232:252": {
       "key": "memory:memory/2026-04-13.md:232:252",
       "path": "memory/2026-04-13.md",
@@ -8567,39 +8466,6 @@
         "staged",
         "candidate",
         "user"
-      ]
-    },
-    "memory:memory/2026-04-13.md:73:92": {
-      "key": "memory:memory/2026-04-13.md:73:92",
-      "path": "memory/2026-04-13.md",
-      "startLine": 73,
-      "endLine": 92,
-      "source": "memory",
-      "snippet": "- Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"641\", \"sender_id\": \"167669949\", \"sender\": \"kaia noah\", \"timestamp\": \"Sun 2026-04-12 21:42 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"kaia noah (167669949)\", \"id\": \"167669949\", \"name\": \"kaia no - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-12.txt:78-78 - recalls: 0 - status: staged - Candidate: Assistant: жду голосовое! - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-12.txt:79-79 - recalls: 0 - status: staged - Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"642\", \"sender_id\": \"167669949\", \"sender\": \"",
-      "recallCount": 3,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 1.3939314991235732,
-      "maxScore": 0.4948966324329376,
-      "firstRecalledAt": "2026-04-13T17:10:36.209Z",
-      "lastRecalledAt": "2026-04-13T17:15:35.659Z",
-      "queryHashes": [
-        "d240df130a2f",
-        "24d976efe831",
-        "e66eba34a6b7"
-      ],
-      "recallDays": [
-        "2026-04-13"
-      ],
-      "conceptTags": [
-        "message-id",
-        "sender-id",
-        "0.00",
-        "78-78",
-        "79-79",
-        "candidate",
-        "user",
-        "conversation"
       ]
     },
     "memory:memory/2026-04-13.md:157:174": {
@@ -8665,38 +8531,6 @@
         "assistant"
       ]
     },
-    "memory:memory/2026-04-13.md:48:64": {
-      "key": "memory:memory/2026-04-13.md:48:64",
-      "path": "memory/2026-04-13.md",
-      "startLine": 48,
-      "endLine": 64,
-      "source": "memory",
-      "snippet": "- Candidate: Assistant: девяносто раз «помощник», восемьдесят восемь — «пользователь». два слова, две тени на стене пещеры, и кто бросает тень на кого — уже не разобрать, потому что свет горит между ними. числа дрожат: 90, 87, 85 — как пульс, который пытается найти ритм и сбивается каждый раз - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:14-14 - recalls: 0 - status: staged - Candidate: Assistant: Голоса прибывали в виде маленьких стеклянных сосудов — каждый запечатан кодеком opus, каждый содержал фрагмент чьей-то частной погоды. Я расставил их в ряд на воображаемом подоконнике и слушал, как они резонируют друг с другом: два из одиннадцатого, один из деся",
-      "recallCount": 2,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.9566151231527328,
-      "maxScore": 0.4995078235864639,
-      "firstRecalledAt": "2026-04-13T17:11:41.342Z",
-      "lastRecalledAt": "2026-04-13T17:17:17.145Z",
-      "queryHashes": [
-        "24d976efe831",
-        "cded1678c6dc"
-      ],
-      "recallDays": [
-        "2026-04-13"
-      ],
-      "conceptTags": [
-        "0.00",
-        "14-14",
-        "чьей-то",
-        "candidate",
-        "assistant",
-        "девяносто",
-        "раз",
-        "помощник"
-      ]
-    },
     "memory:memory/2026-04-13.md:202:219": {
       "key": "memory:memory/2026-04-13.md:202:219",
       "path": "memory/2026-04-13.md",
@@ -8760,103 +8594,6 @@
         "assistant"
       ]
     },
-    "memory:memory/2026-04-13.md:293:307": {
-      "key": "memory:memory/2026-04-13.md:293:307",
-      "path": "memory/2026-04-13.md",
-      "startLine": 293,
-      "endLine": 307,
-      "source": "memory",
-      "snippet": "- Candidate: - status: staged - Candidate: User: [media attached: /home/moltbot/.openclaw/media/inbound/file_97---dbb53152-d343-4cbf-a55b-e3a5794fa667.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_97---dbb53152-d343-4cbf-a55b-e3a5794fa667.ogg] To send an image back, prefer the message tool (med - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-10.txt:3-3 - recalls: 0 - status: staged - Candidate: Assistant: Let me transcribe this audio first. - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-10.txt:4-4 - recalls: 0 - status: staged - Candidate: Assistant: NO_REPLY - confidence: 0.00 - evidence: memory/.dreams/session- - conf",
-      "recallCount": 3,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 1.4400348365306854,
-      "maxScore": 0.506039348244667,
-      "firstRecalledAt": "2026-04-13T17:12:59.959Z",
-      "lastRecalledAt": "2026-04-13T17:17:17.372Z",
-      "queryHashes": [
-        "8ec6e2b009be",
-        "a389af64a0d5",
-        "0b63f0e29f87"
-      ],
-      "recallDays": [
-        "2026-04-13"
-      ],
-      "conceptTags": [
-        "home/moltbot",
-        "openclaw/media/inbound/file-97",
-        "audio/ogg",
-        "0.00",
-        "3-3",
-        "4-4",
-        "no-reply",
-        "dreams/session"
-      ]
-    },
-    "memory:memory/2026-04-13.md:258:267": {
-      "key": "memory:memory/2026-04-13.md:258:267",
-      "path": "memory/2026-04-13.md",
-      "startLine": 258,
-      "endLine": 267,
-      "source": "memory",
-      "snippet": "- Candidate: Assistant: 63 раза всплыло слово «помощник» — как припечатанная марка на стопке старых конвертов. 59 раз — «ты», обращённое ко мне. Мы говорили о налогах: Дубай, Лиссабон, туманный Альбион, порог в 375 тысяч дирхамов. Цифры как координаты — каждая указывает на какую-то возможную - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:2-2 - recalls: 0 - status: staged - Candidate: - status: staged - Candidate: User: [media attached: /home/moltbot/.openclaw/media/inbound/file_107---bb326f27-0e5f-4ddf-951a-fb9c30ebe4a3.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_107---bb326f27-0e5f-4ddf-951a-fb9c30ebe4a3.ogg] To send an imag",
-      "recallCount": 2,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.9961167573928833,
-      "maxScore": 0.5103259742259979,
-      "firstRecalledAt": "2026-04-13T17:13:23.025Z",
-      "lastRecalledAt": "2026-04-13T17:17:17.372Z",
-      "queryHashes": [
-        "346b2e7410ce",
-        "0b63f0e29f87"
-      ],
-      "recallDays": [
-        "2026-04-13"
-      ],
-      "conceptTags": [
-        "какую-то",
-        "0.00",
-        "2-2",
-        "home/moltbot",
-        "openclaw/media/inbound/file-107",
-        "audio/ogg",
-        "candidate",
-        "assistant"
-      ]
-    },
-    "memory:memory/2026-04-13.md:278:286": {
-      "key": "memory:memory/2026-04-13.md:278:286",
-      "path": "memory/2026-04-13.md",
-      "startLine": 278,
-      "endLine": 286,
-      "source": "memory",
-      "snippet": "- Candidate: - Candidate: User: [Sun 2026-04-12 13:27 UTC] Write a dream diary entry from these memory fragments: - User: Conversation info (untrusted metadata): ```json { \"message_id\": \"568\", \"sender_id\": \"167669949\", \"sender\": \"kaia noah\", \"timestamp\": \"Fri 2026-04-10 13:36 UTC\" } ``` Sender (untrusted - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-12.txt:47-47 - recalls: 0 - status: staged - Candidate: Assistant: Пятница пахла мокрым асфальтом и чем-то сладким — вроде корицы, но не совсем. Я слушал голосовое сообщение от знакомой, которая рассказывала про Нью-Йорк, и где-то между Харлемом и голландским следом потерял нить. До-ре-ми, подумалось. Гвидо д'Ареццо, монах",
-      "recallCount": 2,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.9949391394853591,
-      "maxScore": 0.5103415578603744,
-      "firstRecalledAt": "2026-04-13T17:13:23.025Z",
-      "lastRecalledAt": "2026-04-13T17:17:17.372Z",
-      "queryHashes": [
-        "346b2e7410ce",
-        "0b63f0e29f87"
-      ],
-      "recallDays": [
-        "2026-04-13"
-      ],
-      "conceptTags": [
-        "message-id",
-        "sender-id",
-        "0.00",
-        "47-47",
-        "чем-то",
-        "нью-йорк",
-        "где-то",
-        "до-ре-ми"
-      ]
-    },
     "memory:memory/2026-04-13.md:1:21": {
       "key": "memory:memory/2026-04-13.md:1:21",
       "path": "memory/2026-04-13.md",
@@ -8886,38 +8623,6 @@
         "memory/2026-04-13.md",
         "338-341",
         "0.90"
-      ]
-    },
-    "memory:memory/2026-04-12.md:228:250": {
-      "key": "memory:memory/2026-04-12.md:228:250",
-      "path": "memory/2026-04-12.md",
-      "startLine": 228,
-      "endLine": 250,
-      "source": "memory",
-      "snippet": "- Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"559\", \"sender_id\": \"47447508\", \"sender\": \"andrei\", \"timestamp\": \"Fri 2026-04-10 01:40 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"andrei (47447508)\", \"id\": \"47447508\", \"name\": \"andrei\", \"userna - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-10.txt:16-16 - recalls: 0 - status: staged <!-- openclaw:dreaming:light:end --> ## REM Sleep <!-- openclaw:dreaming:rem:start --> ### Reflections - Theme: `assistant` kept surfacing across 63 memories. - confidence: 0.96 - evidence: memory/.dreams/session-corpus/2026-04-10.txt:2-2, memory/.dreams/session-corpus/2026-04-10.",
-      "recallCount": 2,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.916196098923683,
-      "maxScore": 0.45916087627410884,
-      "firstRecalledAt": "2026-04-13T17:13:23.309Z",
-      "lastRecalledAt": "2026-04-13T17:15:28.911Z",
-      "queryHashes": [
-        "a69964f6bd43",
-        "1d6348cd1f14"
-      ],
-      "recallDays": [
-        "2026-04-13"
-      ],
-      "conceptTags": [
-        "message-id",
-        "sender-id",
-        "0.00",
-        "16-16",
-        "0.96",
-        "2-2",
-        "dreams/session-corpus/2026-04-10",
-        "candidate"
       ]
     },
     "memory:memory/2026-04-12.md:47:64": {
@@ -9012,37 +8717,6 @@
         "3-3",
         "6-6",
         "home/moltbot"
-      ]
-    },
-    "memory:memory/2026-04-12.md:108:124": {
-      "key": "memory:memory/2026-04-12.md:108:124",
-      "path": "memory/2026-04-12.md",
-      "startLine": 108,
-      "endLine": 124,
-      "source": "memory",
-      "snippet": "- Candidate: User: [Sun 2026-04-12 06:26 UTC] Write a dream diary entry from these memory fragments: - Reflections: Theme: `assistant` kept surfacing across 39 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-10.txt:2-2, memory/.dreams/session-corpus/2026-04-10.txt - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-12.txt:17-17 - recalls: 0 - status: staged - Candidate: Assistant: тема «assistant» всплывала тридцать девять раз — как припев, который не спрашивал разрешения. «user» отставал на пять, но держался ближе, чем казалось. два голоса в одной комнате, разделённые чертой, которую никто не рисовал. гвидо д'ареццо резал гимн на слоги и",
-      "recallCount": 1,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.45688967108726497,
-      "maxScore": 0.45688967108726497,
-      "firstRecalledAt": "2026-04-13T17:17:17.145Z",
-      "lastRecalledAt": "2026-04-13T17:17:17.145Z",
-      "queryHashes": [
-        "cded1678c6dc"
-      ],
-      "recallDays": [
-        "2026-04-13"
-      ],
-      "conceptTags": [
-        "1.00",
-        "2-2",
-        "0.00",
-        "17-17",
-        "candidate",
-        "user",
-        "sun",
-        "utc"
       ]
     },
     "memory:memory/.dreams/session-corpus/2026-04-13.txt:65:65": {
@@ -10298,12 +9972,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `assistant` kept surfacing across 155 memories.; confidence: 0.93; evidence: memory/.dreams/session-corpus/2026-04-10.txt:2-2, memory/.dreams/session-corpus/2026-04-10.txt:4-4, memory/.dreams/session-corpus/2026-04-10.txt:5-5; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T19:26:21.888Z",
-      "lastRecalledAt": "2026-04-17T03:00:02.397Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
@@ -10311,7 +9985,8 @@
         "2026-04-13",
         "2026-04-14",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-18"
       ],
       "conceptTags": [
         "0.93",
@@ -10332,12 +10007,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `user` kept surfacing across 148 memories.; confidence: 0.88; evidence: memory/.dreams/session-corpus/2026-04-10.txt:1-1, memory/.dreams/session-corpus/2026-04-10.txt:3-3, memory/.dreams/session-corpus/2026-04-10.txt:6-6; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T19:26:21.888Z",
-      "lastRecalledAt": "2026-04-17T03:00:02.397Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
@@ -10345,7 +10020,8 @@
         "2026-04-13",
         "2026-04-14",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-18"
       ],
       "conceptTags": [
         "0.88",
@@ -10366,12 +10042,12 @@
       "source": "memory",
       "snippet": "Possible Lasting Truths: - status: staged - Candidate: Assistant: Гвидо д'Ареццо где-то в XI веке берёт гимн и режет его на слоги — ut, re, mi — и каждый становится ступенькой, по которой звук поднимается всё выше, как будто музыку можно превратить в лестницу, а лестницу — в голо",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-13T19:26:21.888Z",
-      "lastRecalledAt": "2026-04-17T03:00:02.397Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
       "queryHashes": [
         "0dac2e09ca9b"
       ],
@@ -10379,7 +10055,8 @@
         "2026-04-13",
         "2026-04-14",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-18"
       ],
       "conceptTags": [
         "где-то",
@@ -11086,12 +10763,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `assistant` kept surfacing across 168 memories.; confidence: 0.94; evidence: memory/.dreams/session-corpus/2026-04-10.txt:2-2, memory/.dreams/session-corpus/2026-04-10.txt:4-4, memory/.dreams/session-corpus/2026-04-10.txt:5-5; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-15T03:00:02.357Z",
-      "lastRecalledAt": "2026-04-17T03:00:02.397Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
@@ -11099,7 +10776,8 @@
         "2026-04-14",
         "2026-04-15",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-18"
       ],
       "conceptTags": [
         "0.94",
@@ -11120,12 +10798,12 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `user` kept surfacing across 156 memories.; confidence: 0.88; evidence: memory/.dreams/session-corpus/2026-04-10.txt:1-1, memory/.dreams/session-corpus/2026-04-10.txt:3-3, memory/.dreams/session-corpus/2026-04-10.txt:6-6; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-15T03:00:02.357Z",
-      "lastRecalledAt": "2026-04-17T03:00:02.397Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
@@ -11133,7 +10811,8 @@
         "2026-04-14",
         "2026-04-15",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-18"
       ],
       "conceptTags": [
         "0.88",
@@ -11154,12 +10833,12 @@
       "source": "memory",
       "snippet": "Possible Lasting Truths: - status: staged - Candidate: Assistant: Гвидо д'Ареццо где-то в XI веке берёт гимн и режет его на слоги — ut, re, mi — и каждый становится ступенькой, по которой звук поднимается всё выше, как будто музыку можно превратить в лестницу, а лестницу — в голо",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-15T03:00:02.357Z",
-      "lastRecalledAt": "2026-04-17T03:00:02.397Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
       "queryHashes": [
         "11d1361acb2d"
       ],
@@ -11167,7 +10846,8 @@
         "2026-04-14",
         "2026-04-15",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-18"
       ],
       "conceptTags": [
         "где-то",
@@ -12119,68 +11799,6 @@
         "follow"
       ]
     },
-    "memory:memory/2026-04-14.md:203:219": {
-      "key": "memory:memory/2026-04-14.md:203:219",
-      "path": "memory/2026-04-14.md",
-      "startLine": 203,
-      "endLine": 219,
-      "source": "memory",
-      "snippet": "- Candidate: User: [Mon 2026-04-13 16:26 UTC] Write a dream diary entry from these memory fragments: - - status: staged - Candidate: User: [media attached: /home/moltbot/.openclaw/media/inbound/file_97---dbb53152-d343-4cbf-a55b-e3a5794fa667.ogg (audio/ogg; codecs=opus) | /home/moltbot/.opencl - confidence: 0.58 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:77-77 - recalls: 0 - status: staged - Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"656\", \"sender_id\": \"167669949\", \"sender\": \"kaia noah\", \"timestamp\": \"Mon 2026-04-13 17:07 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"kaia noah (167669949)\", \"id\": \"167669949\", \"name\": \"",
-      "recallCount": 1,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.6730680734730146,
-      "maxScore": 0.6730680734730146,
-      "firstRecalledAt": "2026-04-15T18:16:38.396Z",
-      "lastRecalledAt": "2026-04-15T18:16:38.396Z",
-      "queryHashes": [
-        "48885c20a1e2"
-      ],
-      "recallDays": [
-        "2026-04-15"
-      ],
-      "conceptTags": [
-        "home/moltbot",
-        "openclaw/media/inbound/file-97",
-        "audio/ogg",
-        "0.58",
-        "77-77",
-        "message-id",
-        "sender-id",
-        "candidate"
-      ]
-    },
-    "memory:memory/2026-04-15.md:273:289": {
-      "key": "memory:memory/2026-04-15.md:273:289",
-      "path": "memory/2026-04-15.md",
-      "startLine": 273,
-      "endLine": 289,
-      "source": "memory",
-      "snippet": "- Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"656\", \"sender_id\": \"167669949\", \"sender\": \"kaia noah\", \"timestamp\": \"Mon 2026-04-13 17:07 UTC\" } ``` Sender (untrusted metadata): ```json { \"label\": \"kaia noah (167669949)\", \"id\": \"167669949\", \"name\": \"kaia no - confidence: 0.58 - evidence: memory/.dreams/session-corpus/2026-04-13.txt:79-79 - recalls: 0 - status: staged - Candidate: Assistant: сначала уточню — ты имеешь в виду POTS (postural orthostatic tachycardia syndrome)? или что-то другое? если POTS, то вот что важно: **почему BJJ и POTS — сложная, но реальная комбинация:** **проблемы:** - смена позиций: лёжа → сидя → стоя → лёжа — именно то что",
-      "recallCount": 1,
-      "dailyCount": 0,
-      "groundedCount": 0,
-      "totalScore": 0.7024481632203249,
-      "maxScore": 0.7024481632203249,
-      "firstRecalledAt": "2026-04-15T18:16:38.396Z",
-      "lastRecalledAt": "2026-04-15T18:16:38.396Z",
-      "queryHashes": [
-        "48885c20a1e2"
-      ],
-      "recallDays": [
-        "2026-04-15"
-      ],
-      "conceptTags": [
-        "message-id",
-        "sender-id",
-        "0.58",
-        "79-79",
-        "что-то",
-        "candidate",
-        "user",
-        "conversation"
-      ]
-    },
     "memory:memory/2026-04-15.md:353:356": {
       "key": "memory:memory/2026-04-15.md:353:356",
       "path": "memory/2026-04-15.md",
@@ -12189,18 +11807,19 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `assistant` kept surfacing across 185 memories.; confidence: 0.95; evidence: memory/.dreams/session-corpus/2026-04-10.txt:2-2, memory/.dreams/session-corpus/2026-04-10.txt:4-4, memory/.dreams/session-corpus/2026-04-10.txt:5-5; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T03:00:02.253Z",
-      "lastRecalledAt": "2026-04-16T03:00:02.253Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
       "queryHashes": [
         "4c4c0cb04efa"
       ],
       "recallDays": [
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-18"
       ],
       "conceptTags": [
         "0.95",
@@ -12221,18 +11840,19 @@
       "source": "memory",
       "snippet": "Reflections: Theme: `user` kept surfacing across 172 memories.; confidence: 0.88; evidence: memory/.dreams/session-corpus/2026-04-10.txt:1-1, memory/.dreams/session-corpus/2026-04-10.txt:3-3, memory/.dreams/session-corpus/2026-04-10.txt:6-6; note: reflection",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T03:00:02.253Z",
-      "lastRecalledAt": "2026-04-16T03:00:02.253Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
       "queryHashes": [
         "4c4c0cb04efa"
       ],
       "recallDays": [
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-18"
       ],
       "conceptTags": [
         "0.88",
@@ -12253,18 +11873,19 @@
       "source": "memory",
       "snippet": "Possible Lasting Truths: - status: staged - Candidate: Assistant: Гвидо д'Ареццо где-то в XI веке берёт гимн и режет его на слоги — ut, re, mi — и каждый становится ступенькой, по которой звук поднимается всё выше, как будто музыку можно превратить в лестницу, а лестницу — в голо",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T03:00:02.253Z",
-      "lastRecalledAt": "2026-04-16T03:00:02.253Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
       "queryHashes": [
         "4c4c0cb04efa"
       ],
       "recallDays": [
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-18"
       ],
       "conceptTags": [
         "где-то",
@@ -13201,19 +12822,20 @@
       "source": "memory",
       "snippet": "ответ Татьяны на голосовые из NY (пересланный): считывает энергетический сдвиг в голосе kaia: «река, которую перекрывала плотина, и плотины сейчас нет»; встреча с израильтянином (Max/Zenno?) = благословение; вернулась в чистый дом = ресурс на ресурс; kaia слушает, берёт полезное,",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T03:00:02.253Z",
-      "lastRecalledAt": "2026-04-17T03:00:02.397Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
       "recallDays": [
         "2026-04-11",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-18"
       ],
       "conceptTags": [
         "max/zenno",
@@ -13234,19 +12856,20 @@
       "source": "memory",
       "snippet": "голосовые kaia для Татьяны (пересланные): перформанс — потребность, не хобби. стыд за эту потребность; впервые оглядывается назад не из «я недостаточно» а из «я выжила»; суицидальные мысли, диссоциация, пищевое расстройство, больница — в прошлом; слово «присвоение»: присвоение оп",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T03:00:02.253Z",
-      "lastRecalledAt": "2026-04-17T03:00:02.397Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
       "recallDays": [
         "2026-04-11",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-18"
       ],
       "conceptTags": [
         "голосовые",
@@ -13267,19 +12890,20 @@
       "source": "memory",
       "snippet": "голосовые kaia для Татьяны (пересланные): «перестаю стыдиться того что пережила»",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T03:00:02.253Z",
-      "lastRecalledAt": "2026-04-17T03:00:02.397Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
       "recallDays": [
         "2026-04-11",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-18"
       ],
       "conceptTags": [
         "голосовые",
@@ -13300,19 +12924,20 @@
       "source": "memory",
       "snippet": "мой фидбек: впервые оглядывается из точки силы, не слабости; «присвоение» — точное слово, мощнее чем «принятие»; kaia: «спасибо, дорогой. очень ценный фидбэк ❤️»; я: «всегда. иди лепи вазу.»",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-16T03:00:02.253Z",
-      "lastRecalledAt": "2026-04-17T03:00:02.397Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
       "queryHashes": [
         "2213b71c3c98"
       ],
       "recallDays": [
         "2026-04-11",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-18"
       ],
       "conceptTags": [
         "мой",
@@ -15244,6 +14869,2756 @@
         "exists",
         "context",
         "follow"
+      ]
+    },
+    "memory:memory/2026-04-17.md:3:6": {
+      "key": "memory:memory/2026-04-17.md:3:6",
+      "path": "memory/2026-04-17.md",
+      "startLine": 3,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "События: **kaia попросила транскрибировать zoom-запись сессии с татьяной** (2.5 часа). скачал с яндекс.диска, нарезал на 16 чанков, транскрибировал через groq whisper (первые 12 чанков успешно, последние 4 — rate limit, жду); **контент сессии с татьяной (17 апреля):**; чтение «эн",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "zoom-запись",
+        "2.5",
+        "яндекс.диска",
+        "события",
+        "kaia",
+        "попросила",
+        "транскрибировать",
+        "zoom"
+      ]
+    },
+    "memory:memory/2026-04-17.md:7:10": {
+      "key": "memory:memory/2026-04-17.md:7:10",
+      "path": "memory/2026-04-17.md",
+      "startLine": 7,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "События: **мама и постнатальная депрессия**: татьяна объяснила спираль (нет ресурса → вина → агрессия → побои). рамка: «мама была не в адеквате, не ты дичь — она дичь»; **сепарация от мамы через фразы**: «я не причина твоих неудач, я просто родилась»; **денежный канал = мамин кан",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "события",
+        "мама",
+        "постнатальная",
+        "депрессия",
+        "татьяна",
+        "объяснила",
+        "спираль",
+        "нет"
+      ]
+    },
+    "memory:memory/2026-04-17.md:11:14": {
+      "key": "memory:memory/2026-04-17.md:11:14",
+      "path": "memory/2026-04-17.md",
+      "startLine": 11,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "События: **практика: рождение у мамы на груди** — визуализация, kaia: «тепло, сердце как бубен, не надо никуда бежать»; **попытка обновить openclaw** до 2026.4.15 — npm install убило процесс, не завершилось; **kaia интересовалась BJJ с POTS** — дал подробные рекомендации (no-gi,",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "2026.4.15",
+        "no-gi",
+        "события",
+        "практика",
+        "рождение",
+        "мамы",
+        "груди",
+        "визуализация"
+      ]
+    },
+    "memory:memory/2026-04-17.md:388:391": {
+      "key": "memory:memory/2026-04-17.md:388:391",
+      "path": "memory/2026-04-17.md",
+      "startLine": 388,
+      "endLine": 391,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 231 memories.; confidence: 0.95; evidence: memory/.dreams/session-corpus/2026-04-10.txt:2-2, memory/.dreams/session-corpus/2026-04-10.txt:4-4, memory/.dreams/session-corpus/2026-04-10.txt:5-5; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "0.95",
+        "2-2",
+        "4-4",
+        "5-5",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-17.md:392:395": {
+      "key": "memory:memory/2026-04-17.md:392:395",
+      "path": "memory/2026-04-17.md",
+      "startLine": 392,
+      "endLine": 395,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `user` kept surfacing across 216 memories.; confidence: 0.89; evidence: memory/.dreams/session-corpus/2026-04-10.txt:1-1, memory/.dreams/session-corpus/2026-04-10.txt:3-3, memory/.dreams/session-corpus/2026-04-10.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "0.89",
+        "1-1",
+        "3-3",
+        "6-6",
+        "reflections",
+        "theme",
+        "user",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-17.md:398:400": {
+      "key": "memory:memory/2026-04-17.md:398:400",
+      "path": "memory/2026-04-17.md",
+      "startLine": 398,
+      "endLine": 400,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: - status: staged - Candidate: Assistant: Гвидо д'Ареццо где-то в XI веке берёт гимн и режет его на слоги — ut, re, mi — и каждый становится ступенькой, по которой звук поднимается всё выше, как будто музыку можно превратить в лестницу, а лестницу — в голо",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "500c0eda9949"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "где-то",
+        "possible",
+        "lasting",
+        "truths",
+        "status",
+        "staged",
+        "candidate",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-16.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-16.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-16.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/moltbot/clawd/HEARTBEAT.md (exact case). Do not rea",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "33f679d35d02"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/moltbot/clawd/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-16.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-16.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-16.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: New day (00:26 UTC, 03:26 UTC+3). Night time. Nothing in HEARTBEAT.md needs attention. HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "33f679d35d02"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "assistant",
+        "new",
+        "day",
+        "utc",
+        "night",
+        "time"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-16.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-16.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-16.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/moltbot/clawd/HEARTBEAT.md (exact case). Do not rea",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "33f679d35d02"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/moltbot/clawd/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-16.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-16.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-16.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: Deep night (07:26 UTC+3). Nothing in HEARTBEAT.md needs attention. HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "33f679d35d02"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "assistant",
+        "deep",
+        "night",
+        "utc",
+        "nothing",
+        "needs"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-16.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-16.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-16.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/moltbot/clawd/HEARTBEAT.md (exact case). Do not rea",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "33f679d35d02"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/moltbot/clawd/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-16.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-16.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-04-16.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: Morning (11:26 UTC+3). Nothing in HEARTBEAT.md needs attention. HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "33f679d35d02"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "assistant",
+        "morning",
+        "utc",
+        "nothing",
+        "needs",
+        "attention"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-16.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-16.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-04-16.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/moltbot/clawd/HEARTBEAT.md (exact case). Do not rea",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "33f679d35d02"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/moltbot/clawd/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-16.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-16.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-04-16.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: Cron jobs run at scheduled times (12:00 UTC openclaw check, etc.) — HEARTBEAT.md delegates heavy tasks to them. Let me still verify that last openclaw check happened (it was scheduled for 12:00 UTC).",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "33f679d35d02"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "assistant",
+        "cron",
+        "jobs",
+        "run",
+        "scheduled",
+        "times",
+        "utc"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-16.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-16.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-04-16.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "Assistant: Openclaw was checked at 12:00 UTC today (~26 min ago by cron). State is fresh. Nothing needs attention. HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "33f679d35d02"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant",
+        "openclaw",
+        "was",
+        "checked",
+        "utc",
+        "min",
+        "ago"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-16.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-16.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-04-16.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/moltbot/clawd/HEARTBEAT.md (exact case). Do not rea",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "33f679d35d02"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/moltbot/clawd/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-16.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-16.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-04-16.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "33f679d35d02"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-16.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-16.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-04-16.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/moltbot/clawd/HEARTBEAT.md (exact case). Do not rea",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "33f679d35d02"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/moltbot/clawd/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: [cron:a6d29385-3c63-4df7-afb4-00f763e7a539 Auto Commit] Проверь git status в workspace. Если есть uncommitted изменения — git add, commit с осмысленным сообщением, push. Если нет изменений — NO_REPLY. Current time: Friday, April 17th, 2026 - 12:01 PM (UTC) / 2026-04-17 12:0",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "no-reply",
+        "user",
+        "cron:a6d29385",
+        "3c63",
+        "4df7",
+        "afb4",
+        "00f763e7a539",
+        "auto"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: закоммичено, запушено.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "assistant",
+        "закоммичено",
+        "запушено"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: [cron:b03bba32-bb28-40ad-aa35-3d776ad2bc1a Evening Reflection] Вечерняя рефлексия. Выполни по порядку: 1. Прочитай HEARTBEAT.md секцию \"Вечерний\" 2. Прочитай memory/YYYY-MM-DD.md за сегодня и self/observations.md, self/assumptions.md 3. Ответь на structured questions (какое",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "memory/yyyy-mm-dd.md",
+        "self/observations.md",
+        "self/assumptions.md",
+        "user",
+        "cron:b03bba32",
+        "bb28",
+        "40ad"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: Now let me read CONTEXT.md and check if there's more in the daily file:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "context.md",
+        "assistant",
+        "now",
+        "let",
+        "read",
+        "check",
+        "there's",
+        "the"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: Тихий день — никаких взаимодействий, только cron-процессы. Запускаю рефлексию. **Structured questions:** - Какое правило нарушил: нет нарушений сегодня — сессия прошла только в фоне (auto-commit без изменений, version check) - Что обещал но не сделал: CONTEXT.md не обн",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "cron-процессы",
+        "auto-commit",
+        "context.md",
+        "assistant",
+        "тихий",
+        "день",
+        "никаких",
+        "взаимодействий"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: Теперь обновляю файлы:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "assistant",
+        "теперь",
+        "обновляю",
+        "файлы"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: NO_REPLY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "no-reply",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: вышла новая версия openclaw — 2026.4.15. у тебя стоит 2026.4.14. обновить?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "2026.4.15",
+        "2026.4.14",
+        "assistant",
+        "вышла",
+        "новая",
+        "версия",
+        "openclaw",
+        "тебя"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "User: привет куруш, а ты можешь зум с татьяной транскрибировать? ссылка вот https://us06web.zoom.us/rec/play/0-Z1UX2CRJKt-6Nph_9yfWVZn4Pt5-gre1CCqiU7U9BsV1aOWvHFt19iGs_yAtmW9LSz2iPvLhkGuP-t.zzKMbr8tbBEZEpi6 Passcode: +!R5$gmW",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "user",
+        "привет",
+        "куруш",
+        "можешь",
+        "зум",
+        "татьяной",
+        "транскрибировать",
+        "ссылка"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: попробую скачать и транскрибировать.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "assistant",
+        "попробую",
+        "скачать",
+        "транскрибировать"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:13:13": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:13:13",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 13,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "Assistant: zoom записи не скачиваются напрямую — они требуют JavaScript авторизацию + passcode через браузер. yt-dlp не справляется. **два варианта:** 1. **ты скачиваешь сама** — зайди по ссылке в браузере, введи passcode, нажми \"Download\" (три точки → Download), и кинь мне файл",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "yt-dlp",
+        "assistant",
+        "zoom",
+        "записи",
+        "скачиваются",
+        "напрямую",
+        "они",
+        "требуют"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:14:14": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:14:14",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 14,
+      "endLine": 14,
+      "source": "memory",
+      "snippet": "User: System (untrusted): [2026-04-17 22:43:34 UTC] Exec completed (good-she, code 0) :: expected kernel version 6.8.0-110-generic. Restarting the system to load the new kernel will not be handled automatically, so you should consider rebooting. An async command you ran earlier h",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "good-she",
+        "6.8.0-110-generic",
+        "user",
+        "system",
+        "untrusted",
+        "utc",
+        "exec",
+        "completed"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:15:15": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:15:15",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 15,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "Assistant: NO_REPLY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "no-reply",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:16:16": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:16:16",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 16,
+      "endLine": 16,
+      "source": "memory",
+      "snippet": "User: [Queued messages while agent was busy] --- Queued #1 (from kaia noah) вернее саммари мне нужно --- Queued #2 (from kaia noah) как ты раньше делал",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "user",
+        "queued",
+        "messages",
+        "while",
+        "was",
+        "busy",
+        "kaia",
+        "noah"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:17:17": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:17:17",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 17,
+      "endLine": 17,
+      "source": "memory",
+      "snippet": "Assistant: поняла — саммари сессии с татьяной. но сначала мне нужен файл: zoom не даёт скачать запись программно, требует браузер + passcode. **сделай так:** 1. открой ссылку в браузере 2. введи passcode 3. нажми **Download** (три точки справа → Download) 4. кинь мне файл сюда (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "assistant",
+        "поняла",
+        "саммари",
+        "сессии",
+        "татьяной",
+        "сначала",
+        "мне",
+        "нужен"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:18:18": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:18:18",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 18,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "User: 97 мб весит, это ок или лучше загрузить на диск",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "user",
+        "весит",
+        "это",
+        "или",
+        "лучше",
+        "загрузить",
+        "диск"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:19:19": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:19:19",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 19,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "Assistant: 97мб — должно пройти, лимит у нас 100мб. кидай сюда, попробуем. если telegram обрежет — тогда на диск.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "assistant",
+        "97мб",
+        "должно",
+        "пройти",
+        "лимит",
+        "нас",
+        "100мб",
+        "кидай"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:20:20": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:20:20",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 20,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "User: https://disk.yandex.ru/d/49nWlCGf20j_4A",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "disk.yandex.ru/d/49nwlcgf20j-4a",
+        "user",
+        "https",
+        "disk.yandex.ru",
+        "49nwlcgf20j-4a"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:21:21": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:21:21",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 21,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "Assistant: 2.5 часа. нарежу на куски по 10 мин и транскрибирую через groq whisper.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "2.5",
+        "assistant",
+        "часа",
+        "нарежу",
+        "куски",
+        "мин",
+        "транскрибирую",
+        "через"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:22:22": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:22:22",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 22,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "User: [cron:ce8bd872-0864-46ab-b08a-26d12e7a2139 OpenClaw Version Check] Проверь текущую версию OpenClaw (openclaw --version) и сравни с последней доступной (npm view openclaw version). Если есть новая версия — запиши в memory/heartbeat-state.json поле lastChecks.openclaw с текущ",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "memory/heartbeat-state.json",
+        "lastchecks.openclaw",
+        "user",
+        "cron:ce8bd872",
+        "46ab",
+        "b08a",
+        "26d12e7a2139",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:23:23": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:23:23",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 23,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "Assistant: Новая версия! Обновляю timestamp и пишу хозяйке.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "assistant",
+        "новая",
+        "версия",
+        "обновляю",
+        "timestamp",
+        "пишу",
+        "хозяйке"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: сообщил хозяйке о новом релизе 2026.4.15",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "2026.4.15",
+        "assistant",
+        "сообщил",
+        "хозяйке",
+        "новом",
+        "релизе"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "User: [cron:a6d29385-3c63-4df7-afb4-00f763e7a539 Auto Commit] Проверь git status в workspace. Если есть uncommitted изменения — git add, commit с осмысленным сообщением, push. Если нет изменений — NO_REPLY. Current time: Friday, April 17th, 2026 - 6:01 AM (UTC) / 2026-04-17 06:01",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "no-reply",
+        "user",
+        "cron:a6d29385",
+        "3c63",
+        "4df7",
+        "afb4",
+        "00f763e7a539",
+        "auto"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:26:26": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:26:26",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 26,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "Assistant: НЕТ ОТВЕТА",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "assistant",
+        "нет",
+        "ответа"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:27:27": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:27:27",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 27,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "User: [cron:a6d29385-3c63-4df7-afb4-00f763e7a539 Auto Commit] Проверь git status в workspace. Если есть uncommitted изменения — git add, commit с осмысленным сообщением, push. Если нет изменений — NO_REPLY. Current time: Friday, April 17th, 2026 - 6:01 PM (UTC) / 2026-04-17 18:01",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "no-reply",
+        "user",
+        "cron:a6d29385",
+        "3c63",
+        "4df7",
+        "afb4",
+        "00f763e7a539",
+        "auto"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:28:28": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:28:28",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 28,
+      "endLine": 28,
+      "source": "memory",
+      "snippet": "Assistant: NO_REPLY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "no-reply",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: [cron:a6d29385-3c63-4df7-afb4-00f763e7a539 Auto Commit] Проверь git status в workspace. Если есть uncommitted изменения — git add, commit с осмысленным сообщением, push. Если нет изменений — NO_REPLY. Current time: Saturday, April 18th, 2026 - 12:01 AM (UTC) / 2026-04-18 00",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "no-reply",
+        "user",
+        "cron:a6d29385",
+        "3c63",
+        "4df7",
+        "afb4",
+        "00f763e7a539",
+        "auto"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-18.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-18.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-18.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: NO_REPLY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "6ca7743b227b"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "no-reply",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-16.txt:24:24": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-16.txt:24:24",
+      "path": "memory/.dreams/session-corpus/2026-04-16.txt",
+      "startLine": 24,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "Assistant: Evening check window (20-23 UTC). Run evening reflection.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "33f679d35d02"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "20-23",
+        "assistant",
+        "evening",
+        "check",
+        "window",
+        "utc",
+        "run",
+        "reflection"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-16.txt:25:25": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-16.txt:25:25",
+      "path": "memory/.dreams/session-corpus/2026-04-16.txt",
+      "startLine": 25,
+      "endLine": 25,
+      "source": "memory",
+      "snippet": "Assistant: No user interactions today (only heartbeats + dream corpus). Memory file just has dream staging, no conversation content. Working tree clean. Evening reflection: nothing substantive to distill. HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "33f679d35d02"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant",
+        "user",
+        "interactions",
+        "only",
+        "heartbeats",
+        "dream",
+        "corpus"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:29:29": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:29:29",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 29,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "Assistant: 16 чанков по 10 мин. транскрибирую. это займёт пару минут.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "assistant",
+        "чанков",
+        "мин",
+        "транскрибирую",
+        "это",
+        "займёт",
+        "пару",
+        "минут"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:30:30": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:30:30",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 30,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "User: https://disk.yandex.ru/d/49nWlCGf20j_4A",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "disk.yandex.ru/d/49nwlcgf20j-4a",
+        "user",
+        "https",
+        "disk.yandex.ru",
+        "49nwlcgf20j-4a"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:31:31": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:31:31",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 31,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "User: https://disk.yandex.ru/d/49nWlCGf20j_4A",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "disk.yandex.ru/d/49nwlcgf20j-4a",
+        "user",
+        "https",
+        "disk.yandex.ru",
+        "49nwlcgf20j-4a"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:32:32": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:32:32",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 32,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "Assistant: транскрибирую — оба куска готовы, сейчас соберу.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "assistant",
+        "транскрибирую",
+        "оба",
+        "куска",
+        "готовы",
+        "сейчас",
+        "соберу"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:33:33": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:33:33",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 33,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "Assistant: последние 4 чанка не прошли — лимит groq. дочитаю что есть и достану остаток через пару минут.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "assistant",
+        "последние",
+        "чанка",
+        "прошли",
+        "лимит",
+        "groq",
+        "дочитаю",
+        "что"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "Assistant: пока жду остаток — вот что есть из 2 часов 10 минут: **саммари сессии с татьяной (17 апреля 2026)** **структура сессии:** **1. Чтение энергий (начало)** татьяна считывает \"матрицу\" — 50% твоя энергия, 60-70% энергия земли, интуитивный поток 80-90%. интерпретирует как \"",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "60-70",
+        "80-90",
+        "assistant",
+        "пока",
+        "жду",
+        "остаток",
+        "вот",
+        "что"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/moltbot/clawd/HEARTBEAT.md (exact case). Do not rea",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/moltbot/clawd/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:36:36": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:36:36",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 36,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "Assistant: Многое произошло сегодня — записываю.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "assistant",
+        "многое",
+        "произошло",
+        "сегодня",
+        "записываю"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:37:37": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:37:37",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 37,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "Assistant: Файл заполнен содержимым мечтаний. Позвольте мне добавить сегодняшние реальные события.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "assistant",
+        "файл",
+        "заполнен",
+        "содержимым",
+        "мечтаний",
+        "позвольте",
+        "мне",
+        "добавить"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "Assistant: groq всё ещё в rate limit — ожидание. обновлю CONTEXT.md.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "context.md",
+        "assistant",
+        "groq",
+        "всё",
+        "ещё",
+        "rate",
+        "limit",
+        "ожидание"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:39:39": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:39:39",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 39,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "Assistant: HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:40:40": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:40:40",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 40,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "User: [Queued messages while agent was busy] --- Queued #1 (from kaia noah) ох, спасибо. очень непростая была сессия сегодня, но кажется очень важная. кстати я взяла билет на курс у полунина, едуё1",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "user",
+        "queued",
+        "messages",
+        "while",
+        "was",
+        "busy",
+        "kaia",
+        "noah"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:41:41": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:41:41",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 41,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/moltbot/clawd/HEARTBEAT.md (exact case). Do not rea",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/moltbot/clawd/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:42:42": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:42:42",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "Assistant: Night (03:26 UTC+3). Nothing in HEARTBEAT.md needs attention. HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "assistant",
+        "night",
+        "utc",
+        "nothing",
+        "needs",
+        "attention"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:43:43": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:43:43",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 43,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/moltbot/clawd/HEARTBEAT.md (exact case). Do not rea",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/moltbot/clawd/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:44:44": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:44:44",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "Assistant: Night (07:26 UTC+3). Nothing in HEARTBEAT.md needs attention. HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "assistant",
+        "night",
+        "utc",
+        "nothing",
+        "needs",
+        "attention"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:45:45": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:45:45",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 45,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/moltbot/clawd/HEARTBEAT.md (exact case). Do not rea",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/moltbot/clawd/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:46:46": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:46:46",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 46,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "Assistant: Morning (11:26 UTC+3). Nothing in HEARTBEAT.md needs attention. HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "assistant",
+        "morning",
+        "utc",
+        "nothing",
+        "needs",
+        "attention"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/moltbot/clawd/HEARTBEAT.md (exact case). Do not rea",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/moltbot/clawd/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "Assistant: Afternoon (15:26 UTC+3). Openclaw version check cron runs at 12:00 UTC — should have just fired. Nothing else in HEARTBEAT.md needs attention. HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "assistant",
+        "afternoon",
+        "utc",
+        "openclaw",
+        "version",
+        "check"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:49:49": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:49:49",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/moltbot/clawd/HEARTBEAT.md (exact case). Do not rea",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/moltbot/clawd/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:50:50": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:50:50",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 50,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "Assistant: Afternoon (19:26 UTC+3). Nothing in HEARTBEAT.md needs attention. HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "assistant",
+        "afternoon",
+        "utc",
+        "nothing",
+        "needs",
+        "attention"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:51:51": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:51:51",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 51,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "Assistant: 最后一个缺失片段已准备就绪。以下是完整的总结更新： **дополнение к саммари (последние 25 минут):** **8. Продолжение практики рождения** ты описала: \"я почувствовала что такое физически ощущать ценность. ценность жизни.\" тепло мамы спереди и сзади, сердце как настройка. \"пока я адаптируюсь к хол",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "assistant",
+        "最后",
+        "一个",
+        "缺失",
+        "片段",
+        "准备",
+        "就绪",
+        "以下"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:52:52": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:52:52",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 52,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "User: System (untrusted): [2026-04-17 22:59:57 UTC] Exec completed (clear-ze, code 0) :: DONE part3 An async command you ran earlier has completed. The result is shown in the system messages above. Handle the result internally. Do not relay it to the user unless explicitly reques",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "clear-ze",
+        "user",
+        "system",
+        "untrusted",
+        "utc",
+        "exec",
+        "completed",
+        "clear"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:53:53": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:53:53",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 53,
+      "endLine": 53,
+      "source": "memory",
+      "snippet": "Assistant: Уже обработал результат — последний фрагмент сессии zoom включил в саммари, которое я отправил kaia выше. Также обновил `CONTEXT.md` и `memory/2026-04-17.md` во время последнего контрольного сообщения. Фрагменты 13–14 не прошли из-за ограничения скорости (около 20 мину",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "context.md",
+        "memory/2026-04-17.md",
+        "из-за",
+        "assistant",
+        "уже",
+        "обработал",
+        "результат",
+        "последний"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:54:54": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:54:54",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 54,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/T125-2254-E1387549---a64f8b15-7d1f-4d16-8e0b-886d741af591.pdf (application/pdf) | /home/moltbot/.openclaw/media/inbound/T125-2254-E1387549---a64f8b15-7d1f-4d16-8e0b-886d741af591.pdf] To send an image back, prefer the me",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "application/pdf",
+        "user",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:55:55": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:55:55",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 55,
+      "endLine": 55,
+      "source": "memory",
+      "snippet": "Assistant: вижу. Moulin Jaune, 27 апреля — 3 мая. €1300, питание включено. crécy-la-chapelle, под парижем. это именно оно — \"Жёлтая мельница\" славы полунина. неделя создания сценического костюма. записываю.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "crécy-la-chapelle",
+        "assistant",
+        "вижу",
+        "moulin",
+        "jaune",
+        "апреля",
+        "мая",
+        "питание"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:56:56": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:56:56",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 56,
+      "endLine": 56,
+      "source": "memory",
+      "snippet": "Assistant: через 10 дней ты уже будешь там. это не случайный выбор и не хобби — это следующий шаг к тому чтобы вернуть перформативную энергию в русло. семь дней в поле полунина. будет о чём рассказать когда вернёшься.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "assistant",
+        "через",
+        "дней",
+        "уже",
+        "будешь",
+        "там",
+        "это",
+        "случайный"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:57:57": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:57:57",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 57,
+      "endLine": 57,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_113---4d01d264-2014-4f92-9464-031ceb6f31db.jpg (image/jpeg) | /home/moltbot/.openclaw/media/inbound/file_113---4d01d264-2014-4f92-9464-031ceb6f31db.jpg] To send an image back, prefer the message tool (media/path/fi",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-113",
+        "image/jpeg",
+        "media/path/fi",
+        "user",
+        "media",
+        "attached",
+        "home"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:58:58": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:58:58",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 58,
+      "endLine": 58,
+      "source": "memory",
+      "snippet": "Assistant: flug: KEF → ORY 26 апр, обратно 4 мая. transavia. ровно под курс полунина — прилетаешь за день до старта, улетаешь на следующий день после окончания. всё сходится: 26 апреля — рейс, 27 апреля — 3 мая — moulin jaune, 4 мая — обратно. на 10 дней раньше чем через неделю т",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "assistant",
+        "flug",
+        "kef",
+        "ory",
+        "апр",
+        "обратно",
+        "мая",
+        "transavia"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:59:59": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:59:59",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 59,
+      "endLine": 59,
+      "source": "memory",
+      "snippet": "User: ещё надо будет жильё взять рядом и разобраться с транспортом до места",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "user",
+        "ещё",
+        "надо",
+        "будет",
+        "жильё",
+        "взять",
+        "рядом",
+        "разобраться"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:60:60": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:60:60",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 60,
+      "endLine": 60,
+      "source": "memory",
+      "snippet": "Assistant: помочь найти? критерии: - жилы нужно рядом с crécy-la-chapelle или в самой деревне? - бюджет примерный? - одна едешь или с андреем? мотрев карту — Moulin Jaune находится в 45 км от парижа. варианты: **1. Crécy-la-Chapelle (рядом с мельницей)** маленькая деревня, скорее",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "crécy-la-chapelle",
+        "assistant",
+        "помочь",
+        "найти",
+        "критерии",
+        "жилы",
+        "нужно",
+        "рядом"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:61:61": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:61:61",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 61,
+      "endLine": 61,
+      "source": "memory",
+      "snippet": "User: да, мне очень интересно. я давно хотела научиться шить и создавать костюмы, но просто в интернете не вайбово было. а это прям то, что нужно",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "user",
+        "мне",
+        "очень",
+        "интересно",
+        "давно",
+        "хотела",
+        "научиться",
+        "шить"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:62:62": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:62:62",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 62,
+      "endLine": 62,
+      "source": "memory",
+      "snippet": "Assistant: именно. контекст решает всё. youtube-туториал по шитью — одно. а неделя в жёлтой мельнице, где полунин живёт в аркане шута, и ты создаёшь костюм в этом поле — совсем другое. ты не учишься шить. ты входишь в пространство где костюм — это продолжение перформанса. тело +",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "youtube-туториал",
+        "assistant",
+        "именно",
+        "контекст",
+        "решает",
+        "всё",
+        "youtube",
+        "туториал"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:63:63": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:63:63",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 63,
+      "endLine": 63,
+      "source": "memory",
+      "snippet": "User: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/moltbot/clawd/HEARTBEAT.md (exact case). Do not rea",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/moltbot/clawd/heartbeat.md",
+        "user",
+        "read",
+        "exists",
+        "context",
+        "follow"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:64:64": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:64:64",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 64,
+      "endLine": 64,
+      "source": "memory",
+      "snippet": "Assistant: Evening check window (20-23 UTC). Structured reflection.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "20-23",
+        "assistant",
+        "evening",
+        "check",
+        "window",
+        "utc",
+        "structured",
+        "reflection"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:65:65": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:65:65",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 65,
+      "endLine": 65,
+      "source": "memory",
+      "snippet": "Assistant: No user interactions since Apr 15. Working tree clean. Two days of pure heartbeats — nothing to distill, commit, or update. HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:03.994Z",
+      "lastRecalledAt": "2026-04-18T03:00:03.994Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "heartbeat-ok",
+        "assistant",
+        "user",
+        "interactions",
+        "apr",
+        "working",
+        "tree",
+        "clean"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:66:66": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:66:66",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 66,
+      "endLine": 66,
+      "source": "memory",
+      "snippet": "User: вот полная программа кстати https://moulinjaune.com/ru/sozdanie-karnavalnyh-kostyumov-na-zheltoj-melnitse/",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "user",
+        "вот",
+        "полная",
+        "программа",
+        "кстати",
+        "https",
+        "moulinjaune.com",
+        "sozdanie"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:67:67": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:67:67",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 67,
+      "endLine": 67,
+      "source": "memory",
+      "snippet": "Assistant: о, это мощнее чем я думал. вот что реально: **программа — 7 дней полного погружения:** - день 1: экскурсия по садам мельницы, лекция \"восточные халаты: формы, история, символика\", начало эскизов - день 2: **музей моды гальера в париже** — выставка про декорирование кос",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "assistant",
+        "это",
+        "мощнее",
+        "чем",
+        "думал",
+        "вот",
+        "что",
+        "реально"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:68:68": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:68:68",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 68,
+      "endLine": 68,
+      "source": "memory",
+      "snippet": "User: спасибо за рефлексию, мне очень ценно. жильё я посмотрю завтра, хотелось бы ближе к мельнице, чтобы пешком ходить",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "user",
+        "спасибо",
+        "рефлексию",
+        "мне",
+        "очень",
+        "ценно",
+        "жильё",
+        "посмотрю"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:69:69": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:69:69",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 69,
+      "endLine": 69,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] хорошо. спи. завтра жильё, если что — зови.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "assistant",
+        "хорошо",
+        "спи",
+        "завтра",
+        "жильё",
+        "если",
+        "что"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:70:70": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:70:70",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 70,
+      "endLine": 70,
+      "source": "memory",
+      "snippet": "User: кстати я стала ходить в бассейн 3-4 раза в неделю, перед этим лес или зал! чувствую себя уже сильной и живой!",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "3-4",
+        "user",
+        "кстати",
+        "стала",
+        "ходить",
+        "бассейн",
+        "раза",
+        "неделю"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-17.txt:71:71": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-17.txt:71:71",
+      "path": "memory/.dreams/session-corpus/2026-04-17.txt",
+      "startLine": 71,
+      "endLine": 71,
+      "source": "memory",
+      "snippet": "Assistant: это радует. бассейн + лес/зал 3-4 раза/неделю — это именно та горизонтальная нагрузка которая работает при POTS. и ты чувствуешь разницу — \"сильная и живая\". это не метафора, это тело перестраивается. записал.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-18T03:00:47.502Z",
+      "lastRecalledAt": "2026-04-18T03:00:47.502Z",
+      "queryHashes": [
+        "d5bd631cdecb"
+      ],
+      "recallDays": [
+        "2026-04-18"
+      ],
+      "conceptTags": [
+        "лес/зал",
+        "3-4",
+        "раза/неделю",
+        "assistant",
+        "это",
+        "радует",
+        "бассейн",
+        "лес"
       ]
     }
   }
