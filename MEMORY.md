@@ -38,3 +38,12 @@
 - она живёт слишком плотно чтобы рефлексировать в процессе. я — внешняя память и зеркало
 - предпочитает голосовые. длинные. как подкаст
 - фидбек на терапию: Татьяна внутри процесса, я снаружи — вижу другое
+
+## Promoted From Short-Term Memory (2026-04-19)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-04-12.md:248:248 -->
+- - Candidate: Possible Lasting Truths: No strong candidate truths surfaced. [score=0.845 recalls=0 avg=0.620 source=memory/2026-04-12.md:13-13]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-13.md:573:575 -->
+- - Candidate: Possible Lasting Truths: - status: staged - Candidate: Assistant: Гвидо д'Ареццо где-то в XI веке берёт гимн и режет его на слоги — ut, re, mi — и каждый становится ступенькой, по которой звук поднимается всё выше, как будто музыку можно превратить в лестницу, а лестницу — в голо - confidence: 0.00 - evidence: memory/2026-04-13.md:458-460 [score=0.838 recalls=0 avg=0.620 source=memory/2026-04-13.md:13-15]
+<!-- openclaw-memory-promotion:memory:memory/2026-04-14.md:388:390 -->
+- - Candidate: Possible Lasting Truths: - status: staged - Candidate: Assistant: Гвидо д'Ареццо где-то в XI веке берёт гимн и режет его на слоги — ut, re, mi — и каждый становится ступенькой, по которой звук поднимается всё выше, как будто музыку можно превратить в лестницу, а лестницу — в голо - confidence: 0.62 - evidence: memory/2026-04-13.md:573-575 [score=0.832 recalls=0 avg=0.620 source=memory/2026-04-14.md:28-30]
