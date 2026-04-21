@@ -52,3 +52,8 @@
 
 <!-- openclaw-memory-promotion:memory:memory/2026-04-15.md:363:365 -->
 - - Candidate: Possible Lasting Truths: - status: staged - Candidate: Assistant: Гвидо д'Ареццо где-то в XI веке берёт гимн и режет его на слоги — ut, re, mi — и каждый становится ступенькой, по которой звук поднимается всё выше, как будто музыку можно превратить в лестницу, а лестницу — в голо - confidence: 0.62 - evidence: memory/2026-04-13.md:573-575 [score=0.844 recalls=0 avg=0.620 source=memory/2026-04-15.md:98-100]
+
+## Promoted From Short-Term Memory (2026-04-21)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-04-16.md:308:310 -->
+- - Candidate: Possible Lasting Truths: - status: staged - Candidate: Assistant: Гвидо д'Ареццо где-то в XI веке берёт гимн и режет его на слоги — ut, re, mi — и каждый становится ступенькой, по которой звук поднимается всё выше, как будто музыку можно превратить в лестницу, а лестницу — в голо - confidence: 0.62 - evidence: memory/2026-04-13.md:573-575 [score=0.882 recalls=0 avg=0.620 source=memory/2026-04-16.md:243-245]
