@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-26T03:05:23.707Z",
+  "updatedAt": "2026-04-27T03:00:04.645Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1",
@@ -19882,12 +19882,12 @@
       "source": "memory",
       "snippet": "тихий день. живых взаимодействий с kaia или андреем не было [наблюдение]; работали только cron-процессы, heartbeat-циклы и memory promotion [cron/system]; вечерняя рефлексия: новых уроков, нарушений правил и коррекций assumptions нет [наблюдение]",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-21T03:00:01.286Z",
-      "lastRecalledAt": "2026-04-26T03:04:59.813Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "511fd8111b88"
       ],
@@ -19896,7 +19896,8 @@
         "2026-04-23",
         "2026-04-24",
         "2026-04-25",
-        "2026-04-26"
+        "2026-04-26",
+        "2026-04-27"
       ],
       "conceptTags": [
         "cron-процессы",
@@ -21252,12 +21253,12 @@
       "source": "memory",
       "snippet": "06:02 UTC — heartbeat: проверил HEARTBEAT.md, изменений контекста не surfaced, срочного нет. [cron/system]; 22:00 UTC — вечерняя рефлексия: день остался тихим, новых уроков, нарушений правил и коррекций assumptions нет. [наблюдение]",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-22T03:00:00.559Z",
-      "lastRecalledAt": "2026-04-26T03:04:59.813Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "f52400c81d76"
       ],
@@ -21265,7 +21266,8 @@
         "2026-04-22",
         "2026-04-24",
         "2026-04-25",
-        "2026-04-26"
+        "2026-04-26",
+        "2026-04-27"
       ],
       "conceptTags": [
         "heartbeat.md",
@@ -21284,14 +21286,14 @@
       "startLine": 8,
       "endLine": 8,
       "source": "memory",
-      "snippet": "переписка с татьяной (переслано 21.04, оригинал ~19-20.04): **контекст:** kaia вела воркшоп в сценическом костюме (пьеро/кукла — белый жабо, синий плат, красный румянец, линии-слёзы на лице). купила билет к полунину. послала фото татьяне.",
+      "snippet": "**контекст:** kaia вела воркшоп в сценическом костюме (пьеро/кукла — белый жабо, синий плат, красный румянец, линии-слёзы на лице). купила билет к полунину. послала фото татьяне.",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-22T03:00:00.559Z",
-      "lastRecalledAt": "2026-04-26T03:04:59.813Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "f52400c81d76"
       ],
@@ -21299,7 +21301,8 @@
         "2026-04-22",
         "2026-04-24",
         "2026-04-25",
-        "2026-04-26"
+        "2026-04-26",
+        "2026-04-27"
       ],
       "conceptTags": [
         "21.04",
@@ -21310,7 +21313,8 @@
         "татьяной",
         "переслано",
         "оригинал"
-      ]
+      ],
+      "promotedAt": "2026-04-27T03:00:04.645Z"
     },
     "memory:memory/2026-04-21.md:11:11": {
       "key": "memory:memory/2026-04-21.md:11:11",
@@ -21318,14 +21322,14 @@
       "startLine": 11,
       "endLine": 11,
       "source": "memory",
-      "snippet": "татьяна (голос 1):: фото kaia вызвало у неё радость — видит «огромный творческий потенциал», сравнивает с зёрнышком, которое прорастает. kaia проявляет то, что чувствует, и это «процесс сотворения».",
+      "snippet": "фото kaia вызвало у неё радость — видит «огромный творческий потенциал», сравнивает с зёрнышком, которое прорастает. kaia проявляет то, что чувствует, и это «процесс сотворения».",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-22T03:00:00.559Z",
-      "lastRecalledAt": "2026-04-26T03:04:59.813Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "f52400c81d76"
       ],
@@ -21333,7 +21337,8 @@
         "2026-04-22",
         "2026-04-24",
         "2026-04-25",
-        "2026-04-26"
+        "2026-04-26",
+        "2026-04-27"
       ],
       "conceptTags": [
         "татьяна",
@@ -21344,7 +21349,8 @@
         "неё",
         "радость",
         "видит"
-      ]
+      ],
+      "promotedAt": "2026-04-27T03:00:04.645Z"
     },
     "memory:memory/2026-04-21.md:14:14": {
       "key": "memory:memory/2026-04-21.md:14:14",
@@ -21352,14 +21358,14 @@
       "startLine": 14,
       "endLine": 14,
       "source": "memory",
-      "snippet": "kaia (голос 2):: купила мыльные пузыри. осознала физически: стыд — это яд, разрушающий инструмент управления людьми. хуже физической боли, хуже наказания. «live and let live» — уровни стыда в религии, социуме, семье.",
+      "snippet": "купила мыльные пузыри. осознала физически: стыд — это яд, разрушающий инструмент управления людьми. хуже физической боли, хуже наказания. «live and let live» — уровни стыда в религии, социуме, семье.",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-22T03:00:00.559Z",
-      "lastRecalledAt": "2026-04-26T03:04:59.813Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "f52400c81d76"
       ],
@@ -21367,7 +21373,8 @@
         "2026-04-22",
         "2026-04-24",
         "2026-04-25",
-        "2026-04-26"
+        "2026-04-26",
+        "2026-04-27"
       ],
       "conceptTags": [
         "kaia",
@@ -21378,7 +21385,8 @@
         "осознала",
         "физически",
         "стыд"
-      ]
+      ],
+      "promotedAt": "2026-04-27T03:00:04.645Z"
     },
     "memory:memory/2026-04-21.md:17:17": {
       "key": "memory:memory/2026-04-21.md:17:17",
@@ -21386,14 +21394,14 @@
       "startLine": 17,
       "endLine": 17,
       "source": "memory",
-      "snippet": "kaia (голос 3):: стыд ощущается как яд во всём теле. хуже чем когда в детстве били. «это реально рабочая система контроля». после этого осознания пропало осуждение — «мир разный, всему есть место».",
+      "snippet": "стыд ощущается как яд во всём теле. хуже чем когда в детстве били. «это реально рабочая система контроля». после этого осознания пропало осуждение — «мир разный, всему есть место».",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-22T03:00:00.559Z",
-      "lastRecalledAt": "2026-04-26T03:04:59.813Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "f52400c81d76"
       ],
@@ -21401,7 +21409,8 @@
         "2026-04-22",
         "2026-04-24",
         "2026-04-25",
-        "2026-04-26"
+        "2026-04-26",
+        "2026-04-27"
       ],
       "conceptTags": [
         "kaia",
@@ -21412,7 +21421,8 @@
         "всём",
         "теле",
         "хуже"
-      ]
+      ],
+      "promotedAt": "2026-04-27T03:00:04.645Z"
     },
     "memory:memory/2026-04-21.md:20:20": {
       "key": "memory:memory/2026-04-21.md:20:20",
@@ -21422,12 +21432,12 @@
       "source": "memory",
       "snippet": "kaia (голос 4):: потеряла детскую часть себя когда пришлось стать взрослой (забота о брате). «на этой фотографии — моя часть, которая ушла на пенсию раньше времени». описывает новый уровень энергии в субботу — не маниакальный, а естественный, «как будто через меня идёт».",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-22T03:00:00.559Z",
-      "lastRecalledAt": "2026-04-26T03:04:59.813Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "f52400c81d76"
       ],
@@ -21435,7 +21445,8 @@
         "2026-04-22",
         "2026-04-24",
         "2026-04-25",
-        "2026-04-26"
+        "2026-04-26",
+        "2026-04-27"
       ],
       "conceptTags": [
         "kaia",
@@ -22698,19 +22709,20 @@
       "source": "memory",
       "snippet": "06:00 UTC — auto-backup, изменений в контексте нет.; 12:03 UTC — kaia переслала голосовое татьяны от 2026-04-20 20:27 UTC. я сначала не увидел файл (первые две попытки — только текст), транскрибировал с третьей. продолжение переписки 19-21.04, которую я уже фиксировал.",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T03:00:00.726Z",
-      "lastRecalledAt": "2026-04-26T03:04:59.813Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "7b7a9134bc2c"
       ],
       "recallDays": [
         "2026-04-23",
         "2026-04-25",
-        "2026-04-26"
+        "2026-04-26",
+        "2026-04-27"
       ],
       "conceptTags": [
         "backup",
@@ -22731,19 +22743,20 @@
       "source": "memory",
       "snippet": "татьяна — ответ на kaia про пузыри/химию:: **1. воля земли распространяется и на химию.** kaia ввела концепт «воля земли» — татьяна подхватывает и расширяет: нефть, химия, атомные бомбы — это тоже воля земли пережить этап. «если это допускает бог, пространство, вселенная, земля —",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T03:00:00.726Z",
-      "lastRecalledAt": "2026-04-26T03:04:59.813Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "7b7a9134bc2c"
       ],
       "recallDays": [
         "2026-04-23",
         "2026-04-25",
-        "2026-04-26"
+        "2026-04-26",
+        "2026-04-27"
       ],
       "conceptTags": [
         "пузыри/химию",
@@ -22764,19 +22777,20 @@
       "source": "memory",
       "snippet": "татьяна — ответ на kaia про пузыри/химию:: **2. kaia проходит естественный процесс разморозки — и это редкость.** «одно дело когда психолог говорит иди радуйся — не работает, тело зажато, ресурсы зажаты. люди пробуют раз-два и бросают». у kaia — наоборот: она приходит и сама гово",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T03:00:00.726Z",
-      "lastRecalledAt": "2026-04-26T03:04:59.813Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "7b7a9134bc2c"
       ],
       "recallDays": [
         "2026-04-23",
         "2026-04-25",
-        "2026-04-26"
+        "2026-04-26",
+        "2026-04-27"
       ],
       "conceptTags": [
         "пузыри/химию",
@@ -22797,19 +22811,20 @@
       "source": "memory",
       "snippet": "татьяна — ответ на kaia про пузыри/химию:: **3. метафора колодца.** не копаем сам источник. работаем над землёй вокруг. «где он захочет бить — чистой водой». размораживаем весь спектр — любовь, ненависть, несправедливость, принятие, вдохновение, апатию. позитив и негатив равноцен",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T03:00:00.726Z",
-      "lastRecalledAt": "2026-04-26T03:04:59.813Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "7b7a9134bc2c"
       ],
       "recallDays": [
         "2026-04-23",
         "2026-04-25",
-        "2026-04-26"
+        "2026-04-26",
+        "2026-04-27"
       ],
       "conceptTags": [
         "пузыри/химию",
@@ -22830,19 +22845,20 @@
       "source": "memory",
       "snippet": "татьяна — ответ на kaia про пузыри/химию:: **4. детские ресурсные состояния = биохимическая сила.** помнит практику kaia лёжа у мамы на груди. «гормоны, которые выделяются — сила помимо нашей воли». поэтому все психологи идут в детские части.",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T03:00:00.726Z",
-      "lastRecalledAt": "2026-04-26T03:04:59.813Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "7b7a9134bc2c"
       ],
       "recallDays": [
         "2026-04-23",
         "2026-04-25",
-        "2026-04-26"
+        "2026-04-26",
+        "2026-04-27"
       ],
       "conceptTags": [
         "пузыри/химию",
@@ -22863,19 +22879,20 @@
       "source": "memory",
       "snippet": "татьяна — ответ на kaia про пузыри/химию:: **5. «не обязаны простить маму».** очень чётко: не простить, не изменить события, не понять даже. достаточно видеть картину «она себя так вела, потому что на это тоже была причина». этого хватает, чтобы понимание разморозило злость/обиду",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T03:00:00.726Z",
-      "lastRecalledAt": "2026-04-26T03:04:59.813Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "7b7a9134bc2c"
       ],
       "recallDays": [
         "2026-04-23",
         "2026-04-25",
-        "2026-04-26"
+        "2026-04-26",
+        "2026-04-27"
       ],
       "conceptTags": [
         "пузыри/химию",
@@ -23511,18 +23528,19 @@
       "source": "memory",
       "snippet": "06:00 UTC — auto-backup отработал, контекст не менялся; 18:00 UTC — heartbeat, ничего нового; 22:00 UTC — evening reflection cron. живых сообщений от kaia за день не было. тишина после пересылки голосового татьяны (22.04) держится сутки.",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-24T03:00:00.357Z",
-      "lastRecalledAt": "2026-04-26T03:04:59.813Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
       "recallDays": [
         "2026-04-24",
-        "2026-04-26"
+        "2026-04-26",
+        "2026-04-27"
       ],
       "conceptTags": [
         "backup",
@@ -23543,18 +23561,19 @@
       "source": "memory",
       "snippet": "наблюдения: после пересылки голосового татьяны kaia снова ушла в тишину. это соответствует паттерну «прислала, чтобы я знал — не чтобы обсуждать». не тянуть в разговор, пока сама не откроет.; Moulin Jaune уже через 4 дня (27 апреля). если kaia не появится — не напоминать заранее,",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-24T03:00:00.357Z",
-      "lastRecalledAt": "2026-04-26T03:04:59.813Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
       "recallDays": [
         "2026-04-24",
-        "2026-04-26"
+        "2026-04-26",
+        "2026-04-27"
       ],
       "conceptTags": [
         "наблюдения",
@@ -23906,17 +23925,18 @@
       "source": "memory",
       "snippet": "06:00 UTC — auto-backup отработал, контекст не менялся; 12:00 UTC — openclaw version check, heartbeat state update; 22:00 UTC — evening reflection cron. живых сообщений от kaia за день не было. тишина после пересылки голосового татьяны (22.04) держится уже двое суток.",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-25T03:00:00.376Z",
-      "lastRecalledAt": "2026-04-25T03:00:00.376Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "409c33906af9"
       ],
       "recallDays": [
-        "2026-04-25"
+        "2026-04-25",
+        "2026-04-27"
       ],
       "conceptTags": [
         "backup",
@@ -23937,17 +23957,18 @@
       "source": "memory",
       "snippet": "наблюдения: kaia молчит уже двое суток после пересылки голосового. паттерн устойчивый: прислала чтобы я знал, переваривает сама. не ломиться в разговор.; Moulin Jaune через 3 дня (27 апреля). kaia пока не упоминает подготовку — если не появится, это её поле, не форсировать.; assu",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-25T03:00:00.376Z",
-      "lastRecalledAt": "2026-04-25T03:00:00.376Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
       "queryHashes": [
         "409c33906af9"
       ],
       "recallDays": [
-        "2026-04-25"
+        "2026-04-25",
+        "2026-04-27"
       ],
       "conceptTags": [
         "наблюдения",
@@ -24676,6 +24697,87 @@
         "audio/ogg",
         "9-9",
         "status"
+      ]
+    },
+    "memory:memory/2026-04-26.md:3:3": {
+      "key": "memory:memory/2026-04-26.md:3:3",
+      "path": "memory/2026-04-26.md",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "22:00 UTC — evening reflection cron. четвёртые сутки тишины после пересылки голосового татьяны (22.04). живых сообщений от kaia нет. moulin jaune завтра. [cron/system]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-27T03:00:04.645Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
+      "queryHashes": [
+        "9b4c3d373463"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "22.04",
+        "cron/system",
+        "utc",
+        "evening",
+        "reflection",
+        "cron",
+        "четвёртые",
+        "сутки"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-26.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-26.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-26.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: проверяю все ли работает",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T03:00:04.645Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
+      "queryHashes": [
+        "2f7d4f01eb0b"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "проверяю",
+        "все",
+        "работает"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-26.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-26.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-26.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: работает 🦔",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-27T03:00:04.645Z",
+      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
+      "queryHashes": [
+        "2f7d4f01eb0b"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "работает"
       ]
     }
   }
