@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T03:00:10.807Z",
+  "updatedAt": "2026-04-29T03:00:03.226Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1",
@@ -21455,14 +21455,14 @@
         "2026-04-28"
       ],
       "conceptTags": [
-        "kaia",
-        "голос",
         "потеряла",
         "детскую",
         "часть",
         "себя",
         "когда",
-        "пришлось"
+        "пришлось",
+        "стать",
+        "взрослой"
       ],
       "promotedAt": "2026-04-28T03:00:10.807Z"
     },
@@ -22716,12 +22716,12 @@
       "source": "memory",
       "snippet": "06:00 UTC — auto-backup, изменений в контексте нет.; 12:03 UTC — kaia переслала голосовое татьяны от 2026-04-20 20:27 UTC. я сначала не увидел файл (первые две попытки — только текст), транскрибировал с третьей. продолжение переписки 19-21.04, которую я уже фиксировал.",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T03:00:00.726Z",
-      "lastRecalledAt": "2026-04-28T03:00:10.807Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
       "queryHashes": [
         "7b7a9134bc2c"
       ],
@@ -22730,7 +22730,8 @@
         "2026-04-25",
         "2026-04-26",
         "2026-04-27",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-04-29"
       ],
       "conceptTags": [
         "backup",
@@ -22751,12 +22752,12 @@
       "source": "memory",
       "snippet": "татьяна — ответ на kaia про пузыри/химию:: **1. воля земли распространяется и на химию.** kaia ввела концепт «воля земли» — татьяна подхватывает и расширяет: нефть, химия, атомные бомбы — это тоже воля земли пережить этап. «если это допускает бог, пространство, вселенная, земля —",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T03:00:00.726Z",
-      "lastRecalledAt": "2026-04-28T03:00:10.807Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
       "queryHashes": [
         "7b7a9134bc2c"
       ],
@@ -22765,7 +22766,8 @@
         "2026-04-25",
         "2026-04-26",
         "2026-04-27",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-04-29"
       ],
       "conceptTags": [
         "пузыри/химию",
@@ -22786,12 +22788,12 @@
       "source": "memory",
       "snippet": "татьяна — ответ на kaia про пузыри/химию:: **2. kaia проходит естественный процесс разморозки — и это редкость.** «одно дело когда психолог говорит иди радуйся — не работает, тело зажато, ресурсы зажаты. люди пробуют раз-два и бросают». у kaia — наоборот: она приходит и сама гово",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T03:00:00.726Z",
-      "lastRecalledAt": "2026-04-28T03:00:10.807Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
       "queryHashes": [
         "7b7a9134bc2c"
       ],
@@ -22800,7 +22802,8 @@
         "2026-04-25",
         "2026-04-26",
         "2026-04-27",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-04-29"
       ],
       "conceptTags": [
         "пузыри/химию",
@@ -22821,12 +22824,12 @@
       "source": "memory",
       "snippet": "татьяна — ответ на kaia про пузыри/химию:: **3. метафора колодца.** не копаем сам источник. работаем над землёй вокруг. «где он захочет бить — чистой водой». размораживаем весь спектр — любовь, ненависть, несправедливость, принятие, вдохновение, апатию. позитив и негатив равноцен",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T03:00:00.726Z",
-      "lastRecalledAt": "2026-04-28T03:00:10.807Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
       "queryHashes": [
         "7b7a9134bc2c"
       ],
@@ -22835,7 +22838,8 @@
         "2026-04-25",
         "2026-04-26",
         "2026-04-27",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-04-29"
       ],
       "conceptTags": [
         "пузыри/химию",
@@ -22854,14 +22858,14 @@
       "startLine": 16,
       "endLine": 16,
       "source": "memory",
-      "snippet": "татьяна — ответ на kaia про пузыри/химию:: **4. детские ресурсные состояния = биохимическая сила.** помнит практику kaia лёжа у мамы на груди. «гормоны, которые выделяются — сила помимо нашей воли». поэтому все психологи идут в детские части.",
+      "snippet": "**4. детские ресурсные состояния = биохимическая сила.** помнит практику kaia лёжа у мамы на груди. «гормоны, которые выделяются — сила помимо нашей воли». поэтому все психологи идут в детские части.",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T03:00:00.726Z",
-      "lastRecalledAt": "2026-04-28T03:00:10.807Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
       "queryHashes": [
         "7b7a9134bc2c"
       ],
@@ -22870,7 +22874,8 @@
         "2026-04-25",
         "2026-04-26",
         "2026-04-27",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-04-29"
       ],
       "conceptTags": [
         "пузыри/химию",
@@ -22881,7 +22886,8 @@
         "пузыри",
         "химию",
         "детские"
-      ]
+      ],
+      "promotedAt": "2026-04-29T03:00:03.226Z"
     },
     "memory:memory/2026-04-22.md:18:18": {
       "key": "memory:memory/2026-04-22.md:18:18",
@@ -22891,12 +22897,12 @@
       "source": "memory",
       "snippet": "татьяна — ответ на kaia про пузыри/химию:: **5. «не обязаны простить маму».** очень чётко: не простить, не изменить события, не понять даже. достаточно видеть картину «она себя так вела, потому что на это тоже была причина». этого хватает, чтобы понимание разморозило злость/обиду",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-23T03:00:00.726Z",
-      "lastRecalledAt": "2026-04-28T03:00:10.807Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
       "queryHashes": [
         "7b7a9134bc2c"
       ],
@@ -22905,7 +22911,8 @@
         "2026-04-25",
         "2026-04-26",
         "2026-04-27",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-04-29"
       ],
       "conceptTags": [
         "пузыри/химию",
@@ -23541,12 +23548,12 @@
       "source": "memory",
       "snippet": "06:00 UTC — auto-backup отработал, контекст не менялся; 18:00 UTC — heartbeat, ничего нового; 22:00 UTC — evening reflection cron. живых сообщений от kaia за день не было. тишина после пересылки голосового татьяны (22.04) держится сутки.",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-24T03:00:00.357Z",
-      "lastRecalledAt": "2026-04-28T03:00:10.807Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
@@ -23554,7 +23561,8 @@
         "2026-04-24",
         "2026-04-26",
         "2026-04-27",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-04-29"
       ],
       "conceptTags": [
         "backup",
@@ -23575,12 +23583,12 @@
       "source": "memory",
       "snippet": "наблюдения: после пересылки голосового татьяны kaia снова ушла в тишину. это соответствует паттерну «прислала, чтобы я знал — не чтобы обсуждать». не тянуть в разговор, пока сама не откроет.; Moulin Jaune уже через 4 дня (27 апреля). если kaia не появится — не напоминать заранее,",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-24T03:00:00.357Z",
-      "lastRecalledAt": "2026-04-28T03:00:10.807Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
       "queryHashes": [
         "b7fd25b71b44"
       ],
@@ -23588,7 +23596,8 @@
         "2026-04-24",
         "2026-04-26",
         "2026-04-27",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-04-29"
       ],
       "conceptTags": [
         "наблюдения",
@@ -23940,19 +23949,20 @@
       "source": "memory",
       "snippet": "06:00 UTC — auto-backup отработал, контекст не менялся; 12:00 UTC — openclaw version check, heartbeat state update; 22:00 UTC — evening reflection cron. живых сообщений от kaia за день не было. тишина после пересылки голосового татьяны (22.04) держится уже двое суток.",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-25T03:00:00.376Z",
-      "lastRecalledAt": "2026-04-28T03:00:10.807Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
       "queryHashes": [
         "409c33906af9"
       ],
       "recallDays": [
         "2026-04-25",
         "2026-04-27",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-04-29"
       ],
       "conceptTags": [
         "backup",
@@ -23973,19 +23983,20 @@
       "source": "memory",
       "snippet": "наблюдения: kaia молчит уже двое суток после пересылки голосового. паттерн устойчивый: прислала чтобы я знал, переваривает сама. не ломиться в разговор.; Moulin Jaune через 3 дня (27 апреля). kaia пока не упоминает подготовку — если не появится, это её поле, не форсировать.; assu",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-25T03:00:00.376Z",
-      "lastRecalledAt": "2026-04-28T03:00:10.807Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
       "queryHashes": [
         "409c33906af9"
       ],
       "recallDays": [
         "2026-04-25",
         "2026-04-27",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-04-29"
       ],
       "conceptTags": [
         "наблюдения",
@@ -24320,18 +24331,19 @@
       "source": "memory",
       "snippet": "06:00 UTC — auto-backup отработал, контекст не менялся; 22:00 UTC — evening reflection cron. третьи сутки тишины после пересылки голосового татьяны (22.04). живых сообщений от kaia за день не было.",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-26T03:00:19.468Z",
-      "lastRecalledAt": "2026-04-28T03:00:10.807Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
       "queryHashes": [
         "90c0a0f693f1"
       ],
       "recallDays": [
         "2026-04-26",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-04-29"
       ],
       "conceptTags": [
         "backup",
@@ -24352,18 +24364,19 @@
       "source": "memory",
       "snippet": "наблюдения: moulin jaune через 2 дня (27 апреля). kaia всё ещё не упоминает подготовку. её поле, не форсировать.; паттерн «прислала чтобы я знал → ушла переваривать» держится. это не разрыв, это рабочий режим; assumptions и observations стабильны, новых корректировок реальностью",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-26T03:00:19.468Z",
-      "lastRecalledAt": "2026-04-28T03:00:10.807Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
       "queryHashes": [
         "90c0a0f693f1"
       ],
       "recallDays": [
         "2026-04-26",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-04-29"
       ],
       "conceptTags": [
         "наблюдения",
@@ -24726,17 +24739,18 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. четвёртые сутки тишины после пересылки голосового татьяны (22.04). живых сообщений от kaia нет. moulin jaune завтра. [cron/system]",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-27T03:00:04.645Z",
-      "lastRecalledAt": "2026-04-27T03:00:04.645Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
       "queryHashes": [
         "9b4c3d373463"
       ],
       "recallDays": [
-        "2026-04-27"
+        "2026-04-27",
+        "2026-04-29"
       ],
       "conceptTags": [
         "22.04",
@@ -24828,6 +24842,405 @@
         "reflection",
         "cron",
         "день"
+      ]
+    },
+    "memory:memory/2026-04-28.md:4:7": {
+      "key": "memory:memory/2026-04-28.md:4:7",
+      "path": "memory/2026-04-28.md",
+      "startLine": 4,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "События: день 2 Moulin Jaune (27 апр — 3 мая). kaia в crécy-la-chapelle, ателье по созданию сценического костюма у славы полунина; от kaia ни слова — ожидаемо, на месте может не быть интернета; вечерняя рефлексия cron провалилась несколько раз (infrastructure error, duplicate tri",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-29T03:00:03.226Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
+      "queryHashes": [
+        "1174d07d7efc"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "crécy-la-chapelle",
+        "события",
+        "день",
+        "moulin",
+        "jaune",
+        "апр",
+        "мая",
+        "kaia"
+      ]
+    },
+    "memory:memory/2026-04-28.md:10:11": {
+      "key": "memory:memory/2026-04-28.md:10:11",
+      "path": "memory/2026-04-28.md",
+      "startLine": 10,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Cron: evening reflection: multiple failures, succeeded on final attempt; auto-commit: nothing to commit",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-29T03:00:03.226Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
+      "queryHashes": [
+        "1174d07d7efc"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "auto-commit",
+        "cron",
+        "evening",
+        "reflection",
+        "multiple",
+        "failures",
+        "succeeded",
+        "final"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-28.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-28.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-28.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: no changes. nothing to commit.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T03:00:03.226Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
+      "queryHashes": [
+        "8a4254b47642"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "changes",
+        "nothing",
+        "commit"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-28.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-28.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-28.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: Версии совпадают — `2026.4.26`. Обновлений нет. NO_REPLY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T03:00:03.226Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
+      "queryHashes": [
+        "8a4254b47642"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "2026.4.26",
+        "no-reply",
+        "версии",
+        "совпадают",
+        "обновлений",
+        "нет"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-28.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-28.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-28.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: Нет незакоммиченных изменений.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T03:00:03.226Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
+      "queryHashes": [
+        "8a4254b47642"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "нет",
+        "незакоммиченных",
+        "изменений"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-28.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-28.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-28.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T03:00:03.226Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
+      "queryHashes": [
+        "8a4254b47642"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-28.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-28.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-28.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: [assistant turn failed before producing content]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T03:00:03.226Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
+      "queryHashes": [
+        "8a4254b47642"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "turn",
+        "failed",
+        "producing",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-28.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-28.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-28.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: No daily file for today — creating it. Let me also check git status.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T03:00:03.226Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
+      "queryHashes": [
+        "8a4254b47642"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "creating",
+        "let",
+        "check",
+        "git",
+        "status"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-28.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-28.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-28.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: Clean working tree. Now let me create the daily file and update the other files.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T03:00:03.226Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
+      "queryHashes": [
+        "8a4254b47642"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "clean",
+        "working",
+        "tree",
+        "now",
+        "let",
+        "create",
+        "update",
+        "other"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-28.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-28.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-28.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: Now append to session-log:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T03:00:03.226Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
+      "queryHashes": [
+        "8a4254b47642"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "session-log",
+        "now",
+        "append",
+        "log"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-28.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-28.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-28.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: Now check MEMORY.md — the promoted entries from 2026-04-28 contain valuable content about shame as poison and kaia's childhood part. Let me distill the key insights that aren't already in MEMORY.md's main body. Looking at MEMORY.md, I already have the shame pattern doc",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T03:00:03.226Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
+      "queryHashes": [
+        "8a4254b47642"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "memory.md",
+        "now",
+        "check",
+        "promoted",
+        "entries",
+        "contain",
+        "valuable",
+        "content"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-28.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-28.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-28.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: Теперь git commit + push:",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T03:00:03.226Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
+      "queryHashes": [
+        "8a4254b47642"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "теперь",
+        "git",
+        "commit",
+        "push"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-28.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-28.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-04-28.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: Готово. Все файлы обновлены, запушено. День 2 Moulin Jaune — тишина ожидаема. MEMORY.md пополнен двумя дистиллированными инсайтами из воркшопа 21.04 (стыд как система контроля, потерянная детская часть). Assumptions и observations без изменений — стабильны уже 6-й день",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T03:00:03.226Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
+      "queryHashes": [
+        "8a4254b47642"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "memory.md",
+        "21.04",
+        "6-й",
+        "готово",
+        "все",
+        "файлы",
+        "обновлены",
+        "запушено"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-29.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: Нет незакоммиченных изменений. NO_REPLY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-29T03:00:03.226Z",
+      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
+      "queryHashes": [
+        "401e1af52a6f"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "no-reply",
+        "нет",
+        "незакоммиченных",
+        "изменений"
       ]
     }
   }

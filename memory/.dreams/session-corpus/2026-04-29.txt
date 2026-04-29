@@ -1,0 +1,1 @@
+[main/sessions/0b769265-e972-473d-960c-c51b0b294c05.jsonl#L8] Assistant: Нет незакоммиченных изменений. NO_REPLY
