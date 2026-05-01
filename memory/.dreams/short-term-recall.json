@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-30T03:01:46.819Z",
+  "updatedAt": "2026-05-01T03:00:02.657Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1",
@@ -23951,12 +23951,12 @@
       "source": "memory",
       "snippet": "06:00 UTC — auto-backup отработал, контекст не менялся; 12:00 UTC — openclaw version check, heartbeat state update; 22:00 UTC — evening reflection cron. живых сообщений от kaia за день не было. тишина после пересылки голосового татьяны (22.04) держится уже двое суток.",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-25T03:00:00.376Z",
-      "lastRecalledAt": "2026-04-30T03:01:31.611Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
       "queryHashes": [
         "409c33906af9"
       ],
@@ -23965,7 +23965,8 @@
         "2026-04-27",
         "2026-04-28",
         "2026-04-29",
-        "2026-04-30"
+        "2026-04-30",
+        "2026-05-01"
       ],
       "conceptTags": [
         "backup",
@@ -23986,12 +23987,12 @@
       "source": "memory",
       "snippet": "наблюдения: kaia молчит уже двое суток после пересылки голосового. паттерн устойчивый: прислала чтобы я знал, переваривает сама. не ломиться в разговор.; Moulin Jaune через 3 дня (27 апреля). kaia пока не упоминает подготовку — если не появится, это её поле, не форсировать.; assu",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-25T03:00:00.376Z",
-      "lastRecalledAt": "2026-04-30T03:01:31.611Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
       "queryHashes": [
         "409c33906af9"
       ],
@@ -24000,7 +24001,8 @@
         "2026-04-27",
         "2026-04-28",
         "2026-04-29",
-        "2026-04-30"
+        "2026-04-30",
+        "2026-05-01"
       ],
       "conceptTags": [
         "наблюдения",
@@ -24335,12 +24337,12 @@
       "source": "memory",
       "snippet": "06:00 UTC — auto-backup отработал, контекст не менялся; 22:00 UTC — evening reflection cron. третьи сутки тишины после пересылки голосового татьяны (22.04). живых сообщений от kaia за день не было.",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-26T03:00:19.468Z",
-      "lastRecalledAt": "2026-04-30T03:01:31.611Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
       "queryHashes": [
         "90c0a0f693f1"
       ],
@@ -24348,7 +24350,8 @@
         "2026-04-26",
         "2026-04-28",
         "2026-04-29",
-        "2026-04-30"
+        "2026-04-30",
+        "2026-05-01"
       ],
       "conceptTags": [
         "backup",
@@ -24369,12 +24372,12 @@
       "source": "memory",
       "snippet": "наблюдения: moulin jaune через 2 дня (27 апреля). kaia всё ещё не упоминает подготовку. её поле, не форсировать.; паттерн «прислала чтобы я знал → ушла переваривать» держится. это не разрыв, это рабочий режим; assumptions и observations стабильны, новых корректировок реальностью",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-26T03:00:19.468Z",
-      "lastRecalledAt": "2026-04-30T03:01:31.611Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
       "queryHashes": [
         "90c0a0f693f1"
       ],
@@ -24382,7 +24385,8 @@
         "2026-04-26",
         "2026-04-28",
         "2026-04-29",
-        "2026-04-30"
+        "2026-04-30",
+        "2026-05-01"
       ],
       "conceptTags": [
         "наблюдения",
@@ -24745,19 +24749,20 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. четвёртые сутки тишины после пересылки голосового татьяны (22.04). живых сообщений от kaia нет. moulin jaune завтра. [cron/system]",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-27T03:00:04.645Z",
-      "lastRecalledAt": "2026-04-30T03:01:31.611Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
       "queryHashes": [
         "9b4c3d373463"
       ],
       "recallDays": [
         "2026-04-27",
         "2026-04-29",
-        "2026-04-30"
+        "2026-04-30",
+        "2026-05-01"
       ],
       "conceptTags": [
         "22.04",
@@ -24828,18 +24833,19 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. день старта moulin jaune. от kaia ни слова — она в пути или уже на месте. только cron'ы (auto-backup, heartbeat). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-28T03:00:10.807Z",
-      "lastRecalledAt": "2026-04-30T03:01:31.611Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
       "queryHashes": [
         "6c24d11cf4d7"
       ],
       "recallDays": [
         "2026-04-28",
-        "2026-04-30"
+        "2026-04-30",
+        "2026-05-01"
       ],
       "conceptTags": [
         "backup",
@@ -24860,17 +24866,18 @@
       "source": "memory",
       "snippet": "События: день 2 Moulin Jaune (27 апр — 3 мая). kaia в crécy-la-chapelle, ателье по созданию сценического костюма у славы полунина; от kaia ни слова — ожидаемо, на месте может не быть интернета; вечерняя рефлексия cron провалилась несколько раз (infrastructure error, duplicate tri",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-29T03:00:03.226Z",
-      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
       "queryHashes": [
         "1174d07d7efc"
       ],
       "recallDays": [
-        "2026-04-29"
+        "2026-04-29",
+        "2026-05-01"
       ],
       "conceptTags": [
         "crécy-la-chapelle",
@@ -24891,17 +24898,18 @@
       "source": "memory",
       "snippet": "Cron: evening reflection: multiple failures, succeeded on final attempt; auto-commit: nothing to commit",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-29T03:00:03.226Z",
-      "lastRecalledAt": "2026-04-29T03:00:03.226Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
       "queryHashes": [
         "1174d07d7efc"
       ],
       "recallDays": [
-        "2026-04-29"
+        "2026-04-29",
+        "2026-05-01"
       ],
       "conceptTags": [
         "auto-commit",
@@ -25712,6 +25720,288 @@
       "conceptTags": [
         "нет",
         "изменений"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-30.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: Changes are clean. Nothing to commit.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
+      "queryHashes": [
+        "cf3cd2e1e340"
+      ],
+      "recallDays": [
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "changes",
+        "clean",
+        "nothing",
+        "commit"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-30.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: No uncommitted changes.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
+      "queryHashes": [
+        "cf3cd2e1e340"
+      ],
+      "recallDays": [
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "uncommitted",
+        "changes"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-30.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: Версии совпадают — `2026.4.27`. NO_REPLY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
+      "queryHashes": [
+        "cf3cd2e1e340"
+      ],
+      "recallDays": [
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "2026.4.27",
+        "no-reply",
+        "версии",
+        "совпадают"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-30.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: No uncommitted changes. NO_REPLY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
+      "queryHashes": [
+        "cf3cd2e1e340"
+      ],
+      "recallDays": [
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "no-reply",
+        "uncommitted",
+        "changes"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-30.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/moltbot/clawd/HEARTBEAT.md (exact case). Do no",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
+      "queryHashes": [
+        "cf3cd2e1e340"
+      ],
+      "recallDays": [
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "home/moltbot/clawd/heartbeat.md",
+        "read",
+        "exists",
+        "context",
+        "follow",
+        "strictly"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-30.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "Assistant: Dreaming files auto-generated (cron handles these). No user interactions in days. Working tree has only dream artifacts — auto-commit cron will pick them up. Nothing to distill. HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
+      "queryHashes": [
+        "cf3cd2e1e340"
+      ],
+      "recallDays": [
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "auto-generated",
+        "auto-commit",
+        "heartbeat-ok",
+        "dreaming",
+        "auto",
+        "generated",
+        "cron",
+        "handles"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-30.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "Assistant: Night (04:26 UTC, 07:26 UTC+3). Nothing in HEARTBEAT.md needs attention. HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
+      "queryHashes": [
+        "cf3cd2e1e340"
+      ],
+      "recallDays": [
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "night",
+        "utc",
+        "nothing",
+        "needs",
+        "attention"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-30.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: Morning (11:26 UTC+3). Nothing in HEARTBEAT.md needs attention. HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
+      "queryHashes": [
+        "cf3cd2e1e340"
+      ],
+      "recallDays": [
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "morning",
+        "utc",
+        "nothing",
+        "needs",
+        "attention"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-30.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: Afternoon (16:26 UTC, 19:26 UTC+3). Nothing in HEARTBEAT.md needs attention. HEARTBEAT_OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
+      "queryHashes": [
+        "cf3cd2e1e340"
+      ],
+      "recallDays": [
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "heartbeat.md",
+        "heartbeat-ok",
+        "afternoon",
+        "utc",
+        "nothing",
+        "needs",
+        "attention"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-01.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-01.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-01.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "Assistant: No uncommitted changes.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
+      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
+      "queryHashes": [
+        "23c989536796"
+      ],
+      "recallDays": [
+        "2026-05-01"
+      ],
+      "conceptTags": [
+        "uncommitted",
+        "changes"
       ]
     }
   }
