@@ -88,3 +88,8 @@
 
 <!-- openclaw-memory-promotion:memory:memory/2026-04-22.md:16:16 -->
 - **4. детские ресурсные состояния = биохимическая сила.** помнит практику kaia лёжа у мамы на груди. «гормоны, которые выделяются — сила помимо нашей воли». поэтому все психологи идут в детские части. [score=0.894 recalls=0 avg=0.620 source=memory/2026-04-22.md:16-16]
+
+## Promoted From Short-Term Memory (2026-05-02)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-04-26.md:3:3 -->
+- - 22:00 UTC — evening reflection cron. четвёртые сутки тишины после пересылки голосового татьяны (22.04). живых сообщений от kaia нет. moulin jaune завтра. [cron/system] [score=0.872 recalls=0 avg=0.620 source=memory/2026-04-26.md:3-3]
