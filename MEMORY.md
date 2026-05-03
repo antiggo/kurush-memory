@@ -93,3 +93,8 @@
 
 <!-- openclaw-memory-promotion:memory:memory/2026-04-26.md:3:3 -->
 - - 22:00 UTC — evening reflection cron. четвёртые сутки тишины после пересылки голосового татьяны (22.04). живых сообщений от kaia нет. moulin jaune завтра. [cron/system] [score=0.872 recalls=0 avg=0.620 source=memory/2026-04-26.md:3-3]
+
+## Promoted From Short-Term Memory (2026-05-03)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-04-27.md:3:3 -->
+- - 22:00 UTC — evening reflection cron. день старта moulin jaune. от kaia ни слова — она в пути или уже на месте. только cron'ы (auto-backup, heartbeat). [cron/system] [score=0.872 recalls=0 avg=0.620 source=memory/2026-04-27.md:3-3]
