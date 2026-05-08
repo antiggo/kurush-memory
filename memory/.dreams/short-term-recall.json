@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-07T03:00:02.574Z",
+  "updatedAt": "2026-05-08T03:00:02.479Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1",
@@ -26039,12 +26039,12 @@
       "source": "memory",
       "snippet": "сессия (основная): kaia переслала 10 сообщений из переписки с татьяной (от 21.04.2026) — фото костюма пьеро + 8 голосовых (kaia) + 1 голосовое (татьяна) + текст татьяны; контекст пересылки: воркшоп в костюме пьеро, билет к полунину, обмен с татьяной; **голосовые НЕ расшифрованы**",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-02T03:00:03.037Z",
-      "lastRecalledAt": "2026-05-07T03:00:02.574Z",
+      "lastRecalledAt": "2026-05-08T03:00:02.479Z",
       "queryHashes": [
         "f16f2797a8f9"
       ],
@@ -26053,7 +26053,8 @@
         "2026-05-04",
         "2026-05-05",
         "2026-05-06",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-08"
       ],
       "conceptTags": [
         "21.04.2026",
@@ -26074,12 +26075,12 @@
       "source": "memory",
       "snippet": "сессия (основная): текст татьяны (переслан kaia): \"ты тут как персонаж, который сам себе выдумал жанр и потом победил в нём. образ очень сильный: детскость без инфантилизма, румянец как боевой знак, и при этом взгляд спокойный, собранный. для воркшопа это вообще точно, не «наряди",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-02T03:00:03.037Z",
-      "lastRecalledAt": "2026-05-07T03:00:02.574Z",
+      "lastRecalledAt": "2026-05-08T03:00:02.479Z",
       "queryHashes": [
         "f16f2797a8f9"
       ],
@@ -26088,7 +26089,8 @@
         "2026-05-04",
         "2026-05-05",
         "2026-05-06",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-08"
       ],
       "conceptTags": [
         "сессия",
@@ -26109,12 +26111,12 @@
       "source": "memory",
       "snippet": "openclaw: обнаружено обновление: 2026.4.29 (текущая 2026.4.27). спросил kaia — обновить? ответа пока нет",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-02T03:00:03.037Z",
-      "lastRecalledAt": "2026-05-07T03:00:02.574Z",
+      "lastRecalledAt": "2026-05-08T03:00:02.479Z",
       "queryHashes": [
         "f16f2797a8f9"
       ],
@@ -26123,7 +26125,8 @@
         "2026-05-04",
         "2026-05-05",
         "2026-05-06",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-08"
       ],
       "conceptTags": [
         "2026.4.29",
@@ -26144,12 +26147,12 @@
       "source": "memory",
       "snippet": "заметки: moulin jaune должен был закончиться ~3 мая. сегодня 1 мая — kaia, возможно, ещё там или уже вернулась; голосовые от 21 апреля ждут расшифровки — это задолженность; татьяна видит в костюме \"детскость без инфантилизма\" + \"задала поле\" — это перекликается с MEMORY.md про пе",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-02T03:00:03.037Z",
-      "lastRecalledAt": "2026-05-07T03:00:02.574Z",
+      "lastRecalledAt": "2026-05-08T03:00:02.479Z",
       "queryHashes": [
         "f16f2797a8f9"
       ],
@@ -26158,7 +26161,8 @@
         "2026-05-04",
         "2026-05-05",
         "2026-05-06",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-08"
       ],
       "conceptTags": [
         "memory.md",
@@ -26711,19 +26715,20 @@
       "source": "memory",
       "snippet": "cron: 22:00 UTC — evening reflection cron. сегодня официальный последний день Moulin Jaune (27 апр — 3 мая). от kaia ни слова за сегодня — вероятно в дороге или восстанавливается после недели. [cron/system]",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-04T03:00:01.623Z",
-      "lastRecalledAt": "2026-05-07T03:00:02.574Z",
+      "lastRecalledAt": "2026-05-08T03:00:02.479Z",
       "queryHashes": [
         "c2bf0c07fdd1"
       ],
       "recallDays": [
         "2026-05-04",
         "2026-05-06",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-08"
       ],
       "conceptTags": [
         "cron/system",
@@ -26744,19 +26749,20 @@
       "source": "memory",
       "snippet": "статус задолженностей: голосовые от 21.04 (8 штук) — ждут расшифровки. groq транскрипция не работает (плагин выключен/ключ не найден). kaia сказала \"не тороплюсь\" [2026-05-01]; openclaw обновление 2026.4.29 — ждёт ответа kaia. спрошено 1 мая, ответа нет [2026-05-01]",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-04T03:00:01.623Z",
-      "lastRecalledAt": "2026-05-07T03:00:02.574Z",
+      "lastRecalledAt": "2026-05-08T03:00:02.479Z",
       "queryHashes": [
         "c2bf0c07fdd1"
       ],
       "recallDays": [
         "2026-05-04",
         "2026-05-06",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-08"
       ],
       "conceptTags": [
         "21.04",
@@ -27136,18 +27142,19 @@
       "source": "memory",
       "snippet": "Первый день после возвращения kaia с Moulin Jaune (27 апр — 3 мая). Тишина — вероятно, восстанавливается после недели интенсивной работы.",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-05T03:00:02.566Z",
-      "lastRecalledAt": "2026-05-07T03:00:02.574Z",
+      "lastRecalledAt": "2026-05-08T03:00:02.479Z",
       "queryHashes": [
         "ad6c7e6ef235"
       ],
       "recallDays": [
         "2026-05-05",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-08"
       ],
       "conceptTags": [
         "первый",
@@ -27168,18 +27175,19 @@
       "source": "memory",
       "snippet": "Только cron-процессы: auto-backup 06:00, evening reflection 22:00. Живых сообщений от kaia и андрея — ноль.",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-05T03:00:02.566Z",
-      "lastRecalledAt": "2026-05-07T03:00:02.574Z",
+      "lastRecalledAt": "2026-05-08T03:00:02.479Z",
       "queryHashes": [
         "ad6c7e6ef235"
       ],
       "recallDays": [
         "2026-05-05",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-08"
       ],
       "conceptTags": [
         "backup",
@@ -27200,18 +27208,19 @@
       "source": "memory",
       "snippet": "[cron/system]",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-05T03:00:02.566Z",
-      "lastRecalledAt": "2026-05-07T03:00:02.574Z",
+      "lastRecalledAt": "2026-05-08T03:00:02.479Z",
       "queryHashes": [
         "ad6c7e6ef235"
       ],
       "recallDays": [
         "2026-05-05",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-08"
       ],
       "conceptTags": [
         "cron/system",
@@ -27616,17 +27625,18 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. второй день тишины после Moulin Jaune (вернулась ~3 мая). kaia не пишет — вероятно, восстановление продолжается. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-06T03:00:02.650Z",
-      "lastRecalledAt": "2026-05-06T03:00:02.650Z",
+      "lastRecalledAt": "2026-05-08T03:00:02.479Z",
       "queryHashes": [
         "b3222f2b9fdf"
       ],
       "recallDays": [
-        "2026-05-06"
+        "2026-05-06",
+        "2026-05-08"
       ],
       "conceptTags": [
         "backup",
@@ -27947,6 +27957,37 @@
         "подряд",
         "как",
         "удары"
+      ]
+    },
+    "memory:memory/2026-05-07.md:3:3": {
+      "key": "memory:memory/2026-05-07.md:3:3",
+      "path": "memory/2026-05-07.md",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "22:00 UTC — evening reflection cron. четвёртый день тишины после Moulin Jaune. живых взаимодействий с kaia нет. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-08T03:00:02.479Z",
+      "lastRecalledAt": "2026-05-08T03:00:02.479Z",
+      "queryHashes": [
+        "edcbe8c19953"
+      ],
+      "recallDays": [
+        "2026-05-08"
+      ],
+      "conceptTags": [
+        "backup",
+        "auto-backup",
+        "cron/system",
+        "utc",
+        "evening",
+        "reflection",
+        "cron",
+        "четвёртый"
       ]
     }
   }

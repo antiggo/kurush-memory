@@ -120,6 +120,13 @@
       "lineCount": 0,
       "lastContentLine": 0
     },
+    "main:sessions/25fa7536-08f9-45b3-99f5-d6b56b9f1c7c.jsonl": {
+      "mtimeMs": 1778122868927,
+      "size": 3304,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
     "main:sessions/2a73f8cb-f610-4348-9977-6c884e358c0c.jsonl": {
       "mtimeMs": 1776079640688,
       "size": 9893,
@@ -140,6 +147,13 @@
       "contentHash": "8e76fa9b9ba258230cf6d6b4612d5d344d7cbe70242c25d98f190f23d883942e",
       "lineCount": 43,
       "lastContentLine": 43
+    },
+    "main:sessions/30b8cbf2-6caf-4c58-a65e-0681b41b98f8.jsonl": {
+      "mtimeMs": 1778122894623,
+      "size": 5953,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
     },
     "main:sessions/344067b5-a6ba-4185-afe5-d91a54e920c1.jsonl": {
       "mtimeMs": 1776740455798,
@@ -392,6 +406,20 @@
       "contentHash": "63307f9d19346295639e0ccd1c5bd49789bf7afc7c0cce376e68e00ae47a3959",
       "lineCount": 2,
       "lastContentLine": 2
+    },
+    "main:sessions/788b175e-99b3-4ca8-8908-98447f071959.jsonl": {
+      "mtimeMs": 1778122834490,
+      "size": 136,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
+    "main:sessions/788b175e-99b3-4ca8-8908-98447f071959.jsonl.deleted.2026-05-07T03-00-34.354Z": {
+      "mtimeMs": 1778122834346,
+      "size": 4855,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
     },
     "main:sessions/78994924-7aec-4d4d-b097-e1e02054c8b6.jsonl": {
       "mtimeMs": 1776052873516,
@@ -2064,6 +2092,6 @@
       "9c934cca5c8de928803515933e6573c604e486fd",
       "bcbb055a451c41877342a864c0dca2546eaab181"
     ],
-    "main:a7277a5c-4fd9-4910-8dd5-424232eff014": []
+    "main:788b175e-99b3-4ca8-8908-98447f071959": []
   }
 }
