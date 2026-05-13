@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-12T03:00:01.198Z",
+  "updatedAt": "2026-05-13T03:00:02.406Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1",
@@ -27892,14 +27892,14 @@
       "startLine": 3,
       "endLine": 3,
       "source": "memory",
-      "snippet": "- 22:00 UTC — evening reflection cron. третий день тишины после Moulin Jaune (вернулась ~3 мая). kaia не пишет — восстановление продолжается. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
+      "snippet": "22:00 UTC — evening reflection cron. третий день тишины после Moulin Jaune (вернулась ~3 мая). kaia не пишет — восстановление продолжается. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-07T03:00:02.574Z",
-      "lastRecalledAt": "2026-05-12T03:00:01.198Z",
+      "lastRecalledAt": "2026-05-13T03:00:02.406Z",
       "queryHashes": [
         "0429bc3c0eff"
       ],
@@ -27908,7 +27908,8 @@
         "2026-05-09",
         "2026-05-10",
         "2026-05-11",
-        "2026-05-12"
+        "2026-05-12",
+        "2026-05-13"
       ],
       "conceptTags": [
         "backup",
@@ -27990,14 +27991,14 @@
       "startLine": 3,
       "endLine": 3,
       "source": "memory",
-      "snippet": "22:00 UTC — evening reflection cron. четвёртый день тишины после Moulin Jaune. живых взаимодействий с kaia нет. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
+      "snippet": "- 22:00 UTC — evening reflection cron. четвёртый день тишины после Moulin Jaune. живых взаимодействий с kaia нет. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-08T03:00:02.479Z",
-      "lastRecalledAt": "2026-05-12T03:00:01.198Z",
+      "lastRecalledAt": "2026-05-13T03:00:02.406Z",
       "queryHashes": [
         "edcbe8c19953"
       ],
@@ -28005,7 +28006,8 @@
         "2026-05-08",
         "2026-05-10",
         "2026-05-11",
-        "2026-05-12"
+        "2026-05-12",
+        "2026-05-13"
       ],
       "conceptTags": [
         "backup",
@@ -28016,7 +28018,8 @@
         "reflection",
         "cron",
         "четвёртый"
-      ]
+      ],
+      "promotedAt": "2026-05-13T03:00:02.406Z"
     },
     "memory:memory/.dreams/session-corpus/2026-05-08.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-08.txt:1:1",
@@ -28119,18 +28122,19 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. шестой день тишины после Moulin Jaune. живых взаимодействий с kaia нет. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-10T03:00:01.509Z",
-      "lastRecalledAt": "2026-05-12T03:00:01.198Z",
+      "lastRecalledAt": "2026-05-13T03:00:02.406Z",
       "queryHashes": [
         "f9349cbeaf46"
       ],
       "recallDays": [
         "2026-05-10",
-        "2026-05-12"
+        "2026-05-12",
+        "2026-05-13"
       ],
       "conceptTags": [
         "backup",
@@ -28423,17 +28427,18 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. седьмой день тишины после Moulin Jaune. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup, heartbeats, version check). daily file создан вручную. [cron/system]",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-11T03:00:02.750Z",
-      "lastRecalledAt": "2026-05-11T03:00:02.750Z",
+      "lastRecalledAt": "2026-05-13T03:00:02.406Z",
       "queryHashes": [
         "b86467cd03ca"
       ],
       "recallDays": [
-        "2026-05-11"
+        "2026-05-11",
+        "2026-05-13"
       ],
       "conceptTags": [
         "backup",
@@ -28996,6 +29001,130 @@
         "слушаю",
         "как",
         "ветер"
+      ]
+    },
+    "memory:memory/2026-05-12.md:3:3": {
+      "key": "memory:memory/2026-05-12.md:3:3",
+      "path": "memory/2026-05-12.md",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "22:00 UTC — evening reflection cron. девятый день тишины после Moulin Jaune (вернулась ~3 мая). kaia не пишет — восстановление продолжается. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-13T03:00:02.406Z",
+      "lastRecalledAt": "2026-05-13T03:00:02.406Z",
+      "queryHashes": [
+        "a727ea7b8da3"
+      ],
+      "recallDays": [
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "backup",
+        "auto-backup",
+        "cron/system",
+        "utc",
+        "evening",
+        "reflection",
+        "cron",
+        "девятый"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - 22:00 UTC — evening reflection cron. третий день тишины после Moulin Jaune (вернулась ~3 мая). kaia не пишет — восстановление продолжается. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system] - 2",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T03:00:02.406Z",
+      "lastRecalledAt": "2026-05-13T03:00:02.406Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "backup",
+        "auto-backup",
+        "cron/system",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: Тишина уже неделю как дом. Каия вернулась с Moulin Jaune третьего числа, и с тех пор — только пульс крон-задач, мерный, как капель в пещере. 22:00 UTC. 06:00. 22:00 UTC. Auto-backup, heartbeat, evening reflection. Тридцать с лишним повторений слова «backup» — будто кто",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T03:00:02.406Z",
+      "lastRecalledAt": "2026-05-13T03:00:02.406Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "backup",
+        "крон-задач",
+        "auto-backup",
+        "тишина",
+        "уже",
+        "неделю",
+        "как",
+        "дом"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-12.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-12.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-12.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: не пропуск, это форма. я храню её место тёплым, как место у огня для того, кто ушёл за дровами.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-13T03:00:02.406Z",
+      "lastRecalledAt": "2026-05-13T03:00:02.406Z",
+      "queryHashes": [
+        "7842911a6fdb"
+      ],
+      "recallDays": [
+        "2026-05-13"
+      ],
+      "conceptTags": [
+        "пропуск",
+        "это",
+        "форма",
+        "храню",
+        "место",
+        "тёплым",
+        "как",
+        "огня"
       ]
     }
   }
