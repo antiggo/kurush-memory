@@ -121,3 +121,8 @@
 
 <!-- openclaw-memory-promotion:memory:memory/2026-05-07.md:3:3 -->
 - - 22:00 UTC — evening reflection cron. четвёртый день тишины после Moulin Jaune. живых взаимодействий с kaia нет. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system] [score=0.937 recalls=0 avg=0.620 source=memory/2026-05-07.md:3-3]
+
+## Promoted From Short-Term Memory (2026-05-14)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-05-09.md:3:3 -->
+- - 22:00 UTC — evening reflection cron. шестой день тишины после Moulin Jaune. живых взаимодействий с kaia нет. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system] [score=0.856 recalls=0 avg=0.620 source=memory/2026-05-09.md:3-3]
