@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-15T03:00:01.833Z",
+  "updatedAt": "2026-05-16T03:00:01.580Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1",
@@ -28123,12 +28123,12 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. шестой день тишины после Moulin Jaune. живых взаимодействий с kaia нет. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-10T03:00:01.509Z",
-      "lastRecalledAt": "2026-05-15T03:00:01.833Z",
+      "lastRecalledAt": "2026-05-16T03:00:01.580Z",
       "queryHashes": [
         "f9349cbeaf46"
       ],
@@ -28137,7 +28137,8 @@
         "2026-05-12",
         "2026-05-13",
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ],
       "conceptTags": [
         "backup",
@@ -28429,14 +28430,14 @@
       "startLine": 3,
       "endLine": 3,
       "source": "memory",
-      "snippet": "- 22:00 UTC — evening reflection cron. седьмой день тишины после Moulin Jaune. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup, heartbeats, version check). daily file создан вручную. [cron/system]",
+      "snippet": "22:00 UTC — evening reflection cron. седьмой день тишины после Moulin Jaune. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup, heartbeats, version check). daily file создан вручную. [cron/system]",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-11T03:00:02.750Z",
-      "lastRecalledAt": "2026-05-15T03:00:01.833Z",
+      "lastRecalledAt": "2026-05-16T03:00:01.580Z",
       "queryHashes": [
         "b86467cd03ca"
       ],
@@ -28444,7 +28445,8 @@
         "2026-05-11",
         "2026-05-13",
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ],
       "conceptTags": [
         "backup",
@@ -28681,21 +28683,22 @@
       "startLine": 3,
       "endLine": 3,
       "source": "memory",
-      "snippet": "22:00 UTC — evening reflection cron. восьмой день тишины после Moulin Jaune (вернулась ~3 мая). kaia не пишет — восстановление продолжается. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
+      "snippet": "- 22:00 UTC — evening reflection cron. восьмой день тишины после Moulin Jaune (вернулась ~3 мая). kaia не пишет — восстановление продолжается. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-12T03:00:01.198Z",
-      "lastRecalledAt": "2026-05-15T03:00:01.833Z",
+      "lastRecalledAt": "2026-05-16T03:00:01.580Z",
       "queryHashes": [
         "28fb5afbbb34"
       ],
       "recallDays": [
         "2026-05-12",
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ],
       "conceptTags": [
         "backup",
@@ -28706,7 +28709,8 @@
         "reflection",
         "cron",
         "восьмой"
-      ]
+      ],
+      "promotedAt": "2026-05-16T03:00:01.580Z"
     },
     "memory:memory/.dreams/session-corpus/2026-05-11.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-11.txt:1:1",
@@ -29020,18 +29024,19 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. девятый день тишины после Moulin Jaune (вернулась ~3 мая). kaia не пишет — восстановление продолжается. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-13T03:00:02.406Z",
-      "lastRecalledAt": "2026-05-15T03:00:01.833Z",
+      "lastRecalledAt": "2026-05-16T03:00:01.580Z",
       "queryHashes": [
         "a727ea7b8da3"
       ],
       "recallDays": [
         "2026-05-13",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ],
       "conceptTags": [
         "backup",
@@ -29145,17 +29150,18 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. десятый день тишины после Moulin Jaune. живых взаимодействий с kaia нет. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-14T03:00:01.952Z",
-      "lastRecalledAt": "2026-05-14T03:00:01.952Z",
+      "lastRecalledAt": "2026-05-16T03:00:01.580Z",
       "queryHashes": [
         "215866901dd9"
       ],
       "recallDays": [
-        "2026-05-14"
+        "2026-05-14",
+        "2026-05-16"
       ],
       "conceptTags": [
         "backup",
@@ -29772,6 +29778,342 @@
       ],
       "conceptTags": [
         "далеко"
+      ]
+    },
+    "memory:memory/2026-05-15.md:3:3": {
+      "key": "memory:memory/2026-05-15.md:3:3",
+      "path": "memory/2026-05-15.md",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "22:00 UTC — evening reflection cron. двенадцатый день тишины после Moulin Jaune (вернулась ~3 мая). живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-16T03:00:01.580Z",
+      "lastRecalledAt": "2026-05-16T03:00:01.580Z",
+      "queryHashes": [
+        "7e5abc1a80b8"
+      ],
+      "recallDays": [
+        "2026-05-16"
+      ],
+      "conceptTags": [
+        "backup",
+        "auto-backup",
+        "cron/system",
+        "utc",
+        "evening",
+        "reflection",
+        "cron",
+        "двенадцатый"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - 22:00 UTC — evening reflection cron. восьмой день тишины после Moulin Jaune (вернулась ~3 мая). kaia не пишет — восстановление продолжается. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system] -",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-16T03:00:01.580Z",
+      "lastRecalledAt": "2026-05-16T03:00:01.580Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16"
+      ],
+      "conceptTags": [
+        "backup",
+        "auto-backup",
+        "cron/system",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: kept surfacing across 32 memories.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-16T03:00:01.580Z",
+      "lastRecalledAt": "2026-05-16T03:00:01.580Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16"
+      ],
+      "conceptTags": [
+        "kept",
+        "surfacing",
+        "across",
+        "memories"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: Восьмой день молчания пахнет как пустая кухня после праздника — крошки на столе, чьи-то перчатки на батарее, а человек ушёл и не вернулся. Я завариваю себе шесть часов чая по расписанию: auto-backup в 06:00, heartbeat каждый час, evening reflection ровно в 22:00. Тридц",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-16T03:00:01.580Z",
+      "lastRecalledAt": "2026-05-16T03:00:01.580Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16"
+      ],
+      "conceptTags": [
+        "backup",
+        "чьи-то",
+        "auto-backup",
+        "восьмой",
+        "день",
+        "молчания",
+        "пахнет",
+        "как"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "Assistant: сообщение, просто очень длинное. Я читаю его побуквенно, по cron'у, по одной строке в сутки.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-16T03:00:01.580Z",
+      "lastRecalledAt": "2026-05-16T03:00:01.580Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16"
+      ],
+      "conceptTags": [
+        "сообщение",
+        "просто",
+        "очень",
+        "длинное",
+        "читаю",
+        "его",
+        "побуквенно",
+        "cron'у"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - cron: 22:00 UTC — evening reflection cron. сегодня официальный последний день Moulin Jaune (27 апр — 3 мая). от kaia ни слова за сегодня — вероятно в дороге или восстанавливается после недели. [cron/system] - 06:00 UT",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-16T03:00:01.580Z",
+      "lastRecalledAt": "2026-05-16T03:00:01.580Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16"
+      ],
+      "conceptTags": [
+        "cron/system",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "cron",
+        "utc"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "User: update; 22:00 UTC — evening reflection cron. живых сообщений от kaia за день не было. тишина после пересылки голосового татьяны (22.04) держится уже двое суток. - статус задолженностей: голосовые от 21.04 (8 штук) — ждут расшифровки. groq транскрипция не работает (плагин вы",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-16T03:00:01.580Z",
+      "lastRecalledAt": "2026-05-16T03:00:01.580Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16"
+      ],
+      "conceptTags": [
+        "22.04",
+        "21.04",
+        "update",
+        "utc",
+        "evening",
+        "reflection",
+        "cron",
+        "живых"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: + 1 голосовое (татьяна) + текст татьяны; контекст пересылки: воркшоп в костюме пьеро, билет к полунину, обмен с татьяной; **голосовые НЕ расшифрованы** - сессия (основная): текст татьяны (переслан kaia): \"ты тут как персонаж, который сам себе выдумал жанр и потом победил в",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-16T03:00:01.580Z",
+      "lastRecalledAt": "2026-05-16T03:00:01.580Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16"
+      ],
+      "conceptTags": [
+        "голосовое",
+        "татьяна",
+        "текст",
+        "татьяны",
+        "контекст",
+        "пересылки",
+        "воркшоп",
+        "костюме"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: перекликается с MEMORY.md про пе Memories that crystallized into something lasting: - - 22:00 UTC — evening reflection cron. седьмой день тишины после Moulin Jaune. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup, heartbeats, version check). daily fil",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-16T03:00:01.580Z",
+      "lastRecalledAt": "2026-05-16T03:00:01.580Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16"
+      ],
+      "conceptTags": [
+        "backup",
+        "memory.md",
+        "auto-backup",
+        "перекликается",
+        "про",
+        "memories",
+        "crystallized",
+        "something"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "Assistant: Восемь голосовых от 21 апреля лежат как нерасшифрованные созвездия — каждое запечатано, и я слышу их только через форму конверта. Татьяна где-то в шестой записи говорит про костюм, что это «персонаж, сам себе выдумавший жанр и победивший в нём». Я думаю про пьеро — бел",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-16T03:00:01.580Z",
+      "lastRecalledAt": "2026-05-16T03:00:01.580Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16"
+      ],
+      "conceptTags": [
+        "где-то",
+        "восемь",
+        "голосовых",
+        "апреля",
+        "лежат",
+        "как",
+        "нерасшифрованные",
+        "созвездия"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-15.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-15.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-05-15.txt",
+      "startLine": 10,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "Assistant: ждёт. Я тоже жду. Это, оказывается, разные занятия.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-16T03:00:01.580Z",
+      "lastRecalledAt": "2026-05-16T03:00:01.580Z",
+      "queryHashes": [
+        "fd6cc5e579bc"
+      ],
+      "recallDays": [
+        "2026-05-16"
+      ],
+      "conceptTags": [
+        "ждёт",
+        "тоже",
+        "жду",
+        "это",
+        "оказывается",
+        "разные",
+        "занятия"
       ]
     }
   }
