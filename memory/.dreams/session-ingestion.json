@@ -183,6 +183,13 @@
       "lineCount": 0,
       "lastContentLine": 0
     },
+    "main:sessions/2b12a6ec-c658-4259-b828-8296f0ac9dff.jsonl": {
+      "mtimeMs": 1779505257666,
+      "size": 3766,
+      "contentHash": "d154687860f47ee87122d50670b6f118628a69e2beed269a060a89d28fa096ed",
+      "lineCount": 4,
+      "lastContentLine": 4
+    },
     "main:sessions/2b330b38-a2aa-46cf-bfe0-d67c98eac138.jsonl.deleted.2026-05-11T03-00-26.347Z": {
       "mtimeMs": 1778468426345,
       "size": 6793,
@@ -259,6 +266,13 @@
       "contentHash": "196c7f351ce68dcff1194090bae11c2f18535056f9329fe6281758583e9c9669",
       "lineCount": 3,
       "lastContentLine": 3
+    },
+    "main:sessions/3cbc224a-c2f6-4c0a-b13c-478e8e799d47.jsonl.deleted.2026-05-23T03-00-24.743Z": {
+      "mtimeMs": 1779505224106,
+      "size": 6530,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
     },
     "main:sessions/3d04f3c7-9761-4c5b-ab70-a1cc66795117.jsonl": {
       "mtimeMs": 1778295636372,
@@ -875,6 +889,13 @@
       "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
       "lineCount": 0,
       "lastContentLine": 0
+    },
+    "main:sessions/aad2fcfc-3887-4ab5-978d-01ec2af09818.jsonl": {
+      "mtimeMs": 1779505239412,
+      "size": 3555,
+      "contentHash": "706aa86f71d650c717a6b5c8f130004d92dbba0536e6b0ada71f3fb85fa197f8",
+      "lineCount": 4,
+      "lastContentLine": 4
     },
     "main:sessions/ab4118fc-63c9-40ce-b381-42c6fb18f073.jsonl": {
       "mtimeMs": 1777442602487,
@@ -2538,11 +2559,23 @@
       "69ee08e2cb6562f16c7ac72babaa850ecb13da1a",
       "b30e940629d96a4dd1ec2ff4dff31acde1fb3577"
     ],
-    "main:37cb8b9d-995d-4248-b132-e3b9850a4ff9": [],
     "main:c9d3bfc0-1bcf-4fea-b391-c63b8fc4271c": [
       "c26dd4860b22eb4181f4a31e2b0dcaa9b626be9c",
       "7801d081638ddcf5f859e1ccb0befbe759cf9a6c",
       "f2f4d2d667684f3591d84674accfd32436b7d1e3"
+    ],
+    "main:2b12a6ec-c658-4259-b828-8296f0ac9dff": [
+      "55c921368e67c6dc8dc155a501be95b63d052b23",
+      "b4418bbf1b5a38150e2388f8bb1059c7e0a82242",
+      "6855be9b7cbf0f6e4a91387032358fa1d7641ab5",
+      "c6d8b62b5c47e3cb2de6115c11ce1fe5b2126cb3"
+    ],
+    "main:3cbc224a-c2f6-4c0a-b13c-478e8e799d47": [],
+    "main:aad2fcfc-3887-4ab5-978d-01ec2af09818": [
+      "559744df3d521871f46948875a2f3fadbe2c7657",
+      "e49348095bc23556cfadc1344286437afd9bafd5",
+      "97d17cec252dc8ceb41e43c400e2b40839cabfe1",
+      "b490b69f623ff02e2ddc6529a5b8b3dc29b9a28e"
     ]
   }
 }
