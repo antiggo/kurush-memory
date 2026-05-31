@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-30T03:00:02.488Z",
+  "updatedAt": "2026-05-31T03:00:02.478Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1",
@@ -32041,12 +32041,12 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. двадцать первый день тишины после Moulin Jaune (вернулась ~3 мая). живых взаимодействий с kaia нет. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-25T03:00:01.563Z",
-      "lastRecalledAt": "2026-05-30T03:00:02.488Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
       "queryHashes": [
         "e87913ef436c"
       ],
@@ -32055,7 +32055,8 @@
         "2026-05-27",
         "2026-05-28",
         "2026-05-29",
-        "2026-05-30"
+        "2026-05-30",
+        "2026-05-31"
       ],
       "conceptTags": [
         "backup",
@@ -32255,14 +32256,14 @@
       "startLine": 3,
       "endLine": 3,
       "source": "memory",
-      "snippet": "- 22:00 UTC — evening reflection cron. двадцать второй день тишины после Moulin Jaune (вернулась ~3 мая). живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
+      "snippet": "22:00 UTC — evening reflection cron. двадцать второй день тишины после Moulin Jaune (вернулась ~3 мая). живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-26T03:00:01.500Z",
-      "lastRecalledAt": "2026-05-30T03:00:02.488Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
       "queryHashes": [
         "d840cb851395"
       ],
@@ -32270,7 +32271,8 @@
         "2026-05-26",
         "2026-05-28",
         "2026-05-29",
-        "2026-05-30"
+        "2026-05-30",
+        "2026-05-31"
       ],
       "conceptTags": [
         "backup",
@@ -32498,21 +32500,22 @@
       "startLine": 3,
       "endLine": 3,
       "source": "memory",
-      "snippet": "22:00 UTC — evening reflection cron. двадцать третий день тишины после Moulin Jaune (вернулась ~3 мая). kaia не пишет — её ритм, не проблема. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system]",
+      "snippet": "- 22:00 UTC — evening reflection cron. двадцать третий день тишины после Moulin Jaune (вернулась ~3 мая). kaia не пишет — её ритм, не проблема. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-27T03:00:01.642Z",
-      "lastRecalledAt": "2026-05-30T03:00:02.488Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
       "queryHashes": [
         "0e882fd58aee"
       ],
       "recallDays": [
         "2026-05-27",
         "2026-05-29",
-        "2026-05-30"
+        "2026-05-30",
+        "2026-05-31"
       ],
       "conceptTags": [
         "backup",
@@ -32523,7 +32526,8 @@
         "reflection",
         "cron",
         "двадцать"
-      ]
+      ],
+      "promotedAt": "2026-05-31T03:00:02.478Z"
     },
     "memory:memory/.dreams/session-corpus/2026-05-26.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-26.txt:1:1",
@@ -32776,18 +32780,19 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. двадцать четвёртый день тишины после Moulin Jaune (вернулась ~3 мая). сегодня ровно месяц с момента старта поездки (27 апреля). kaia не пишет — её ритм, не проблема. только cron'ы (auto-backup, heartbeat, evening reflection). живых взаимодейст",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-28T03:00:03.689Z",
-      "lastRecalledAt": "2026-05-30T03:00:02.488Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
       "queryHashes": [
         "c3d4719b3f48"
       ],
       "recallDays": [
         "2026-05-28",
-        "2026-05-30"
+        "2026-05-30",
+        "2026-05-31"
       ],
       "conceptTags": [
         "backup",
@@ -33055,17 +33060,18 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. двадцать пятый день тишины после Moulin Jaune (вернулась ~3 мая). живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-29T03:00:03.141Z",
-      "lastRecalledAt": "2026-05-29T03:00:03.141Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
       "queryHashes": [
         "780600bdb235"
       ],
       "recallDays": [
-        "2026-05-29"
+        "2026-05-29",
+        "2026-05-31"
       ],
       "conceptTags": [
         "backup",
@@ -34348,6 +34354,778 @@
       "conceptTags": [
         "home/moltbot",
         "openclaw/media/inbound/file-172",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/2026-05-30.md:3:3": {
+      "key": "memory:memory/2026-05-30.md:3:3",
+      "path": "memory/2026-05-30.md",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "22:00 UTC — evening reflection cron. первый тихий день после возвращения kaia (29.05). вчера был прорыв: 25 дней тишины → фото + 5+ голосовых + переписка с Татьяной. сегодня тишина — переваривает. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "8ecfa7c4330d"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "backup",
+        "29.05",
+        "auto-backup",
+        "cron/system",
+        "utc",
+        "evening",
+        "reflection",
+        "cron"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:34:34": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:34:34",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 34,
+      "endLine": 34,
+      "source": "memory",
+      "snippet": "Assistant: принял пачку. соберу без дробилки.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "принял",
+        "пачку",
+        "соберу",
+        "без",
+        "дробилки"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:35:35": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:35:35",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 35,
+      "endLine": 35,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_173---fa1c7143-7e08-4e72-a615-934ddf5b8d5c.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_173---fa1c7143-7e08-4e72-a615-934ddf5b8d5c.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-173",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:36:36": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:36:36",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 36,
+      "endLine": 36,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_174---9eb9e47c-b236-4209-bca3-2a70e287cb37.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_174---9eb9e47c-b236-4209-bca3-2a70e287cb37.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-174",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:37:37": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:37:37",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 37,
+      "endLine": 37,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_175---1d11c483-8255-4bed-a2b9-5f12f989aff6.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_175---1d11c483-8255-4bed-a2b9-5f12f989aff6.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-175",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:38:38": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:38:38",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 38,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_176---a9f779a7-2172-46af-875f-776f4f92fc36.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_176---a9f779a7-2172-46af-875f-776f4f92fc36.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-176",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:39:39": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:39:39",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 39,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_177---ec982188-cfca-41b8-b524-c7d89cc2c4da.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_177---ec982188-cfca-41b8-b524-c7d89cc2c4da.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-177",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:40:40": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:40:40",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 40,
+      "endLine": 40,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_178---c304659b-587c-4c9b-bcb9-45b643cde71b.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_178---c304659b-587c-4c9b-bcb9-45b643cde71b.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-178",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:41:41": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:41:41",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 41,
+      "endLine": 41,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_179---9bb1ce92-c2a1-45f1-b03a-661a935f1e8c.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_179---9bb1ce92-c2a1-45f1-b03a-661a935f1e8c.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-179",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:42:42": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:42:42",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 42,
+      "endLine": 42,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_180---0ae6e171-5ef1-400b-8173-8621419b01c4.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_180---0ae6e171-5ef1-400b-8173-8621419b01c4.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-180",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:43:43": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:43:43",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 43,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_181---918c7fd3-7476-4cf9-aacb-8878a30ae2b5.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_181---918c7fd3-7476-4cf9-aacb-8878a30ae2b5.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-181",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:44:44": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:44:44",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 44,
+      "endLine": 44,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_182---7409be53-0917-40b6-bbbd-a175b50ebdae.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_182---7409be53-0917-40b6-bbbd-a175b50ebdae.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-182",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:45:45": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:45:45",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 45,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_183---dd8d3927-9713-4db0-9d4e-6b2be305c24d.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_183---dd8d3927-9713-4db0-9d4e-6b2be305c24d.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-183",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:46:46": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:46:46",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 46,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_184---c8bc5174-dd60-4de8-8894-282d08bb4383.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_184---c8bc5174-dd60-4de8-8894-282d08bb4383.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-184",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:47:47": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:47:47",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 47,
+      "endLine": 47,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_185---a382c3d6-d743-457b-826a-b328080de963.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_185---a382c3d6-d743-457b-826a-b328080de963.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-185",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:48:48": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:48:48",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 48,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_186---8ffb0725-e914-4811-bdcf-7681d8280248.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_186---8ffb0725-e914-4811-bdcf-7681d8280248.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-186",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:49:49": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:49:49",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 49,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_189---a8deef58-548f-40e9-bce1-cbc59848911f.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_189---a8deef58-548f-40e9-bce1-cbc59848911f.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-189",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:50:50": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:50:50",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 50,
+      "endLine": 50,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_191---14935d52-ca9b-4ce6-b929-8b47a310beb0.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_191---14935d52-ca9b-4ce6-b929-8b47a310beb0.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-191",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:51:51": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:51:51",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 51,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_192---25d89030-c3af-4bca-88ac-559ce3dc9de9.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_192---25d89030-c3af-4bca-88ac-559ce3dc9de9.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-192",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:52:52": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:52:52",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 52,
+      "endLine": 52,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_193---754427ab-a141-4b2b-b886-f49a5011e7ef.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_193---754427ab-a141-4b2b-b886-f49a5011e7ef.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-193",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:53:53": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:53:53",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 53,
+      "endLine": 53,
+      "source": "memory",
+      "snippet": "Assistant: принял большой пласт. сделаю это как архив, не как чатик на бегу: расшифрую пачками, сохраню, потом соберу карту.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "принял",
+        "большой",
+        "пласт",
+        "сделаю",
+        "это",
+        "как",
+        "архив",
+        "чатик"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:54:54": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:54:54",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 54,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_194---4df0d1e5-bc48-4f52-8d3a-7d762360f1a2.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_194---4df0d1e5-bc48-4f52-8d3a-7d762360f1a2.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-194",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:55:55": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:55:55",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 55,
+      "endLine": 55,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_195---fb018c40-0882-4489-aa8c-1774fbcb23f8.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_195---fb018c40-0882-4489-aa8c-1774fbcb23f8.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-195",
+        "audio/ogg",
+        "media",
+        "attached",
+        "home",
+        "moltbot",
+        "openclaw"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:56:56": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:56:56",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 56,
+      "endLine": 56,
+      "source": "memory",
+      "snippet": "Assistant: поймал продолжение. я уже завёл это как отдельный пласт — сейчас важнее не отвечать на каждый кусок, а не потерять ни одну жилу.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "поймал",
+        "продолжение",
+        "уже",
+        "завёл",
+        "это",
+        "как",
+        "отдельный",
+        "пласт"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-05-29.txt:57:57": {
+      "key": "memory:memory/.dreams/session-corpus/2026-05-29.txt:57:57",
+      "path": "memory/.dreams/session-corpus/2026-05-29.txt",
+      "startLine": 57,
+      "endLine": 57,
+      "source": "memory",
+      "snippet": "User: [media attached: /home/moltbot/.openclaw/media/inbound/file_196---f829317d-6ba0-4d14-a318-1d1bb47731a8.ogg (audio/ogg; codecs=opus) | /home/moltbot/.openclaw/media/inbound/file_196---f829317d-6ba0-4d14-a318-1d1bb47731a8.ogg] To send an image back, prefer the message tool (m",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "queryHashes": [
+        "0e934d1f0d1c"
+      ],
+      "recallDays": [
+        "2026-05-31"
+      ],
+      "conceptTags": [
+        "home/moltbot",
+        "openclaw/media/inbound/file-196",
         "audio/ogg",
         "media",
         "attached",
