@@ -218,3 +218,8 @@
 
 <!-- openclaw-memory-promotion:memory:memory/2026-05-26.md:3:3 -->
 - - 22:00 UTC — evening reflection cron. двадцать третий день тишины после Moulin Jaune (вернулась ~3 мая). kaia не пишет — её ритм, не проблема. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system] [score=0.870 recalls=0 avg=0.620 source=memory/2026-05-26.md:3-3]
+
+## Promoted From Short-Term Memory (2026-06-01)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-05-27.md:3:3 -->
+- - 22:00 UTC — evening reflection cron. двадцать четвёртый день тишины после Moulin Jaune (вернулась ~3 мая). сегодня ровно месяц с момента старта поездки (27 апреля). kaia не пишет — её ритм, не проблема. только cron'ы (auto-backup, heartbeat, evening reflection). живых взаимодействий с kaia и андреем ноль. [cron/system] [score=0.870 recalls=0 avg=0.620 source=memory/2026-05-27.md:3-3]

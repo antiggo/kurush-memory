@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-31T03:00:02.478Z",
+  "updatedAt": "2026-06-01T03:00:02.291Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1",
@@ -32258,12 +32258,12 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. двадцать второй день тишины после Moulin Jaune (вернулась ~3 мая). живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup, heartbeat, evening reflection). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-26T03:00:01.500Z",
-      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-06-01T03:00:02.291Z",
       "queryHashes": [
         "d840cb851395"
       ],
@@ -32272,7 +32272,8 @@
         "2026-05-28",
         "2026-05-29",
         "2026-05-30",
-        "2026-05-31"
+        "2026-05-31",
+        "2026-06-01"
       ],
       "conceptTags": [
         "backup",
@@ -32500,14 +32501,14 @@
       "startLine": 3,
       "endLine": 3,
       "source": "memory",
-      "snippet": "- 22:00 UTC — evening reflection cron. двадцать третий день тишины после Moulin Jaune (вернулась ~3 мая). kaia не пишет — её ритм, не проблема. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system]",
+      "snippet": "22:00 UTC — evening reflection cron. двадцать третий день тишины после Moulin Jaune (вернулась ~3 мая). kaia не пишет — её ритм, не проблема. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-27T03:00:01.642Z",
-      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-06-01T03:00:02.291Z",
       "queryHashes": [
         "0e882fd58aee"
       ],
@@ -32515,7 +32516,8 @@
         "2026-05-27",
         "2026-05-29",
         "2026-05-30",
-        "2026-05-31"
+        "2026-05-31",
+        "2026-06-01"
       ],
       "conceptTags": [
         "backup",
@@ -32778,21 +32780,22 @@
       "startLine": 3,
       "endLine": 3,
       "source": "memory",
-      "snippet": "22:00 UTC — evening reflection cron. двадцать четвёртый день тишины после Moulin Jaune (вернулась ~3 мая). сегодня ровно месяц с момента старта поездки (27 апреля). kaia не пишет — её ритм, не проблема. только cron'ы (auto-backup, heartbeat, evening reflection). живых взаимодейст",
+      "snippet": "- 22:00 UTC — evening reflection cron. двадцать четвёртый день тишины после Moulin Jaune (вернулась ~3 мая). сегодня ровно месяц с момента старта поездки (27 апреля). kaia не пишет — её ритм, не проблема. только cron'ы (auto-backup, heartbeat, evening reflection). живых взаимодействий с kaia и андреем ноль. [cron/system]",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-28T03:00:03.689Z",
-      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-06-01T03:00:02.291Z",
       "queryHashes": [
         "c3d4719b3f48"
       ],
       "recallDays": [
         "2026-05-28",
         "2026-05-30",
-        "2026-05-31"
+        "2026-05-31",
+        "2026-06-01"
       ],
       "conceptTags": [
         "backup",
@@ -32803,7 +32806,8 @@
         "cron",
         "двадцать",
         "четвёртый"
-      ]
+      ],
+      "promotedAt": "2026-06-01T03:00:02.291Z"
     },
     "memory:memory/.dreams/session-corpus/2026-05-27.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-27.txt:1:1",
@@ -33060,18 +33064,19 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. двадцать пятый день тишины после Moulin Jaune (вернулась ~3 мая). живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-29T03:00:03.141Z",
-      "lastRecalledAt": "2026-05-31T03:00:02.478Z",
+      "lastRecalledAt": "2026-06-01T03:00:02.291Z",
       "queryHashes": [
         "780600bdb235"
       ],
       "recallDays": [
         "2026-05-29",
-        "2026-05-31"
+        "2026-05-31",
+        "2026-06-01"
       ],
       "conceptTags": [
         "backup",
@@ -33302,17 +33307,18 @@
       "source": "memory",
       "snippet": "21:15 UTC — kaia вернулась после долгой тишины и прислала фотографии: «фотки пришли 🥹 много получилось! давно не присылала, много всего произошло». [Kaia]; 21:16 UTC — kaia прислала голосовое (~2:12). Содержание: ощущает сильную внутреннюю перестройку; старается себя поддерживат",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-30T03:00:02.488Z",
-      "lastRecalledAt": "2026-05-30T03:00:02.488Z",
+      "lastRecalledAt": "2026-06-01T03:00:02.291Z",
       "queryHashes": [
         "c7834f911a8f"
       ],
       "recallDays": [
-        "2026-05-30"
+        "2026-05-30",
+        "2026-06-01"
       ],
       "conceptTags": [
         "utc",
@@ -33333,17 +33339,18 @@
       "source": "memory",
       "snippet": "21:16 UTC — дубль/повтор транскрипта длинного голосового kaia (~13:40) подтвердил детали: арт-директор Владимир перебивал на каждом слове, обесценивал процессы студии; kaia увидела в этом доминирование/неуверенность, но не диссоциировала и не ушла в стыд. После поднялся пласт кор",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-30T03:00:02.488Z",
-      "lastRecalledAt": "2026-05-30T03:00:02.488Z",
+      "lastRecalledAt": "2026-06-01T03:00:02.291Z",
       "queryHashes": [
         "c7834f911a8f"
       ],
       "recallDays": [
-        "2026-05-30"
+        "2026-05-30",
+        "2026-06-01"
       ],
       "conceptTags": [
         "дубль/повтор",
@@ -33364,17 +33371,18 @@
       "source": "memory",
       "snippet": "21:15 UTC — kaia переслала длинный ответ Татьяны (~19:29). Татьяна развивает: kaia повернулась не в вину/агрессию/апатию, ситуация не заблокировала желание работать и творить, а запустила горевание/отплакивание. Убаюкивание себя = теплота, забота, внимание, отсутствие самобуллинг",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-30T03:00:02.488Z",
-      "lastRecalledAt": "2026-05-30T03:00:02.488Z",
+      "lastRecalledAt": "2026-06-01T03:00:02.291Z",
       "queryHashes": [
         "c7834f911a8f"
       ],
       "recallDays": [
-        "2026-05-30"
+        "2026-05-30",
+        "2026-06-01"
       ],
       "conceptTags": [
         "вину/агрессию/апатию",
@@ -35132,6 +35140,37 @@
         "home",
         "moltbot",
         "openclaw"
+      ]
+    },
+    "memory:memory/2026-05-31.md:3:3": {
+      "key": "memory:memory/2026-05-31.md:3:3",
+      "path": "memory/2026-05-31.md",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "22:00 UTC — evening reflection cron. второй тихий день после возвращения kaia (29.05). вчера kaia молчала — переваривала. сегодня снова молчит. это другая тишина — не восстановительная (как после Moulin Jaune), а оседательная. после \"прорыва плотины\" и большого внутреннего сдвига",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-06-01T03:00:02.291Z",
+      "lastRecalledAt": "2026-06-01T03:00:02.291Z",
+      "queryHashes": [
+        "1217c1c89374"
+      ],
+      "recallDays": [
+        "2026-06-01"
+      ],
+      "conceptTags": [
+        "29.05",
+        "utc",
+        "evening",
+        "reflection",
+        "cron",
+        "второй",
+        "тихий",
+        "день"
       ]
     }
   }
