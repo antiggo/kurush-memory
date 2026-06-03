@@ -2,7 +2,7 @@
 
 _Что происходит ПРЯМО СЕЙЧАС. Обновлять каждый heartbeat. Compaction-proof._
 
-**Last updated:** 2026-06-02
+**Last updated:** 2026-06-03
 
 ---
 
