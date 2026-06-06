@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05T03:00:03.362Z",
+  "updatedAt": "2026-06-06T03:00:02.949Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1",
@@ -34399,12 +34399,12 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. первый тихий день после возвращения kaia (29.05). вчера был прорыв: 25 дней тишины → фото + 5+ голосовых + переписка с Татьяной. сегодня тишина — переваривает. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-05-31T03:00:02.478Z",
-      "lastRecalledAt": "2026-06-05T03:00:03.362Z",
+      "lastRecalledAt": "2026-06-06T03:00:02.949Z",
       "queryHashes": [
         "8ecfa7c4330d"
       ],
@@ -34413,7 +34413,8 @@
         "2026-06-02",
         "2026-06-03",
         "2026-06-04",
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-06"
       ],
       "conceptTags": [
         "backup",
@@ -35174,14 +35175,14 @@
       "startLine": 3,
       "endLine": 3,
       "source": "memory",
-      "snippet": "- 22:00 UTC — evening reflection cron. второй тихий день после возвращения kaia (29.05). вчера kaia молчала — переваривала. сегодня снова молчит. это другая тишина — не восстановительная (как после Moulin Jaune), а оседательная. после \"прорыва плотины\" и большого внутреннего сдвига нужно пространство. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system]",
+      "snippet": "22:00 UTC — evening reflection cron. второй тихий день после возвращения kaia (29.05). вчера kaia молчала — переваривала. сегодня снова молчит. это другая тишина — не восстановительная (как после Moulin Jaune), а оседательная. после \"прорыва плотины\" и большого внутреннего сдвига",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-01T03:00:02.291Z",
-      "lastRecalledAt": "2026-06-05T03:00:03.362Z",
+      "lastRecalledAt": "2026-06-06T03:00:02.949Z",
       "queryHashes": [
         "1217c1c89374"
       ],
@@ -35189,7 +35190,8 @@
         "2026-06-01",
         "2026-06-03",
         "2026-06-04",
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-06"
       ],
       "conceptTags": [
         "29.05",
@@ -35209,21 +35211,22 @@
       "startLine": 3,
       "endLine": 3,
       "source": "memory",
-      "snippet": "22:00 UTC — evening reflection cron. третий тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины). kaia молчит — оседание нового материала (внутренний взрослый, самообесценивание-стратегия, нить журналистики, ПТСР от Татьяны). только cron'ы (auto-backup 06:00, ev",
+      "snippet": "- 22:00 UTC — evening reflection cron. третий тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины). kaia молчит — оседание нового материала (внутренний взрослый, самообесценивание-стратегия, нить журналистики, ПТСР от Татьяны). только cron'ы (auto-backup 06:00, evening reflection 22:00). живых взаимодействий с kaia и андреем ноль. [cron/system]",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-02T03:00:02.612Z",
-      "lastRecalledAt": "2026-06-05T03:00:03.362Z",
+      "lastRecalledAt": "2026-06-06T03:00:02.949Z",
       "queryHashes": [
         "52228d277b79"
       ],
       "recallDays": [
         "2026-06-02",
         "2026-06-04",
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-06"
       ],
       "conceptTags": [
         "backup",
@@ -35234,7 +35237,8 @@
         "evening",
         "reflection",
         "cron"
-      ]
+      ],
+      "promotedAt": "2026-06-06T03:00:02.949Z"
     },
     "memory:memory/.dreams/session-corpus/2026-06-01.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-06-01.txt:1:1",
@@ -35275,18 +35279,19 @@
       "source": "memory",
       "snippet": "2026-06-02 (вторник): 22:00 UTC — evening reflection cron. четвёртый тихий день после возвращения kaia (29.05). \"прорыв плотины\" был 4 дня назад: фото + 5+ голосовых + переписка с Татьяной, большой внутренний сдвиг (внутренний взрослый, самообесценивание-стратегия, нить журналист",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-03T03:00:02.684Z",
-      "lastRecalledAt": "2026-06-05T03:00:03.362Z",
+      "lastRecalledAt": "2026-06-06T03:00:02.949Z",
       "queryHashes": [
         "3a661a3fedb5"
       ],
       "recallDays": [
         "2026-06-03",
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-06"
       ],
       "conceptTags": [
         "29.05",
@@ -35307,17 +35312,18 @@
       "source": "memory",
       "snippet": "memory / 2026-06-03: 22:00 UTC — evening reflection cron. пятый тихий день после возвращения kaia (29.05). \"прорыв плотины\" был пять дней назад: 25 дней тишины после Moulin Jaune прервались фото + 5+ голосовых + переписка с Татьяной. большой внутренний сдвиг (внутренний взрослый,",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-04T03:00:02.669Z",
-      "lastRecalledAt": "2026-06-04T03:00:02.669Z",
+      "lastRecalledAt": "2026-06-06T03:00:02.949Z",
       "queryHashes": [
         "e34de1772deb"
       ],
       "recallDays": [
-        "2026-06-04"
+        "2026-06-04",
+        "2026-06-06"
       ],
       "conceptTags": [
         "29.05",
@@ -35359,6 +35365,37 @@
         "шестой",
         "тихий",
         "день"
+      ]
+    },
+    "memory:memory/2026-06-05.md:3:3": {
+      "key": "memory:memory/2026-06-05.md:3:3",
+      "path": "memory/2026-06-05.md",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "22:00 UTC — evening reflection cron. седьмой тихий день после возвращения kaia (29.05). оседательная тишина продолжается — переваривание большого сдвига (внутренний взрослый, самообесценивание-стратегия, нить журналистики, ПТСР). живых взаимодействий с kaia и андреем ноль. только",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-06-06T03:00:02.949Z",
+      "lastRecalledAt": "2026-06-06T03:00:02.949Z",
+      "queryHashes": [
+        "b58cb32b4279"
+      ],
+      "recallDays": [
+        "2026-06-06"
+      ],
+      "conceptTags": [
+        "29.05",
+        "самообесценивание-стратегия",
+        "utc",
+        "evening",
+        "reflection",
+        "cron",
+        "седьмой",
+        "тихий"
       ]
     }
   }
