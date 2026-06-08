@@ -211,6 +211,20 @@
       "lineCount": 0,
       "lastContentLine": 0
     },
+    "main:sessions/29551868-31ef-4dad-9677-b3b8e2fe25b4.jsonl": {
+      "mtimeMs": 1780801277895,
+      "size": 7491,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
+    "main:sessions/29551868-31ef-4dad-9677-b3b8e2fe25b4.jsonl.deleted.2026-06-07T03-00-49.430Z": {
+      "mtimeMs": 1780801234321,
+      "size": 6640,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
     "main:sessions/2a73f8cb-f610-4348-9977-6c884e358c0c.jsonl.deleted.2026-05-13T11-30-32.388Z": {
       "mtimeMs": 1776079640688,
       "size": 9893,
@@ -228,13 +242,6 @@
     "main:sessions/2b330b38-a2aa-46cf-bfe0-d67c98eac138.jsonl.deleted.2026-05-11T03-00-26.347Z": {
       "mtimeMs": 1778468426345,
       "size": 6793,
-      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
-      "lineCount": 0,
-      "lastContentLine": 0
-    },
-    "main:sessions/2b995e46-5456-47fa-8735-ce11d887c881.jsonl.deleted.2026-05-08T03-00-26.733Z": {
-      "mtimeMs": 1778209226188,
-      "size": 6203,
       "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
       "lineCount": 0,
       "lastContentLine": 0
@@ -988,6 +995,20 @@
       "lineCount": 108,
       "lastContentLine": 108
     },
+    "main:sessions/943af024-d08f-4ac7-b9e4-736e5aa8bc1f.jsonl": {
+      "mtimeMs": 1780801311343,
+      "size": 2816,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
+    "main:sessions/943af024-d08f-4ac7-b9e4-736e5aa8bc1f.jsonl.deleted.2026-06-07T03-01-00.143Z": {
+      "mtimeMs": 1780801245027,
+      "size": 2374,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
     "main:sessions/94e72d43-10e1-493d-bb93-fd8186df20a6.jsonl": {
       "mtimeMs": 1778036462674,
       "size": 3220,
@@ -1299,6 +1320,20 @@
     "main:sessions/c016603b-ab4d-40ca-abf6-1ca381f8a7d1.jsonl.deleted.2026-05-13T06-30-29.736Z": {
       "mtimeMs": 1776061608496,
       "size": 7490,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
+    "main:sessions/c15548f6-cabc-49cb-a425-beaa187b4d91.jsonl": {
+      "mtimeMs": 1780801295670,
+      "size": 4046,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
+    "main:sessions/c15548f6-cabc-49cb-a425-beaa187b4d91.jsonl.deleted.2026-06-07T03-00-56.884Z": {
+      "mtimeMs": 1780801241776,
+      "size": 3183,
       "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
       "lineCount": 0,
       "lastContentLine": 0
@@ -1618,7 +1653,7 @@
       "lineCount": 0,
       "lastContentLine": 0
     },
-    "main:sessions/f7a26104-5ef4-4363-81fd-f31586aa920e.jsonl": {
+    "main:sessions/f7a26104-5ef4-4363-81fd-f31586aa920e.jsonl.deleted.2026-06-07T03-01-17.826Z": {
       "mtimeMs": 1778209272364,
       "size": 6027,
       "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
@@ -3055,10 +3090,9 @@
     "main:ad568e85-4f80-4289-8b61-5899845c0389": [
       "70a9b0c8a6cb490526c100ef7ade50ea110bf0f6"
     ],
-    "main:155583cb-ba87-4e84-93cb-0a1dd297d2f4": [],
-    "main:25fa7536-08f9-45b3-99f5-d6b56b9f1c7c": [],
-    "main:30b8cbf2-6caf-4c58-a65e-0681b41b98f8": [],
-    "main:7c2f0939-8f5b-4dfd-a41d-ddbe60d41e05": [],
-    "main:f2d41107-ec6d-4a2e-a462-2b52a557c301": []
+    "main:29551868-31ef-4dad-9677-b3b8e2fe25b4": [],
+    "main:943af024-d08f-4ac7-b9e4-736e5aa8bc1f": [],
+    "main:c15548f6-cabc-49cb-a425-beaa187b4d91": [],
+    "main:f7a26104-5ef4-4363-81fd-f31586aa920e": []
   }
 }
