@@ -250,3 +250,8 @@
 
 <!-- openclaw-memory-promotion:memory:memory/2026-06-01.md:3:3 -->
 - - 22:00 UTC — evening reflection cron. третий тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины). kaia молчит — оседание нового материала (внутренний взрослый, самообесценивание-стратегия, нить журналистики, ПТСР от Татьяны). только cron'ы (auto-backup 06:00, evening reflection 22:00). живых взаимодействий с kaia и андреем ноль. [cron/system] [score=0.856 recalls=0 avg=0.620 source=memory/2026-06-01.md:3-3]
+
+## Promoted From Short-Term Memory (2026-06-10)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-06-05.md:3:3 -->
+- - 22:00 UTC — evening reflection cron. седьмой тихий день после возвращения kaia (29.05). оседательная тишина продолжается — переваривание большого сдвига (внутренний взрослый, самообесценивание-стратегия, нить журналистики, ПТСР). живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system] [score=0.836 recalls=0 avg=0.620 source=memory/2026-06-05.md:3-3]

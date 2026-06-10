@@ -8,6 +8,13 @@
       "lineCount": 1,
       "lastContentLine": 1
     },
+    "main:sessions/044c25bc-41c5-43d5-8569-5579a06b8d72.jsonl": {
+      "mtimeMs": 1780974079470,
+      "size": 3586,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
     "main:sessions/04ba8780-1353-4d4e-819e-4639632eab15.jsonl": {
       "mtimeMs": 1779246047017,
       "size": 3226,
@@ -1023,6 +1030,13 @@
       "lineCount": 4,
       "lastContentLine": 4
     },
+    "main:sessions/902e46b1-1db1-4ab6-948e-a661c6130164.jsonl": {
+      "mtimeMs": 1780974050391,
+      "size": 4127,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
     "main:sessions/90f6e0dc-0cda-43ae-8366-af04fa6dff7d.jsonl.deleted.2026-05-12T09-31-31.406Z": {
       "mtimeMs": 1775986003708,
       "size": 6637,
@@ -1166,13 +1180,6 @@
     "main:sessions/a60bec5a-7764-4f3e-be3f-6a4a6aa58f7b.jsonl": {
       "mtimeMs": 1777615411114,
       "size": 2179,
-      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
-      "lineCount": 0,
-      "lastContentLine": 0
-    },
-    "main:sessions/a65c7dc0-4530-4af3-9934-d7a694c8d4d0.jsonl.deleted.2026-05-10T03-00-23.989Z": {
-      "mtimeMs": 1778382023988,
-      "size": 6359,
       "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
       "lineCount": 0,
       "lastContentLine": 0
@@ -1456,6 +1463,13 @@
       "contentHash": "40515f3db3fcd2526e679f536f9fbcb5188f3800dc82013452c6fa9742238649",
       "lineCount": 6,
       "lastContentLine": 6
+    },
+    "main:sessions/cd2cb0b2-063e-4d72-8cf4-49cb63fa8b17.jsonl.deleted.2026-06-09T03-00-31.113Z": {
+      "mtimeMs": 1780974030430,
+      "size": 5473,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
     },
     "main:sessions/cd68fc4e-9a53-40c8-9766-a2225fa6e95a.jsonl": {
       "mtimeMs": 1778209244798,
@@ -3125,8 +3139,6 @@
     "main:ad568e85-4f80-4289-8b61-5899845c0389": [
       "70a9b0c8a6cb490526c100ef7ade50ea110bf0f6"
     ],
-    "main:28cbb323-df55-4053-983d-f57c9dea940f": [],
-    "main:4dc79bcc-77f3-45f5-ae54-515d3790c50b": [],
-    "main:4e878e5e-0803-468b-97ab-8eaafacd5db1": []
+    "main:cd2cb0b2-063e-4d72-8cf4-49cb63fa8b17": []
   }
 }
