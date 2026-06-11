@@ -260,13 +260,6 @@
       "lineCount": 4,
       "lastContentLine": 4
     },
-    "main:sessions/2b330b38-a2aa-46cf-bfe0-d67c98eac138.jsonl.deleted.2026-05-11T03-00-26.347Z": {
-      "mtimeMs": 1778468426345,
-      "size": 6793,
-      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
-      "lineCount": 0,
-      "lastContentLine": 0
-    },
     "main:sessions/2e3efc5d-6b7f-491e-a4df-dc66d105fb0e.jsonl.deleted.2026-05-13T06-30-29.746Z": {
       "mtimeMs": 1776061690334,
       "size": 5353,
@@ -284,6 +277,13 @@
     "main:sessions/30b8cbf2-6caf-4c58-a65e-0681b41b98f8.jsonl.deleted.2026-06-06T03-04-19.286Z": {
       "mtimeMs": 1778122894623,
       "size": 5953,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
+    "main:sessions/314ab3cf-52e1-412b-b476-c6e9cdc998c6.jsonl": {
+      "mtimeMs": 1781060529892,
+      "size": 4620,
       "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
       "lineCount": 0,
       "lastContentLine": 0
@@ -1275,6 +1275,13 @@
       "lineCount": 0,
       "lastContentLine": 0
     },
+    "main:sessions/b1cf1fef-41ae-4f83-8bfb-f823f5646b3b.jsonl": {
+      "mtimeMs": 1781060510076,
+      "size": 3234,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
     "main:sessions/b29cb90c-91d2-46e5-900d-c2e8a9baa548.jsonl": {
       "mtimeMs": 1778986857999,
       "size": 6511,
@@ -1397,6 +1404,13 @@
     "main:sessions/c38d6da8-e4c8-40e3-88fd-de562995a42e.jsonl.deleted.2026-05-20T03-01-08.591Z": {
       "mtimeMs": 1776654065573,
       "size": 8972,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
+    "main:sessions/c690dbe1-adda-4535-ab9a-15a2c3368d26.jsonl.deleted.2026-06-10T03-00-34.000Z": {
+      "mtimeMs": 1781060433381,
+      "size": 5533,
       "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
       "lineCount": 0,
       "lastContentLine": 0
@@ -3139,6 +3153,6 @@
     "main:ad568e85-4f80-4289-8b61-5899845c0389": [
       "70a9b0c8a6cb490526c100ef7ade50ea110bf0f6"
     ],
-    "main:cd2cb0b2-063e-4d72-8cf4-49cb63fa8b17": []
+    "main:c690dbe1-adda-4535-ab9a-15a2c3368d26": []
   }
 }
