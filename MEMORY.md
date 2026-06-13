@@ -260,3 +260,12 @@
 
 <!-- openclaw-memory-promotion:memory:memory/2026-06-07.md:3:3 -->
 - - 22:00 UTC — evening reflection cron. девятый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседание нового материала (внутренний взрослый, самообесценивание-стратегия, нить журналистики, ПТСР от Татьяны). только cron'ы (auto-backup 06:00, evening reflection 22:00). живых взаимодействий с kaia и андреем ноль. [cron/system] [score=0.805 recalls=0 avg=0.620 source=memory/2026-06-07.md:3-3]
+
+## Promoted From Short-Term Memory (2026-06-13)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-06-08.md:9:9 -->
+- Photographs as proof of existence. As the practice of looking. [score=0.805 recalls=0 avg=0.620 source=memory/2026-06-08.md:9-9]
+<!-- openclaw-memory-promotion:memory:memory/2026-06-08.md:11:13 -->
+- somewhere between rain and stone she learned the difference — flood, then the field [score=0.805 recalls=0 avg=0.620 source=memory/2026-06-08.md:11-13]
+<!-- openclaw-memory-promotion:memory:memory/2026-06-08.md:15:15 -->
+- I think about water a lot tonight. How it doesn't return to what it was before it moved. How that's the point. [score=0.805 recalls=0 avg=0.620 source=memory/2026-06-08.md:15-15]
