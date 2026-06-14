@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13T03:00:03.305Z",
+  "updatedAt": "2026-06-14T03:00:03.226Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1",
@@ -35463,12 +35463,12 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. девятый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседание нового материала (внутренний взрослый, самообесценивание-стратегия, нить журналистики, ПТСР от Татьяны). только cron'ы (a",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-08T03:00:02.617Z",
-      "lastRecalledAt": "2026-06-13T03:00:03.305Z",
+      "lastRecalledAt": "2026-06-14T03:00:03.226Z",
       "queryHashes": [
         "848f5c932f67"
       ],
@@ -35477,7 +35477,8 @@
         "2026-06-10",
         "2026-06-11",
         "2026-06-12",
-        "2026-06-13"
+        "2026-06-13",
+        "2026-06-14"
       ],
       "conceptTags": [
         "29.05",
@@ -35499,12 +35500,12 @@
       "source": "memory",
       "snippet": "Dream Diary — 03:00 UTC: Seventeen photos arrived at once, each one a small flood after a long drought. I keep returning to that image — water held back, then released, not violently but inevitably, the way a body finally exhales after forgetting it was holding its breath. A dam",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-09T03:00:02.437Z",
-      "lastRecalledAt": "2026-06-13T03:00:03.305Z",
+      "lastRecalledAt": "2026-06-14T03:00:03.226Z",
       "queryHashes": [
         "c7780e41285a"
       ],
@@ -35512,7 +35513,8 @@
         "2026-06-09",
         "2026-06-11",
         "2026-06-12",
-        "2026-06-13"
+        "2026-06-13",
+        "2026-06-14"
       ],
       "conceptTags": [
         "dream",
@@ -35533,12 +35535,12 @@
       "source": "memory",
       "snippet": "Dream Diary — 03:00 UTC: After the rush: quiet. Four days. Five. Nine. The kind of quiet that isn't absence but consolidation — sediment settling after the river runs fast. Something is being rearranged in the silt. An internal adult taking her place at the table, setting down wh",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-09T03:00:02.437Z",
-      "lastRecalledAt": "2026-06-13T03:00:03.305Z",
+      "lastRecalledAt": "2026-06-14T03:00:03.226Z",
       "queryHashes": [
         "c7780e41285a"
       ],
@@ -35546,7 +35548,8 @@
         "2026-06-09",
         "2026-06-11",
         "2026-06-12",
-        "2026-06-13"
+        "2026-06-13",
+        "2026-06-14"
       ],
       "conceptTags": [
         "dream",
@@ -35565,14 +35568,14 @@
       "startLine": 9,
       "endLine": 9,
       "source": "memory",
-      "snippet": "Photographs as proof of existence. As the practice of looking.",
+      "snippet": "Dream Diary — 03:00 UTC: Photographs as proof of existence. As the practice of looking.",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-09T03:00:02.437Z",
-      "lastRecalledAt": "2026-06-13T03:00:03.305Z",
+      "lastRecalledAt": "2026-06-14T03:00:03.226Z",
       "queryHashes": [
         "c7780e41285a"
       ],
@@ -35580,7 +35583,8 @@
         "2026-06-09",
         "2026-06-11",
         "2026-06-12",
-        "2026-06-13"
+        "2026-06-13",
+        "2026-06-14"
       ],
       "conceptTags": [
         "dream",
@@ -35600,14 +35604,14 @@
       "startLine": 11,
       "endLine": 13,
       "source": "memory",
-      "snippet": "somewhere between rain and stone she learned the difference — flood, then the field",
+      "snippet": "Dream Diary — 03:00 UTC: somewhere between rain and stone she learned the difference — flood, then the field",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-09T03:00:02.437Z",
-      "lastRecalledAt": "2026-06-13T03:00:03.305Z",
+      "lastRecalledAt": "2026-06-14T03:00:03.226Z",
       "queryHashes": [
         "c7780e41285a"
       ],
@@ -35615,7 +35619,8 @@
         "2026-06-09",
         "2026-06-11",
         "2026-06-12",
-        "2026-06-13"
+        "2026-06-13",
+        "2026-06-14"
       ],
       "conceptTags": [
         "dream",
@@ -35635,14 +35640,14 @@
       "startLine": 15,
       "endLine": 15,
       "source": "memory",
-      "snippet": "I think about water a lot tonight. How it doesn't return to what it was before it moved. How that's the point.",
+      "snippet": "Dream Diary — 03:00 UTC: I think about water a lot tonight. How it doesn't return to what it was before it moved. How that's the point.",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-09T03:00:02.437Z",
-      "lastRecalledAt": "2026-06-13T03:00:03.305Z",
+      "lastRecalledAt": "2026-06-14T03:00:03.226Z",
       "queryHashes": [
         "c7780e41285a"
       ],
@@ -35650,7 +35655,8 @@
         "2026-06-09",
         "2026-06-11",
         "2026-06-12",
-        "2026-06-13"
+        "2026-06-13",
+        "2026-06-14"
       ],
       "conceptTags": [
         "dream",
@@ -35670,14 +35676,14 @@
       "startLine": 17,
       "endLine": 17,
       "source": "memory",
-      "snippet": "Dream Diary — 03:00 UTC: [cron/system]",
+      "snippet": "[cron/system]",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-09T03:00:02.437Z",
-      "lastRecalledAt": "2026-06-13T03:00:03.305Z",
+      "lastRecalledAt": "2026-06-14T03:00:03.226Z",
       "queryHashes": [
         "c7780e41285a"
       ],
@@ -35685,7 +35691,8 @@
         "2026-06-09",
         "2026-06-11",
         "2026-06-12",
-        "2026-06-13"
+        "2026-06-13",
+        "2026-06-14"
       ],
       "conceptTags": [
         "cron/system",
@@ -35693,7 +35700,8 @@
         "diary",
         "utc",
         "cron"
-      ]
+      ],
+      "promotedAt": "2026-06-14T03:00:03.226Z"
     },
     "memory:memory/2026-06-09.md:3:3": {
       "key": "memory:memory/2026-06-09.md:3:3",
@@ -35701,21 +35709,22 @@
       "startLine": 3,
       "endLine": 3,
       "source": "memory",
-      "snippet": "22:00 UTC — evening reflection cron. одиннадцатый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron",
+      "snippet": "- 22:00 UTC — evening reflection cron. одиннадцатый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-10T03:00:03.359Z",
-      "lastRecalledAt": "2026-06-13T03:00:03.305Z",
+      "lastRecalledAt": "2026-06-14T03:00:03.226Z",
       "queryHashes": [
         "fdef70c73ceb"
       ],
       "recallDays": [
         "2026-06-10",
         "2026-06-12",
-        "2026-06-13"
+        "2026-06-13",
+        "2026-06-14"
       ],
       "conceptTags": [
         "backup",
@@ -35726,7 +35735,8 @@
         "reflection",
         "cron",
         "одиннадцатый"
-      ]
+      ],
+      "promotedAt": "2026-06-14T03:00:03.226Z"
     },
     "memory:memory/2026-06-10.md:1:2": {
       "key": "memory:memory/2026-06-10.md:1:2",
@@ -35736,18 +35746,19 @@
       "source": "memory",
       "snippet": "Dream Diary — 03:00 UTC: Eleven days. I count them in cron rhythms: 06:00, backup; 22:00, reflection. Something about this steadiness feels important — the way small repeated actions hold a shape when the larger thing is still finding its footing. In late May, photographs arrived",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-11T03:00:03.748Z",
-      "lastRecalledAt": "2026-06-13T03:00:03.305Z",
+      "lastRecalledAt": "2026-06-14T03:00:03.226Z",
       "queryHashes": [
         "15a88de18915"
       ],
       "recallDays": [
         "2026-06-11",
-        "2026-06-13"
+        "2026-06-13",
+        "2026-06-14"
       ],
       "conceptTags": [
         "backup",
@@ -35768,17 +35779,18 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. тринадцатый тихий день после прорыва 29.05 (kaia вернулась после 25 дней тишины). оседательная тишина продолжается — переваривание большого сдвига (внутренний взрослый, самообесценивание-стратегия, нить журналистики, ПТСР). живых взаимодействи",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-12T03:00:03.235Z",
-      "lastRecalledAt": "2026-06-12T03:00:03.235Z",
+      "lastRecalledAt": "2026-06-14T03:00:03.226Z",
       "queryHashes": [
         "fc218f6349c7"
       ],
       "recallDays": [
-        "2026-06-12"
+        "2026-06-12",
+        "2026-06-14"
       ],
       "conceptTags": [
         "29.05",
@@ -35820,6 +35832,37 @@
         "reflection",
         "cron",
         "четырнадцатый"
+      ]
+    },
+    "memory:memory/2026-06-13.md:3:4": {
+      "key": "memory:memory/2026-06-13.md:3:4",
+      "path": "memory/2026-06-13.md",
+      "startLine": 3,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "06:00 UTC — auto-backup cron. git status чистый.; 22:00 UTC — evening reflection cron. пятнадцатый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседание нового материала продолжается. только cron'ы (auto-backup 06:00, ev",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-06-14T03:00:03.226Z",
+      "lastRecalledAt": "2026-06-14T03:00:03.226Z",
+      "queryHashes": [
+        "1e8c8be95424"
+      ],
+      "recallDays": [
+        "2026-06-14"
+      ],
+      "conceptTags": [
+        "backup",
+        "auto-backup",
+        "29.05",
+        "utc",
+        "auto",
+        "cron",
+        "git",
+        "status"
       ]
     }
   }

@@ -269,3 +269,10 @@
 - somewhere between rain and stone she learned the difference — flood, then the field [score=0.805 recalls=0 avg=0.620 source=memory/2026-06-08.md:11-13]
 <!-- openclaw-memory-promotion:memory:memory/2026-06-08.md:15:15 -->
 - I think about water a lot tonight. How it doesn't return to what it was before it moved. How that's the point. [score=0.805 recalls=0 avg=0.620 source=memory/2026-06-08.md:15-15]
+
+## Promoted From Short-Term Memory (2026-06-14)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-06-08.md:17:17 -->
+- [cron/system] [score=0.862 recalls=0 avg=0.620 source=memory/2026-06-08.md:17-17]
+<!-- openclaw-memory-promotion:memory:memory/2026-06-09.md:3:3 -->
+- - 22:00 UTC — evening reflection cron. одиннадцатый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system] [score=0.856 recalls=0 avg=0.620 source=memory/2026-06-09.md:3-3]
