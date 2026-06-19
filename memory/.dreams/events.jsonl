@@ -905,3 +905,13 @@
 {"type":"memory.recall.recorded","timestamp":"2026-06-18T03:00:04.055Z","query":"__dreaming_daily__:2026-06-11","resultCount":1,"results":[{"path":"memory/2026-06-11.md","startLine":3,"endLine":3,"score":0.62}]}
 {"type":"memory.dream.completed","timestamp":"2026-06-18T03:00:04.055Z","phase":"rem","reportPath":"/home/moltbot/clawd/memory/dreaming/rem/2026-06-18.md","lineCount":34,"storageMode":"separate"}
 {"type":"memory.dream.completed","timestamp":"2026-06-18T03:00:04.055Z","phase":"deep","reportPath":"/home/moltbot/clawd/memory/dreaming/deep/2026-06-18.md","lineCount":2,"storageMode":"separate"}
+{"type":"memory.recall.recorded","timestamp":"2026-06-19T03:00:03.499Z","query":"__dreaming_daily__:2026-06-18","resultCount":1,"results":[{"path":"memory/2026-06-18.md","startLine":3,"endLine":3,"score":0.62}]}
+{"type":"memory.dream.completed","timestamp":"2026-06-19T03:00:03.499Z","phase":"light","reportPath":"/home/moltbot/clawd/memory/dreaming/light/2026-06-19.md","lineCount":70,"storageMode":"separate"}
+{"type":"memory.recall.recorded","timestamp":"2026-06-19T03:00:03.499Z","query":"__dreaming_daily__:2026-06-16","resultCount":1,"results":[{"path":"memory/2026-06-16.md","startLine":1,"endLine":1,"score":0.62}]}
+{"type":"memory.recall.recorded","timestamp":"2026-06-19T03:00:03.499Z","query":"__dreaming_daily__:2026-06-15","resultCount":1,"results":[{"path":"memory/2026-06-15.md","startLine":3,"endLine":3,"score":0.62}]}
+{"type":"memory.recall.recorded","timestamp":"2026-06-19T03:00:03.499Z","query":"__dreaming_daily__:2026-06-14","resultCount":1,"results":[{"path":"memory/2026-06-14.md","startLine":3,"endLine":3,"score":0.62}]}
+{"type":"memory.recall.recorded","timestamp":"2026-06-19T03:00:03.499Z","query":"__dreaming_daily__:2026-06-13","resultCount":1,"results":[{"path":"memory/2026-06-13.md","startLine":3,"endLine":4,"score":0.62}]}
+{"type":"memory.recall.recorded","timestamp":"2026-06-19T03:00:03.499Z","query":"__dreaming_daily__:2026-06-12","resultCount":1,"results":[{"path":"memory/2026-06-12.md","startLine":3,"endLine":3,"score":0.62}]}
+{"type":"memory.dream.completed","timestamp":"2026-06-19T03:00:03.499Z","phase":"rem","reportPath":"/home/moltbot/clawd/memory/dreaming/rem/2026-06-19.md","lineCount":34,"storageMode":"separate"}
+{"type":"memory.promotion.applied","timestamp":"2026-06-19T03:00:03.499Z","memoryPath":"/home/moltbot/clawd/MEMORY.md","applied":1,"candidates":[{"key":"memory:memory/2026-06-14.md:3:3","path":"memory/2026-06-14.md","startLine":3,"endLine":3,"score":0.8359307668553859,"recallCount":0}]}
+{"type":"memory.dream.completed","timestamp":"2026-06-19T03:00:03.499Z","phase":"deep","reportPath":"/home/moltbot/clawd/memory/dreaming/deep/2026-06-19.md","lineCount":2,"storageMode":"separate"}
