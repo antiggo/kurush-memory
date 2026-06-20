@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T03:00:03.499Z",
+  "updatedAt": "2026-06-20T03:00:02.261Z",
   "entries": {
     "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1": {
       "key": "memory:memory/.dreams/session-corpus/2026-04-10.txt:1:1",
@@ -35865,12 +35865,12 @@
       "source": "memory",
       "snippet": "06:00 UTC — auto-backup cron. git status чистый.; 22:00 UTC — evening reflection cron. пятнадцатый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседание нового материала продолжается. только cron'ы (auto-backup 06:00, ev",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-14T03:00:03.226Z",
-      "lastRecalledAt": "2026-06-19T03:00:03.499Z",
+      "lastRecalledAt": "2026-06-20T03:00:02.261Z",
       "queryHashes": [
         "1e8c8be95424"
       ],
@@ -35879,7 +35879,8 @@
         "2026-06-16",
         "2026-06-17",
         "2026-06-18",
-        "2026-06-19"
+        "2026-06-19",
+        "2026-06-20"
       ],
       "conceptTags": [
         "backup",
@@ -35898,14 +35899,14 @@
       "startLine": 3,
       "endLine": 3,
       "source": "memory",
-      "snippet": "- 22:00 UTC — evening reflection cron. шестнадцатый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system]",
+      "snippet": "22:00 UTC — evening reflection cron. шестнадцатый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening refle",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-15T03:00:02.350Z",
-      "lastRecalledAt": "2026-06-19T03:00:03.499Z",
+      "lastRecalledAt": "2026-06-20T03:00:02.261Z",
       "queryHashes": [
         "1ecb63afba53"
       ],
@@ -35913,7 +35914,8 @@
         "2026-06-15",
         "2026-06-17",
         "2026-06-18",
-        "2026-06-19"
+        "2026-06-19",
+        "2026-06-20"
       ],
       "conceptTags": [
         "backup",
@@ -35933,21 +35935,22 @@
       "startLine": 3,
       "endLine": 3,
       "source": "memory",
-      "snippet": "22:00 UTC — evening reflection cron. семнадцатый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflec",
+      "snippet": "- 22:00 UTC — evening reflection cron. семнадцатый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system]",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-16T03:00:04.373Z",
-      "lastRecalledAt": "2026-06-19T03:00:03.499Z",
+      "lastRecalledAt": "2026-06-20T03:00:02.261Z",
       "queryHashes": [
         "cc096e26b30e"
       ],
       "recallDays": [
         "2026-06-16",
         "2026-06-18",
-        "2026-06-19"
+        "2026-06-19",
+        "2026-06-20"
       ],
       "conceptTags": [
         "backup",
@@ -35958,7 +35961,8 @@
         "reflection",
         "cron",
         "семнадцатый"
-      ]
+      ],
+      "promotedAt": "2026-06-20T03:00:02.261Z"
     },
     "memory:memory/2026-06-16.md:1:1": {
       "key": "memory:memory/2026-06-16.md:1:1",
@@ -35968,18 +35972,19 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. восемнадцатый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening refl",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-17T03:00:02.535Z",
-      "lastRecalledAt": "2026-06-19T03:00:03.499Z",
+      "lastRecalledAt": "2026-06-20T03:00:02.261Z",
       "queryHashes": [
         "67f676ea04e5"
       ],
       "recallDays": [
         "2026-06-17",
-        "2026-06-19"
+        "2026-06-19",
+        "2026-06-20"
       ],
       "conceptTags": [
         "backup",
@@ -36000,17 +36005,18 @@
       "source": "memory",
       "snippet": "22:00 UTC — evening reflection cron. девятнадцатый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. только cron'ы (auto-backup 06:00, evening reflection 22:00). живых взаимодействий с kaia и",
       "recallCount": 0,
-      "dailyCount": 1,
+      "dailyCount": 2,
       "groundedCount": 0,
-      "totalScore": 0.62,
+      "totalScore": 1.24,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-18T03:00:04.055Z",
-      "lastRecalledAt": "2026-06-18T03:00:04.055Z",
+      "lastRecalledAt": "2026-06-20T03:00:02.261Z",
       "queryHashes": [
         "a70851f0092b"
       ],
       "recallDays": [
-        "2026-06-18"
+        "2026-06-18",
+        "2026-06-20"
       ],
       "conceptTags": [
         "backup",
@@ -36207,6 +36213,37 @@
         "reflection",
         "cron",
         "двадцатый"
+      ]
+    },
+    "memory:memory/2026-06-19.md:3:3": {
+      "key": "memory:memory/2026-06-19.md:3:3",
+      "path": "memory/2026-06-19.md",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "22:00 UTC — evening reflection cron. двадцать первый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening re",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-06-20T03:00:02.261Z",
+      "lastRecalledAt": "2026-06-20T03:00:02.261Z",
+      "queryHashes": [
+        "68c71b792c96"
+      ],
+      "recallDays": [
+        "2026-06-20"
+      ],
+      "conceptTags": [
+        "backup",
+        "29.05",
+        "auto-backup",
+        "utc",
+        "evening",
+        "reflection",
+        "cron",
+        "двадцать"
       ]
     }
   }
