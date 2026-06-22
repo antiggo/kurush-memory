@@ -309,13 +309,6 @@
       "lineCount": 3,
       "lastContentLine": 3
     },
-    "main:sessions/37cb8b9d-995d-4248-b132-e3b9850a4ff9.jsonl.deleted.2026-05-22T03-00-26.454Z": {
-      "mtimeMs": 1779418825743,
-      "size": 6221,
-      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
-      "lineCount": 0,
-      "lastContentLine": 0
-    },
     "main:sessions/394a8e89-b495-4e0a-a9c6-3b3b6df8ba30.jsonl.deleted.2026-06-15T03-00-30.307Z": {
       "mtimeMs": 1781492430304,
       "size": 5305,
@@ -350,6 +343,13 @@
       "contentHash": "edfda08d6e025161efae641f18884e335a5e3d9981158971cd6eaeb887f9f3b2",
       "lineCount": 3,
       "lastContentLine": 3
+    },
+    "main:sessions/3e538966-2847-4322-9a91-99fe15ace0b5.jsonl": {
+      "mtimeMs": 1782010871281,
+      "size": 6016,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
     },
     "main:sessions/3fb0b35f-679d-4e97-9b61-28efcd71eb56.jsonl": {
       "mtimeMs": 1778382038794,
@@ -567,6 +567,13 @@
       "contentHash": "635d830e0dd8839d9094ade0061e910aebfbbea9f8ff36b209a3df6d5b057ba5",
       "lineCount": 4,
       "lastContentLine": 4
+    },
+    "main:sessions/631b7fdd-7f36-47c3-8146-a5f6a4769d98.jsonl.deleted.2026-06-21T03-00-31.906Z": {
+      "mtimeMs": 1782010830917,
+      "size": 5819,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
     },
     "main:sessions/64fcd8ea-65f1-4ba2-8ece-517071af0774.jsonl": {
       "mtimeMs": 1781751666013,
@@ -1334,6 +1341,13 @@
     "main:sessions/f8a40ab4-aff5-4b73-b176-1ee3d424f942.jsonl.deleted.2026-06-17T03-01-14.938Z": {
       "mtimeMs": 1779073273581,
       "size": 5294,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
+    "main:sessions/fb15fd4f-734d-451d-babc-5ba1ed29a4fb.jsonl": {
+      "mtimeMs": 1782010854357,
+      "size": 3422,
       "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
       "lineCount": 0,
       "lastContentLine": 0
@@ -2761,6 +2775,6 @@
       "575cb47a009058aa48cd5ebe7b153d15927230fa",
       "8efc1cb35f9aa68955716e27793d40cc97f1e8bc"
     ],
-    "main:274c3fe2-6ab2-4027-8261-75375d987c7a": []
+    "main:631b7fdd-7f36-47c3-8146-a5f6a4769d98": []
   }
 }
