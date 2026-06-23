@@ -288,6 +288,13 @@
       "lineCount": 0,
       "lastContentLine": 0
     },
+    "main:sessions/3558a85a-085c-408d-b88c-f27cabeb8dc2.jsonl": {
+      "mtimeMs": 1782097252066,
+      "size": 3710,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
     "main:sessions/35b8c1f2-06b3-498c-9c91-580a1b434df3.jsonl.deleted.2026-05-26T03-02-11.329Z": {
       "mtimeMs": 1777172520791,
       "size": 4978,
@@ -330,13 +337,6 @@
       "lineCount": 3,
       "lastContentLine": 3
     },
-    "main:sessions/3cbc224a-c2f6-4c0a-b13c-478e8e799d47.jsonl.deleted.2026-05-23T03-00-24.743Z": {
-      "mtimeMs": 1779505224106,
-      "size": 6530,
-      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
-      "lineCount": 0,
-      "lastContentLine": 0
-    },
     "main:sessions/3d04f3c7-9761-4c5b-ab70-a1cc66795117.jsonl": {
       "mtimeMs": 1778295636372,
       "size": 3271,
@@ -368,6 +368,13 @@
     "main:sessions/4243d018-f89d-4943-b911-6ecd52bb67f4.jsonl": {
       "mtimeMs": 1777356276943,
       "size": 3291,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
+    "main:sessions/4334e3a5-d7b9-46ed-be68-d3d455fc2d1e.jsonl": {
+      "mtimeMs": 1782097271577,
+      "size": 5961,
       "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
       "lineCount": 0,
       "lastContentLine": 0
@@ -956,6 +963,13 @@
     "main:sessions/a60bec5a-7764-4f3e-be3f-6a4a6aa58f7b.jsonl": {
       "mtimeMs": 1777615411114,
       "size": 2179,
+      "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
+      "lineCount": 0,
+      "lastContentLine": 0
+    },
+    "main:sessions/a6f73582-2b21-48cc-a2a0-5d98a113a2be.jsonl.deleted.2026-06-22T03-00-32.734Z": {
+      "mtimeMs": 1782097232018,
+      "size": 5218,
       "contentHash": "75a11da44c802486bc6f65640aa48a730f0f684c5c07a42ba3cd1735eb3fb070",
       "lineCount": 0,
       "lastContentLine": 0
@@ -2775,6 +2789,6 @@
       "575cb47a009058aa48cd5ebe7b153d15927230fa",
       "8efc1cb35f9aa68955716e27793d40cc97f1e8bc"
     ],
-    "main:631b7fdd-7f36-47c3-8146-a5f6a4769d98": []
+    "main:a6f73582-2b21-48cc-a2a0-5d98a113a2be": []
   }
 }
