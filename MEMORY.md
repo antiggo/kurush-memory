@@ -316,3 +316,8 @@
 
 <!-- openclaw-memory-promotion:memory:memory/2026-06-18.md:3:3 -->
 - - 22:00 UTC — evening reflection cron. двадцатый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system] [score=0.856 recalls=0 avg=0.620 source=memory/2026-06-18.md:3-3]
+
+## Promoted From Short-Term Memory (2026-06-24)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-06-19.md:3:3 -->
+- - 22:00 UTC — evening reflection cron. двадцать первый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system] [score=0.856 recalls=0 avg=0.620 source=memory/2026-06-19.md:3-3]
