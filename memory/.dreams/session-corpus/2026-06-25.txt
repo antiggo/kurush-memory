@@ -1,0 +1,8 @@
+[main/sessions/main/912b9e2e-3392-41d1-b6f6-4696d7bd7e24.jsonl#L406] User: healthcheck: ответь одним словом OK
+[main/sessions/main/912b9e2e-3392-41d1-b6f6-4696d7bd7e24.jsonl#L407] Assistant: OK
+[main/sessions/main/912b9e2e-3392-41d1-b6f6-4696d7bd7e24.jsonl#L408] User: healthcheck: ответь одним словом OK
+[main/sessions/main/912b9e2e-3392-41d1-b6f6-4696d7bd7e24.jsonl#L409] Assistant: OK
+[main/sessions/main/912b9e2e-3392-41d1-b6f6-4696d7bd7e24.jsonl#L410] User: healthcheck: ответь OK
+[main/sessions/main/912b9e2e-3392-41d1-b6f6-4696d7bd7e24.jsonl#L411] Assistant: OK
+[main/sessions/main/912b9e2e-3392-41d1-b6f6-4696d7bd7e24.jsonl#L412] User: healthcheck OK
+[main/sessions/main/912b9e2e-3392-41d1-b6f6-4696d7bd7e24.jsonl#L413] Assistant: OK

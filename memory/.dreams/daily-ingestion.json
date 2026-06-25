@@ -3,23 +3,23 @@
   "files": {
     "memory/2026-06-23.md": {
       "mtimeMs": 1782252044495,
-      "size": 470
+      "size": 470,
+      "lastDreamingDayIngested": "2026-06-25"
     },
     "memory/2026-06-20.md": {
       "mtimeMs": 1781992828531,
-      "size": 472
+      "size": 472,
+      "lastDreamingDayIngested": "2026-06-25"
     },
     "memory/2026-06-19.md": {
       "mtimeMs": 1781906429018,
-      "size": 472
+      "size": 472,
+      "lastDreamingDayIngested": "2026-06-25"
     },
     "memory/2026-06-18.md": {
       "mtimeMs": 1781820027707,
-      "size": 461
-    },
-    "memory/2026-06-17.md": {
-      "mtimeMs": 1781733636678,
-      "size": 455
+      "size": 461,
+      "lastDreamingDayIngested": "2026-06-25"
     }
   }
 }
