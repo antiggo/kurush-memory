@@ -1,0 +1,2 @@
+[main/sessions/main/2d2f4f6c-90fc-4125-b6b1-ff100048f4d2.jsonl#L6] User: say OK
+[main/sessions/main/2d2f4f6c-90fc-4125-b6b1-ff100048f4d2.jsonl#L27] Assistant: OK
