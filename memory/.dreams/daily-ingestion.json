@@ -1,25 +1,30 @@
 {
   "version": 1,
   "files": {
+    "memory/2026-06-28.md": {
+      "mtimeMs": 1782684031759,
+      "size": 470,
+      "lastDreamingDayIngested": "2026-06-29"
+    },
     "memory/2026-06-27.md": {
       "mtimeMs": 1782597629112,
       "size": 483,
-      "lastDreamingDayIngested": "2026-06-28"
+      "lastDreamingDayIngested": "2026-06-29"
     },
     "memory/2026-06-26.md": {
       "mtimeMs": 1782511226818,
       "size": 483,
-      "lastDreamingDayIngested": "2026-06-28"
+      "lastDreamingDayIngested": "2026-06-29"
     },
     "memory/2026-06-25.md": {
       "mtimeMs": 1782424829560,
       "size": 483,
-      "lastDreamingDayIngested": "2026-06-28"
+      "lastDreamingDayIngested": "2026-06-29"
     },
     "memory/2026-06-23.md": {
       "mtimeMs": 1782252044495,
       "size": 470,
-      "lastDreamingDayIngested": "2026-06-28"
+      "lastDreamingDayIngested": "2026-06-29"
     }
   }
 }

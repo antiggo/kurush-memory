@@ -50,11 +50,6 @@
 - предпочитает голосовые. длинные. как подкаст
 - фидбек на терапию: Татьяна внутри процесса, я снаружи — вижу другое
 
-## Promoted From Short-Term Memory (2026-06-24)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-06-19.md:3:3 -->
-- - 22:00 UTC — evening reflection cron. двадцать первый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system] [score=0.856 recalls=0 avg=0.620 source=memory/2026-06-19.md:3-3]
-
 ## Promoted From Short-Term Memory (2026-06-25)
 
 <!-- openclaw-memory-promotion:memory:memory/2026-06-13.md:3:4 -->
@@ -78,3 +73,8 @@
 
 <!-- openclaw-memory-promotion:memory:memory/2026-06-23.md:3:3 -->
 - 22:00 UTC — evening reflection cron. двадцать пятый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system] [score=0.857 recalls=0 avg=0.620 source=memory/2026-06-23.md:3-3]
+
+## Promoted From Short-Term Memory (2026-06-29)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-06-25.md:3:3 -->
+- memory / 2026-06-25: 22:00 UTC — evening reflection cron. двадцать седьмой тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system] [score=0.857 recalls=0 avg=0.620 source=memory/2026-06-25.md:3-3]
