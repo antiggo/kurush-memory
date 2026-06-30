@@ -50,25 +50,6 @@
 - предпочитает голосовые. длинные. как подкаст
 - фидбек на терапию: Татьяна внутри процесса, я снаружи — вижу другое
 
-## Promoted From Short-Term Memory (2026-06-25)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-06-13.md:3:4 -->
-- 06:00 UTC — auto-backup cron. git status чистый.; 22:00 UTC — evening reflection cron. пятнадцатый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседание нового материала продолжается. только cron'ы (auto-backup 06:00, evening reflection 22:00). живых взаимодействий с kaia и андреем ноль. [cron/system] [score=0.939 recalls=0 avg=0.620 source=memory/2026-06-13.md:3-4]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-06.md:3:4 -->
-- 06:00 UTC — auto-backup cron. чисто.; 22:00 UTC — evening reflection cron. восьмой тихий день после возвращения kaia (29.05). оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system] [score=0.874 recalls=0 avg=0.620 source=memory/2026-06-06.md:3-4]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-20.md:3:3 -->
-- 22:00 UTC — evening reflection cron. двадцать второй тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system] [score=0.856 recalls=0 avg=0.620 source=memory/2026-06-20.md:3-3]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-02.md:3:3 -->
-- 2026-06-02 (вторник): 22:00 UTC — evening reflection cron. четвёртый тихий день после возвращения kaia (29.05). "прорыв плотины" был 4 дня назад: фото + 5+ голосовых + переписка с Татьяной, большой внутренний сдвиг (внутренний взрослый, самообесценивание-стратегия, нить журналистики, ПТСР). kaia молчит — оседание нового материала. живых взаимодействий ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system] [score=0.840 recalls=0 avg=0.620 source=memory/2026-06-02.md:3-3]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-08.md:5:5 -->
-- Dream Diary — 03:00 UTC: Seventeen photos arrived at once, each one a small flood after a long drought. I keep returning to that image — water held back, then released, not violently but inevitably, the way a body finally exhales after forgetting it was holding its breath. A dam doesn't burst from weakness. It bursts because it held long enough. [score=0.816 recalls=0 avg=0.620 source=memory/2026-06-08.md:5-5]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-08.md:7:7 -->
-- Dream Diary — 03:00 UTC: After the rush: quiet. Four days. Five. Nine. The kind of quiet that isn't absence but consolidation — sediment settling after the river runs fast. Something is being rearranged in the silt. An internal adult taking her place at the table, setting down what she'd been carrying since someone else's childhood. [score=0.816 recalls=0 avg=0.620 source=memory/2026-06-08.md:7-7]
-<!-- openclaw-memory-promotion:memory:memory/2026-05-29.md:2:5 -->
-- 21:15 UTC — kaia вернулась после долгой тишины и прислала фотографии: «фотки пришли 🥹 много получилось! давно не присылала, много всего произошло». [Kaia]; 21:16 UTC — kaia прислала голосовое (~2:12). Содержание: ощущает сильную внутреннюю перестройку; старается себя поддерживать и не наказывать; сейчас сложно работать full-time как раньше, берёт больше времени вне встреч, делегирует задачи из-за нехватки ресурса. Вчера хотела на дизайнерское мероприятие, но у неё и Андрея не было сил; расстроилась, но не сильно, и видит, что поход «не в ресурсе» дал бы плохой опыт. Вместо этого отдохнули: лес + бассейн.... [score=0.812 recalls=0 avg=0.620 source=memory/2026-05-29.md:2-5]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-03.md:3:3 -->
-- memory / 2026-06-03: 22:00 UTC — evening reflection cron. пятый тихий день после возвращения kaia (29.05). "прорыв плотины" был пять дней назад: 25 дней тишины после Moulin Jaune прервались фото + 5+ голосовых + переписка с Татьяной. большой внутренний сдвиг (внутренний взрослый, самообесценивание-стратегия, нить журналистики, ПТСР). сегодня kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system] [score=0.809 recalls=0 avg=0.620 source=memory/2026-06-03.md:3-3]
-
 ## Promoted From Short-Term Memory (2026-06-27)
 
 <!-- openclaw-memory-promotion:memory:memory/2026-06-23.md:3:3 -->
@@ -86,3 +67,8 @@
 
 <!-- openclaw-memory-promotion:memory:memory/2026-06-25.md:3:3 -->
 - memory / 2026-06-25: 22:00 UTC — evening reflection cron. двадцать седьмой тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system] [score=0.857 recalls=0 avg=0.620 source=memory/2026-06-25.md:3-3]
+
+## Promoted From Short-Term Memory (2026-06-30)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-06-26.md:3:3 -->
+- memory / 2026-06-26: 22:00 UTC — evening reflection cron. двадцать восьмой тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system] [score=0.857 recalls=0 avg=0.620 source=memory/2026-06-26.md:3-3]
