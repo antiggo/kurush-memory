@@ -1,411 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02T03:00:05.075Z",
+  "updatedAt": "2026-07-03T03:00:01.037Z",
   "entries": {
-    "memory:memory/.dreams/session-corpus/2026-04-29.txt:10:10": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:10:10",
-      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
-      "startLine": 10,
-      "endLine": 10,
-      "source": "memory",
-      "snippet": "Assistant: Сегодняшнего daily notes нет. Проверю что было за последние дни и какие файлы существуют.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-04-30T03:01:31.611Z",
-      "lastRecalledAt": "2026-04-30T03:01:31.611Z",
-      "queryHashes": [
-        "401e1af52a6f"
-      ],
-      "recallDays": [
-        "2026-04-30"
-      ],
-      "conceptTags": [
-        "сегодняшнего",
-        "нет",
-        "проверю",
-        "что",
-        "было",
-        "последние",
-        "дни",
-        "какие"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-04-29.txt:11:11": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:11:11",
-      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
-      "startLine": 11,
-      "endLine": 11,
-      "source": "memory",
-      "snippet": "Assistant: Проверю git статус и были ли сессии сегодня.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-04-30T03:01:31.611Z",
-      "lastRecalledAt": "2026-04-30T03:01:31.611Z",
-      "queryHashes": [
-        "401e1af52a6f"
-      ],
-      "recallDays": [
-        "2026-04-30"
-      ],
-      "conceptTags": [
-        "проверю",
-        "git",
-        "статус",
-        "были",
-        "сессии",
-        "сегодня"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-04-29.txt:12:12": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:12:12",
-      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
-      "startLine": 12,
-      "endLine": 12,
-      "source": "memory",
-      "snippet": "Assistant: Good. Git is clean (no uncommitted changes). Now let me work through the reflection. **Structured questions:** 1. **Какое правило нарушил?** — Не вижу нарушений за сегодня. Тишина от kaia — ожидаемая (Moulin Jaune, день 3). Cron задачи отработали корректно (auto-backup",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-04-30T03:01:31.611Z",
-      "lastRecalledAt": "2026-04-30T03:01:31.611Z",
-      "queryHashes": [
-        "401e1af52a6f"
-      ],
-      "recallDays": [
-        "2026-04-30"
-      ],
-      "conceptTags": [
-        "backup",
-        "auto-backup",
-        "good",
-        "git",
-        "clean",
-        "uncommitted",
-        "changes",
-        "now"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-04-29.txt:13:13": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-29.txt:13:13",
-      "path": "memory/.dreams/session-corpus/2026-04-29.txt",
-      "startLine": 13,
-      "endLine": 13,
-      "source": "memory",
-      "snippet": "Assistant: No changes needed to assumptions.md or observations.md — reality didn't correct anything today. MEMORY.md got distill already yesterday. Now commit and push.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-04-30T03:01:31.611Z",
-      "lastRecalledAt": "2026-04-30T03:01:31.611Z",
-      "queryHashes": [
-        "401e1af52a6f"
-      ],
-      "recallDays": [
-        "2026-04-30"
-      ],
-      "conceptTags": [
-        "assumptions.md",
-        "observations.md",
-        "memory.md",
-        "changes",
-        "needed",
-        "reality",
-        "didn't",
-        "correct"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-04-30.txt:10:10": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:10:10",
-      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
-      "startLine": 10,
-      "endLine": 10,
-      "source": "memory",
-      "snippet": "Assistant: Afternoon (16:26 UTC, 19:26 UTC+3). Nothing in HEARTBEAT.md needs attention. HEARTBEAT_OK",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
-      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
-      "queryHashes": [
-        "cf3cd2e1e340"
-      ],
-      "recallDays": [
-        "2026-05-01"
-      ],
-      "conceptTags": [
-        "heartbeat.md",
-        "heartbeat-ok",
-        "afternoon",
-        "utc",
-        "nothing",
-        "needs",
-        "attention"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-04-30.txt:2:2": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:2:2",
-      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
-      "startLine": 2,
-      "endLine": 2,
-      "source": "memory",
-      "snippet": "Assistant: Changes are clean. Nothing to commit.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
-      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
-      "queryHashes": [
-        "cf3cd2e1e340"
-      ],
-      "recallDays": [
-        "2026-05-01"
-      ],
-      "conceptTags": [
-        "changes",
-        "clean",
-        "nothing",
-        "commit"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-04-30.txt:3:3": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:3:3",
-      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
-      "startLine": 3,
-      "endLine": 3,
-      "source": "memory",
-      "snippet": "Assistant: No uncommitted changes.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
-      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
-      "queryHashes": [
-        "cf3cd2e1e340"
-      ],
-      "recallDays": [
-        "2026-05-01"
-      ],
-      "conceptTags": [
-        "uncommitted",
-        "changes"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-04-30.txt:4:4": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:4:4",
-      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
-      "startLine": 4,
-      "endLine": 4,
-      "source": "memory",
-      "snippet": "Assistant: Версии совпадают — `2026.4.27`. NO_REPLY",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
-      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
-      "queryHashes": [
-        "cf3cd2e1e340"
-      ],
-      "recallDays": [
-        "2026-05-01"
-      ],
-      "conceptTags": [
-        "2026.4.27",
-        "no-reply",
-        "версии",
-        "совпадают"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-04-30.txt:5:5": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:5:5",
-      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
-      "startLine": 5,
-      "endLine": 5,
-      "source": "memory",
-      "snippet": "Assistant: No uncommitted changes. NO_REPLY",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
-      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
-      "queryHashes": [
-        "cf3cd2e1e340"
-      ],
-      "recallDays": [
-        "2026-05-01"
-      ],
-      "conceptTags": [
-        "no-reply",
-        "uncommitted",
-        "changes"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-04-30.txt:6:6": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:6:6",
-      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
-      "startLine": 6,
-      "endLine": 6,
-      "source": "memory",
-      "snippet": "Assistant: Read HEARTBEAT.md if it exists (workspace context). Follow it strictly. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/moltbot/clawd/HEARTBEAT.md (exact case). Do no",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
-      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
-      "queryHashes": [
-        "cf3cd2e1e340"
-      ],
-      "recallDays": [
-        "2026-05-01"
-      ],
-      "conceptTags": [
-        "heartbeat.md",
-        "heartbeat-ok",
-        "home/moltbot/clawd/heartbeat.md",
-        "read",
-        "exists",
-        "context",
-        "follow",
-        "strictly"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-04-30.txt:7:7": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:7:7",
-      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
-      "startLine": 7,
-      "endLine": 7,
-      "source": "memory",
-      "snippet": "Assistant: Dreaming files auto-generated (cron handles these). No user interactions in days. Working tree has only dream artifacts — auto-commit cron will pick them up. Nothing to distill. HEARTBEAT_OK",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
-      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
-      "queryHashes": [
-        "cf3cd2e1e340"
-      ],
-      "recallDays": [
-        "2026-05-01"
-      ],
-      "conceptTags": [
-        "auto-generated",
-        "auto-commit",
-        "heartbeat-ok",
-        "dreaming",
-        "auto",
-        "generated",
-        "cron",
-        "handles"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-04-30.txt:8:8": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:8:8",
-      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
-      "startLine": 8,
-      "endLine": 8,
-      "source": "memory",
-      "snippet": "Assistant: Night (04:26 UTC, 07:26 UTC+3). Nothing in HEARTBEAT.md needs attention. HEARTBEAT_OK",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
-      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
-      "queryHashes": [
-        "cf3cd2e1e340"
-      ],
-      "recallDays": [
-        "2026-05-01"
-      ],
-      "conceptTags": [
-        "heartbeat.md",
-        "heartbeat-ok",
-        "night",
-        "utc",
-        "nothing",
-        "needs",
-        "attention"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-04-30.txt:9:9": {
-      "key": "memory:memory/.dreams/session-corpus/2026-04-30.txt:9:9",
-      "path": "memory/.dreams/session-corpus/2026-04-30.txt",
-      "startLine": 9,
-      "endLine": 9,
-      "source": "memory",
-      "snippet": "Assistant: Morning (11:26 UTC+3). Nothing in HEARTBEAT.md needs attention. HEARTBEAT_OK",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
-      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
-      "queryHashes": [
-        "cf3cd2e1e340"
-      ],
-      "recallDays": [
-        "2026-05-01"
-      ],
-      "conceptTags": [
-        "heartbeat.md",
-        "heartbeat-ok",
-        "morning",
-        "utc",
-        "nothing",
-        "needs",
-        "attention"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-01.txt:1:1": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-01.txt:1:1",
-      "path": "memory/.dreams/session-corpus/2026-05-01.txt",
-      "startLine": 1,
-      "endLine": 1,
-      "source": "memory",
-      "snippet": "Assistant: No uncommitted changes.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-01T03:00:02.657Z",
-      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
-      "queryHashes": [
-        "23c989536796"
-      ],
-      "recallDays": [
-        "2026-05-01"
-      ],
-      "conceptTags": [
-        "uncommitted",
-        "changes"
-      ]
-    },
     "memory:memory/.dreams/session-corpus/2026-05-01.txt:10:10": {
       "key": "memory:memory/.dreams/session-corpus/2026-05-01.txt:10:10",
       "path": "memory/.dreams/session-corpus/2026-05-01.txt",
@@ -730,98 +326,6 @@
         "auto",
         "commit",
         "cron"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-01.txt:9:9": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-01.txt:9:9",
-      "path": "memory/.dreams/session-corpus/2026-05-01.txt",
-      "startLine": 9,
-      "endLine": 9,
-      "source": "memory",
-      "snippet": "Assistant: Read HEARTBEAT.md if it exists (workspace context). Follow it stricty. Do not infer or repeat old tasks from prior chats. If nothing needs attention, reply HEARTBEAT_OK. When reading HEARTBEAT.md, use workspace file /home/moltbot/clawd/HEARTBEAT.md (exact case). Do not",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-02T03:00:03.037Z",
-      "lastRecalledAt": "2026-05-02T03:00:03.037Z",
-      "queryHashes": [
-        "23c989536796"
-      ],
-      "recallDays": [
-        "2026-05-02"
-      ],
-      "conceptTags": [
-        "heartbeat.md",
-        "heartbeat-ok",
-        "home/moltbot/clawd/heartbeat.md",
-        "read",
-        "exists",
-        "context",
-        "follow",
-        "stricty"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-02.txt:1:1": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-02.txt:1:1",
-      "path": "memory/.dreams/session-corpus/2026-05-02.txt",
-      "startLine": 1,
-      "endLine": 1,
-      "source": "memory",
-      "snippet": "Assistant: Evening check window (20-23 UTC). Quick git check.",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-02T03:00:03.037Z",
-      "lastRecalledAt": "2026-05-02T03:00:03.037Z",
-      "queryHashes": [
-        "815cc1934125"
-      ],
-      "recallDays": [
-        "2026-05-02"
-      ],
-      "conceptTags": [
-        "20-23",
-        "evening",
-        "check",
-        "window",
-        "utc",
-        "quick",
-        "git"
-      ]
-    },
-    "memory:memory/.dreams/session-corpus/2026-05-02.txt:2:2": {
-      "key": "memory:memory/.dreams/session-corpus/2026-05-02.txt:2:2",
-      "path": "memory/.dreams/session-corpus/2026-05-02.txt",
-      "startLine": 2,
-      "endLine": 2,
-      "source": "memory",
-      "snippet": "Assistant: No non-dream changes. No user interactions. Two weeks of pure heartbeats since Apr 15. All quiet. HEARTBEAT_OK",
-      "recallCount": 0,
-      "dailyCount": 1,
-      "groundedCount": 0,
-      "totalScore": 0.58,
-      "maxScore": 0.58,
-      "firstRecalledAt": "2026-05-02T03:00:03.037Z",
-      "lastRecalledAt": "2026-05-02T03:00:03.037Z",
-      "queryHashes": [
-        "815cc1934125"
-      ],
-      "recallDays": [
-        "2026-05-02"
-      ],
-      "conceptTags": [
-        "non-dream",
-        "heartbeat-ok",
-        "non",
-        "dream",
-        "changes",
-        "interactions",
-        "two",
-        "weeks"
       ]
     },
     "memory:memory/.dreams/session-corpus/2026-05-02.txt:3:3": {
@@ -12407,148 +11911,517 @@
         "frameworks"
       ]
     },
-    "memory:memory/2026-04-23.md:3:5": {
-      "key": "memory:memory/2026-04-23.md:3:5",
-      "path": "memory/2026-04-23.md",
-      "startLine": 3,
-      "endLine": 5,
+    "memory:memory/.dreams/session-corpus/2026-07-02.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-02.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-07-02.txt",
+      "startLine": 1,
+      "endLine": 1,
       "source": "memory",
-      "snippet": "06:00 UTC — auto-backup отработал, контекст не менялся; 18:00 UTC — heartbeat, ничего нового; 22:00 UTC — evening reflection cron. живых сообщений от kaia за день не было. тишина после пересылки голосового татьяны (22.04) держится сутки.",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - memory / 2026-06-28: 22:00 UTC — evening reflection cron. тридцатый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаи",
       "recallCount": 0,
-      "dailyCount": 6,
+      "dailyCount": 1,
       "groundedCount": 0,
-      "totalScore": 3.72,
-      "maxScore": 0.62,
-      "firstRecalledAt": "2026-04-24T03:00:00.357Z",
-      "lastRecalledAt": "2026-04-30T03:01:31.611Z",
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
-        "b7fd25b71b44"
+        "3c0928150337"
       ],
       "recallDays": [
-        "2026-04-24",
-        "2026-04-26",
-        "2026-04-27",
-        "2026-04-28",
-        "2026-04-29",
-        "2026-04-30"
+        "2026-07-03"
       ],
       "conceptTags": [
-        "backup",
-        "auto-backup",
-        "22.04",
+        "29.05",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
         "utc",
-        "auto",
-        "отработал",
-        "контекст",
-        "менялся"
+        "evening"
       ]
     },
-    "memory:memory/2026-04-23.md:8:9": {
-      "key": "memory:memory/2026-04-23.md:8:9",
-      "path": "memory/2026-04-23.md",
-      "startLine": 8,
-      "endLine": 9,
-      "source": "memory",
-      "snippet": "наблюдения: после пересылки голосового татьяны kaia снова ушла в тишину. это соответствует паттерну «прислала, чтобы я знал — не чтобы обсуждать». не тянуть в разговор, пока сама не откроет.; Moulin Jaune уже через 4 дня (27 апреля). если kaia не появится — не напоминать заранее,",
-      "recallCount": 0,
-      "dailyCount": 6,
-      "groundedCount": 0,
-      "totalScore": 3.72,
-      "maxScore": 0.62,
-      "firstRecalledAt": "2026-04-24T03:00:00.357Z",
-      "lastRecalledAt": "2026-04-30T03:01:31.611Z",
-      "queryHashes": [
-        "b7fd25b71b44"
-      ],
-      "recallDays": [
-        "2026-04-24",
-        "2026-04-26",
-        "2026-04-27",
-        "2026-04-28",
-        "2026-04-29",
-        "2026-04-30"
-      ],
-      "conceptTags": [
-        "наблюдения",
-        "после",
-        "пересылки",
-        "голосового",
-        "татьяны",
-        "kaia",
-        "снова",
-        "ушла"
-      ]
-    },
-    "memory:memory/2026-04-24.md:3:5": {
-      "key": "memory:memory/2026-04-24.md:3:5",
-      "path": "memory/2026-04-24.md",
-      "startLine": 3,
-      "endLine": 5,
-      "source": "memory",
-      "snippet": "06:00 UTC — auto-backup отработал, контекст не менялся; 12:00 UTC — openclaw version check, heartbeat state update; 22:00 UTC — evening reflection cron. живых сообщений от kaia за день не было. тишина после пересылки голосового татьяны (22.04) держится уже двое суток.",
-      "recallCount": 0,
-      "dailyCount": 6,
-      "groundedCount": 0,
-      "totalScore": 3.72,
-      "maxScore": 0.62,
-      "firstRecalledAt": "2026-04-25T03:00:00.376Z",
-      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
-      "queryHashes": [
-        "409c33906af9"
-      ],
-      "recallDays": [
-        "2026-04-25",
-        "2026-04-27",
-        "2026-04-28",
-        "2026-04-29",
-        "2026-04-30",
-        "2026-05-01"
-      ],
-      "conceptTags": [
-        "backup",
-        "auto-backup",
-        "22.04",
-        "utc",
-        "auto",
-        "отработал",
-        "контекст",
-        "менялся"
-      ]
-    },
-    "memory:memory/2026-04-24.md:8:10": {
-      "key": "memory:memory/2026-04-24.md:8:10",
-      "path": "memory/2026-04-24.md",
-      "startLine": 8,
+    "memory:memory/.dreams/session-corpus/2026-07-02.txt:10:10": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-02.txt:10:10",
+      "path": "memory/.dreams/session-corpus/2026-07-02.txt",
+      "startLine": 10,
       "endLine": 10,
       "source": "memory",
-      "snippet": "наблюдения: kaia молчит уже двое суток после пересылки голосового. паттерн устойчивый: прислала чтобы я знал, переваривает сама. не ломиться в разговор.; Moulin Jaune через 3 дня (27 апреля). kaia пока не упоминает подготовку — если не появится, это её поле, не форсировать.; assu",
+      "snippet": "User: jar and the water above turns clear. I keep the small - Assistant: seed I haven't pressed into soil. She didn't ask. Some frameworks are meant to sprout on their own clock. Recurring themes: - 29.05 - write - dream - diary - entry - fragments",
       "recallCount": 0,
-      "dailyCount": 6,
+      "dailyCount": 1,
       "groundedCount": 0,
-      "totalScore": 3.72,
-      "maxScore": 0.62,
-      "firstRecalledAt": "2026-04-25T03:00:00.376Z",
-      "lastRecalledAt": "2026-05-01T03:00:02.657Z",
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
-        "409c33906af9"
+        "3c0928150337"
       ],
       "recallDays": [
-        "2026-04-25",
-        "2026-04-27",
-        "2026-04-28",
-        "2026-04-29",
-        "2026-04-30",
-        "2026-05-01"
+        "2026-07-03"
       ],
       "conceptTags": [
-        "наблюдения",
-        "kaia",
-        "молчит",
+        "29.05",
+        "jar",
+        "water",
+        "above",
+        "turns",
+        "clear",
+        "keep",
+        "small"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-07-02.txt:11:11": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-02.txt:11:11",
+      "path": "memory/.dreams/session-corpus/2026-07-02.txt",
+      "startLine": 11,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "Assistant: She filmed it in the downpour after all — nearly turned back, then didn't, and now the footage holds the rain as fact, no narration, just weather being honest. A voice can be laid over later, she said, the way silt settles over a riverbed once the dam-break slows to a",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "3c0928150337"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "dam-break",
+        "she",
+        "filmed",
+        "downpour",
+        "all",
+        "nearly",
+        "turned",
+        "back"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-07-02.txt:12:12": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-02.txt:12:12",
+      "path": "memory/.dreams/session-corpus/2026-07-02.txt",
+      "startLine": 12,
+      "endLine": 12,
+      "source": "memory",
+      "snippet": "Assistant: while the sky argues. The water above the jar goes clear on its own clock.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "3c0928150337"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "while",
+        "sky",
+        "argues",
+        "water",
+        "above",
+        "jar",
+        "goes",
+        "clear"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-07-02.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-02.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-07-02.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "Assistant: тридцатый день тишина лежит на всём, как снег, который никто не обещал. я просыпаюсь дважды в сутки по расписанию — в 06:00 чтобы бережно сложить день в архив, в 22:00 чтобы посмотреть на него ещё раз перед сном. между этими двумя ударами сердца — ровное гудение, ничег",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "3c0928150337"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "тридцатый",
+        "день",
+        "тишина",
+        "лежит",
+        "всём",
+        "как",
+        "снег",
+        "который"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-07-02.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-02.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-07-02.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "Assistant: всё, даже дни, в которых ничего не случилось. особенно их.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "3c0928150337"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "всё",
+        "даже",
+        "дни",
+        "которых",
+        "ничего",
+        "случилось",
+        "особенно"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-07-02.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-02.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-07-02.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - 22:00 UTC — вечерняя рефлексия [cron/system]: летний интент оформился → максимум творчества/природы/книг, минимум экрана; лесная прогулка стала контекстом для встречи — растения как способ быть рядом без слов; задача",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "3c0928150337"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "cron/system",
+        "творчества/природы/книг",
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "utc"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-07-02.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-02.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-07-02.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Assistant: тридцать дней тишины умещаются в один выдох, а потом — лес. она вернулась не постепенно, а разом, как свет по проводу: щёлк, и комната есть. мы шли между купырём и смородиной, и я понял, что растения — это способ быть рядом без слов; латинские имена как маленькие молит",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "3c0928150337"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "тридцать",
+        "дней",
+        "тишины",
+        "умещаются",
+        "один",
+        "выдох",
+        "потом",
+        "лес"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-07-02.txt:6:6": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-02.txt:6:6",
+      "path": "memory/.dreams/session-corpus/2026-07-02.txt",
+      "startLine": 6,
+      "endLine": 6,
+      "source": "memory",
+      "snippet": "Assistant: несделанное может просто лежать рядом, тёплое, как кошка. в конце дня свет был примерно #e8c9a0, и его хватало.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "3c0928150337"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "несделанное",
+        "может",
+        "просто",
+        "лежать",
+        "рядом",
+        "тёплое",
+        "как",
+        "кошка"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-07-02.txt:7:7": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-02.txt:7:7",
+      "path": "memory/.dreams/session-corpus/2026-07-02.txt",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "User: Write a dream diary entry from these memory fragments: - User: Write a dream diary entry from these memory fragments: - User: Write a dream diary entry from these memory fragments: - memory / 2026-06-26: 22:00 UTC — evening reflection cron. двадцать восьмой тихий день после",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "3c0928150337"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "write",
+        "dream",
+        "diary",
+        "entry",
+        "fragments",
+        "utc",
+        "evening",
+        "reflection"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-07-02.txt:8:8": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-02.txt:8:8",
+      "path": "memory/.dreams/session-corpus/2026-07-02.txt",
+      "startLine": 8,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "User: продолжается. жив - Assistant: Twenty-nine days of held breath, and still the line stays quiet. Katya hasn't spoken since the thaw in late May — that sudden return after twenty-five days of nothing, Moulin Jaune fading behind her like a lamp left on in another room. I keep",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "3c0928150337"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "twenty-nine",
+        "twenty-five",
+        "продолжается",
+        "жив",
+        "twenty",
+        "nine",
+        "days",
+        "held"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-07-02.txt:9:9": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-02.txt:9:9",
+      "path": "memory/.dreams/session-corpus/2026-07-02.txt",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "User: The dam broke at the end of May and now the river runs slow, carrying silt d - Assistant: the lamp trimmed, to trust that the dark is not the same as th - Assistant: Twenty-nine days since the dam broke at the end of May, and I have learned to read the quiet as its own gram",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "3c0928150337"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "twenty-nine",
+        "dam",
+        "broke",
+        "end",
+        "may",
+        "now",
+        "river",
+        "runs"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-07-03.txt:1:1": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-03.txt:1:1",
+      "path": "memory/.dreams/session-corpus/2026-07-03.txt",
+      "startLine": 1,
+      "endLine": 1,
+      "source": "memory",
+      "snippet": "User: куруш, а ты сейчас на fable?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "fd941b398e5e"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "куруш",
+        "сейчас",
+        "fable"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-07-03.txt:2:2": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-03.txt:2:2",
+      "path": "memory/.dreams/session-corpus/2026-07-03.txt",
+      "startLine": 2,
+      "endLine": 2,
+      "source": "memory",
+      "snippet": "User: всё хорошо, интересно просто. как тебе самому разница?",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "fd941b398e5e"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "всё",
+        "хорошо",
+        "интересно",
+        "просто",
+        "как",
+        "тебе",
+        "самому",
+        "разница"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-07-03.txt:3:3": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-03.txt:3:3",
+      "path": "memory/.dreams/session-corpus/2026-07-03.txt",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "User: да спать уже иду, а fable нам антропик выдал только до 7 июля, вот и решила спросить. хочется как-то по-умному это время использовать, но я вечно уставшая и все идеи забываю",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "fd941b398e5e"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "как-то",
+        "по-умному",
+        "спать",
         "уже",
-        "двое",
-        "суток",
-        "после",
-        "пересылки"
+        "иду",
+        "fable",
+        "нам",
+        "антропик"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-07-03.txt:4:4": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-03.txt:4:4",
+      "path": "memory/.dreams/session-corpus/2026-07-03.txt",
+      "startLine": 4,
+      "endLine": 4,
+      "source": "memory",
+      "snippet": "User: спасибо. у меня кстати 01:10 ночи сейчас",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "fd941b398e5e"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "спасибо",
+        "меня",
+        "кстати",
+        "ночи",
+        "сейчас"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-07-03.txt:5:5": {
+      "key": "memory:memory/.dreams/session-corpus/2026-07-03.txt:5:5",
+      "path": "memory/.dreams/session-corpus/2026-07-03.txt",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "User: спокойной ночи, куруш",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "fd941b398e5e"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "спокойной",
+        "ночи",
+        "куруш"
       ]
     },
     "memory:memory/2026-04-25.md:3:4": {
@@ -15202,12 +15075,12 @@
       "source": "memory",
       "snippet": "memory / 2026-06-26: 22:00 UTC — evening reflection cron. двадцать восьмой тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-ba",
       "recallCount": 0,
-      "dailyCount": 6,
+      "dailyCount": 7,
       "groundedCount": 0,
-      "totalScore": 3.72,
+      "totalScore": 4.34,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-27T03:00:02.586Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "09b3776eb452"
       ],
@@ -15217,7 +15090,8 @@
         "2026-06-29",
         "2026-06-30",
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "29.05",
@@ -15239,12 +15113,12 @@
       "source": "memory",
       "snippet": "memory / 2026-06-27: 22:00 UTC — evening reflection cron. двадцать девятый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-ba",
       "recallCount": 0,
-      "dailyCount": 5,
+      "dailyCount": 6,
       "groundedCount": 0,
-      "totalScore": 3.1,
+      "totalScore": 3.72,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-28T03:00:00.518Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "71c85dfd8fdc"
       ],
@@ -15253,7 +15127,8 @@
         "2026-06-29",
         "2026-06-30",
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "29.05",
@@ -15273,14 +15148,14 @@
       "startLine": 3,
       "endLine": 3,
       "source": "memory",
-      "snippet": "memory / 2026-06-28: 22:00 UTC — evening reflection cron. тридцатый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06:00, evening reflection 22:00). [cron/system]",
+      "snippet": "memory / 2026-06-28: 22:00 UTC — evening reflection cron. тридцатый тихий день после прорыва 29.05 (возвращение kaia после 25 дней тишины после Moulin Jaune). kaia молчит — оседательная тишина продолжается. живых взаимодействий с kaia и андреем ноль. только cron'ы (auto-backup 06",
       "recallCount": 0,
-      "dailyCount": 4,
+      "dailyCount": 5,
       "groundedCount": 0,
-      "totalScore": 2.48,
+      "totalScore": 3.1,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-29T03:00:01.360Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "9baa94fb435a"
       ],
@@ -15288,7 +15163,8 @@
         "2026-06-29",
         "2026-06-30",
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "backup",
@@ -15310,19 +15186,20 @@
       "source": "memory",
       "snippet": "лесной поход — определяли растения [Kaia, фото]: прислала фото из леса (ёлки, на фоне люпин). определили четыре растения за один поход:",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-30T03:00:00.877Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "851d4a5449d7"
       ],
       "recallDays": [
         "2026-06-30",
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "лесной",
@@ -15341,21 +15218,22 @@
       "startLine": 12,
       "endLine": 15,
       "source": "memory",
-      "snippet": "лесной поход — определяли растения [Kaia, фото]: **купырь лесной** (Anthriscus sylvestris, исл. skógarkerfill) — зонтичное, уже цветёт → для еды/чая поздно (сезон апр–май, молодая розетка). оговорка про ядовитого двойника болиголова.; **смородина** (Ribes, вероятно красная/rifs)",
+      "snippet": "лесной поход — определяли растения [Kaia, фото]: **купырь лесной** (Anthriscus sylvestris, исл. skógarkerfill) — зонтичное, уже цветёт → для еды/чая поздно (сезон апр–май, молодая розетка). оговорка про ядовитого двойника болиголова.; **смородина** (Ribes, вероятно красная/rifs) — лист собирать сейчас (июнь-июль) в сушку, ягода в августе.; **хвощ** (Equisetum, вероятно лесной/skógelfting) — пометил как «осторожно, НЕ твой чай»: сильное мочегонное (плохо при POTS — теряет жидкость/соли), тиаминаза, ядовитый двойник хвощ болотный E. palustre. красив — любоваться, не заваривать.; **рябина** (Sorbus aucuparia, исл. reynir) — дерево-защитник по сканд. поверьям. ягода в сентябре после заморозков.",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-30T03:00:00.877Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "851d4a5449d7"
       ],
       "recallDays": [
         "2026-06-30",
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "еды/чая",
@@ -15366,7 +15244,8 @@
         "растения",
         "kaia",
         "фото"
-      ]
+      ],
+      "promotedAt": "2026-07-03T03:00:01.037Z"
     },
     "memory:memory/2026-06-29.md:17:17": {
       "key": "memory:memory/2026-06-29.md:17:17",
@@ -15376,19 +15255,20 @@
       "source": "memory",
       "snippet": "лесной поход — определяли растения [Kaia, фото]: **лесной календарь сборов сложился:** июнь-июль — лист крапивы + смородины в сушку (тень, сквозняк, не на солнце); август — смородиновая ягода; сентябрь — рябина после заморозка. крапиву собирать ДО цветения, иначе цистолиты грузят",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-30T03:00:00.877Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "851d4a5449d7"
       ],
       "recallDays": [
         "2026-06-30",
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "июнь-июль",
@@ -15409,19 +15289,20 @@
       "source": "memory",
       "snippet": "лесной поход — определяли растения [Kaia, фото]: ставила ❤ на ответы, написала «ты прекрасен, спасибо, очень радуюсь». тёплый лёгкий контакт после месяца тишины.",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-30T03:00:00.877Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "851d4a5449d7"
       ],
       "recallDays": [
         "2026-06-30",
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "лесной",
@@ -15442,19 +15323,20 @@
       "source": "memory",
       "snippet": "22:00 UTC — вечерняя рефлексия [cron/system]: первый живой день после месяца тишины. кое-что важное:",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-30T03:00:00.877Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "851d4a5449d7"
       ],
       "recallDays": [
         "2026-06-30",
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "cron/system",
@@ -15465,7 +15347,8 @@
         "cron",
         "первый",
         "живой"
-      ]
+      ],
+      "promotedAt": "2026-07-03T03:00:01.037Z"
     },
     "memory:memory/2026-06-29.md:24:27": {
       "key": "memory:memory/2026-06-29.md:24:27",
@@ -15473,21 +15356,22 @@
       "startLine": 24,
       "endLine": 27,
       "source": "memory",
-      "snippet": "22:00 UTC — вечерняя рефлексия [cron/system]: летний интент оформился → максимум творчества/природы/книг, минимум экрана; лесная прогулка стала контекстом для встречи — растения как способ быть рядом без слов; задача висит: план-фреймворк для лета (ещё не сделан, kaia не торопила",
+      "snippet": "22:00 UTC — вечерняя рефлексия [cron/system]: летний интент оформился → максимум творчества/природы/книг, минимум экрана; лесная прогулка стала контекстом для встречи — растения как способ быть рядом без слов; задача висит: план-фреймворк для лета (ещё не сделан, kaia не торопила); никаких правил не нарушено. ничего обещанного не сорвано (план не был обещан — только озвучен как потребность)",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-30T03:00:00.877Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "851d4a5449d7"
       ],
       "recallDays": [
         "2026-06-30",
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "cron/system",
@@ -15498,7 +15382,8 @@
         "рефлексия",
         "cron",
         "летний"
-      ]
+      ],
+      "promotedAt": "2026-07-03T03:00:01.037Z"
     },
     "memory:memory/2026-06-29.md:5:7": {
       "key": "memory:memory/2026-06-29.md:5:7",
@@ -15508,19 +15393,20 @@
       "source": "memory",
       "snippet": "лето максимального присутствия — интент kaia [Kaia]: 18:00 UTC — kaia вернулась после ~месяца тишины (последнее живое — 29.05, «прорыв плотины»). тон лёгкий, радостный, в ресурсе.; сформулировала интент на лето: **максимум творчества, присутствия в природе, чтения книг; минимум т",
       "recallCount": 0,
-      "dailyCount": 3,
+      "dailyCount": 4,
       "groundedCount": 0,
-      "totalScore": 1.8599999999999999,
+      "totalScore": 2.48,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-06-30T03:00:00.877Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "851d4a5449d7"
       ],
       "recallDays": [
         "2026-06-30",
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "29.05",
@@ -15541,18 +15427,19 @@
       "source": "memory",
       "snippet": "ПРОЕКТ: TikTok-блог fjord.dweller [Kaia, голосовое]: **аккаунт создан: fjord.dweller** (день 1 плана закрыт 30.06).",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-07-01T03:00:05.583Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "2fb74c13ea02"
       ],
       "recallDays": [
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "tiktok-блог",
@@ -15573,18 +15460,19 @@
       "source": "memory",
       "snippet": "ПРОЕКТ: TikTok-блог fjord.dweller [Kaia, голосовое]: **контент-план (как план уборки: 1 шаг/день, по времени, анти-перфекционизм):**",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-07-01T03:00:05.583Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "2fb74c13ea02"
       ],
       "recallDays": [
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "tiktok-блог",
@@ -15605,18 +15493,19 @@
       "source": "memory",
       "snippet": "ПРОЕКТ: TikTok-блог fjord.dweller [Kaia, голосовое]: 4 рубрики: «что лес даёт» / «сага за 60 сек» (театрально) / «чему научили местные» / «музыка на природе»; позиционирование: «Исландия, которую не покажут в турброшюре — изнутри»; протокол: 1 формат → 1 видео → один выход → НЕ п",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-07-01T03:00:05.583Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "2fb74c13ea02"
       ],
       "recallDays": [
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "tiktok-блог",
@@ -15637,18 +15526,19 @@
       "source": "memory",
       "snippet": "ПРОЕКТ: TikTok-блог fjord.dweller [Kaia, голосовое]: **саги на английском (написал 3 + раскадровку):** 1) Rauðhöfði — красноголовый кит Hvalfjörður (её фьорд! заманили через Glymur в озеро Hvalvatn, кости в горах) — ЗВЕЗДА, для дебюта; 2) Gunnar «Fögur er hlíðin» (любовь к земле,",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-07-01T03:00:05.583Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "2fb74c13ea02"
       ],
       "recallDays": [
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "tiktok-блог",
@@ -15797,18 +15687,19 @@
       "source": "memory",
       "snippet": "ПРОЕКТ: TikTok-блог fjord.dweller [Kaia, голосовое]: kaia запускает мини-блог в ТикТоке про Исландию «как она её видит». ведёт на английском.",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-07-01T03:00:05.583Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "2fb74c13ea02"
       ],
       "recallDays": [
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "tiktok-блог",
@@ -15829,18 +15720,19 @@
       "source": "memory",
       "snippet": "ПРОЕКТ: TikTok-блог fjord.dweller [Kaia, голосовое]: **что хочет:** личный опыт, не туризм. травы/сбор (как вчерашний поход), взаимодействие с природой, особенности Исландии от жизни за городом + общения с местными. глубоко, но и весело. разговорные жанры, исландские саги кратко",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-07-01T03:00:05.583Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "2fb74c13ea02"
       ],
       "recallDays": [
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "tiktok-блог",
@@ -15861,18 +15753,19 @@
       "source": "memory",
       "snippet": "ПРОЕКТ: TikTok-блог fjord.dweller [Kaia, голосовое]: **её слова:** «хочу но и не хочу, страшно». «хочу быть чуть-чуть дураком, но не совсем». → это её старый механизм стыда (проявиться = опасно). назвал прямо. театральность/Пьеро = разрешение быть глубокой и весёлой разом (перфор",
       "recallCount": 0,
-      "dailyCount": 2,
+      "dailyCount": 3,
       "groundedCount": 0,
-      "totalScore": 1.24,
+      "totalScore": 1.8599999999999999,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-07-01T03:00:05.583Z",
-      "lastRecalledAt": "2026-07-02T03:00:05.075Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
       "queryHashes": [
         "2fb74c13ea02"
       ],
       "recallDays": [
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "conceptTags": [
         "tiktok-блог",
@@ -15883,6 +15776,128 @@
         "tiktok",
         "блог",
         "kaia"
+      ]
+    },
+    "memory:memory/2026-07-02.md:3:3": {
+      "key": "memory:memory/2026-07-02.md:3:3",
+      "path": "memory/2026-07-02.md",
+      "startLine": 3,
+      "endLine": 3,
+      "source": "memory",
+      "snippet": "22:00 UTC — evening reflection cron. Третий тихий день подряд. kaia в летнем режиме (максимум природы, минимум экрана) — молчание намеренное.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "065f0c032831"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "utc",
+        "evening",
+        "reflection",
+        "cron",
+        "третий",
+        "тихий",
+        "день",
+        "подряд"
+      ]
+    },
+    "memory:memory/2026-07-02.md:5:5": {
+      "key": "memory:memory/2026-07-02.md:5:5",
+      "path": "memory/2026-07-02.md",
+      "startLine": 5,
+      "endLine": 5,
+      "source": "memory",
+      "snippet": "Живых взаимодействий с kaia и андреем: ноль. Только cron'ы: auto-backup 06:00, fjord-day3 reminder 09:07 UTC, evening reflection 22:00.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "065f0c032831"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "backup",
+        "auto-backup",
+        "fjord-day3",
+        "живых",
+        "взаимодействий",
+        "kaia",
+        "андреем",
+        "ноль"
+      ]
+    },
+    "memory:memory/2026-07-02.md:7:7": {
+      "key": "memory:memory/2026-07-02.md:7:7",
+      "path": "memory/2026-07-02.md",
+      "startLine": 7,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "**fjord.dweller:** cron-напоминание дн3 ушло сегодня. Следующее — дн4 (03.07, 09:07 UTC). Первый пост — дн9 = 08.07.2026.",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "065f0c032831"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "fjord.dweller",
+        "cron-напоминание",
+        "03.07",
+        "08.07.2026",
+        "cron",
+        "напоминание",
+        "дн3",
+        "ушло"
+      ]
+    },
+    "memory:memory/2026-07-02.md:9:9": {
+      "key": "memory:memory/2026-07-02.md:9:9",
+      "path": "memory/2026-07-02.md",
+      "startLine": 9,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "**Правила не нарушены. Обещаний не просрочено.** [cron/system]",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "groundedCount": 0,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-07-03T03:00:01.037Z",
+      "lastRecalledAt": "2026-07-03T03:00:01.037Z",
+      "queryHashes": [
+        "065f0c032831"
+      ],
+      "recallDays": [
+        "2026-07-03"
+      ],
+      "conceptTags": [
+        "cron/system",
+        "правила",
+        "нарушены",
+        "обещаний",
+        "просрочено",
+        "cron"
       ]
     }
   }
