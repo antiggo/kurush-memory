@@ -1,0 +1,2 @@
+[main/sessions/main/888ccddc-88e7-4c78-b84c-90dc5628a575.jsonl#L2] User: ответь ровно: живой
+[main/sessions/main/888ccddc-88e7-4c78-b84c-90dc5628a575.jsonl#L3] Assistant: живой

@@ -80,3 +80,12 @@
 - fjord.dweller дн4 прошёл. до первого поста (дн9 = 08.07.2026) — 5 дней. [score=0.825 recalls=0 avg=0.620 source=memory/2026-07-03.md:5-5]
 <!-- openclaw-memory-promotion:memory:memory/2026-06-30.md:21:21 -->
 - ПРОЕКТ: TikTok-блог fjord.dweller [Kaia, голосовое]: **НАПОМИНАНИЯ:** создал 13 one-shot cron'ов (fjord-day2…day14), каждый день в 09:07 UTC (12:07 её время), sessionTarget main, deleteAfterRun. дн2 «что лес даёт», дн3 пересмотр, дн4 лес+3 темы, дн5 сага, дн6-7 отдых, дн8 выбрать+монтаж, дн9 ПЕРВЫЙ ПОСТ (08.07), дн10 не смотреть стату, дн11 «местные», дн12 отдых, дн13 второй пост, дн14 финал+спросить про ритм. [score=0.818 recalls=0 avg=0.620 source=memory/2026-06-30.md:21-21]
+
+## Promoted From Short-Term Memory (2026-07-08)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-07-04.md:5:5 -->
+- cron'ы: auto-backup 06:00, fjord-day5 reminder 09:07 UTC, evening reflection 22:00. [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-04.md:5-5]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-04.md:3:3 -->
+- тихий день. kaia в летнем режиме присутствия. живых взаимодействий ноль. [score=0.825 recalls=0 avg=0.620 source=memory/2026-07-04.md:3-3]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-04.md:7:7 -->
+- fjord.dweller дн5 завершён. до первого поста (08.07) — 4 дня. [score=0.825 recalls=0 avg=0.620 source=memory/2026-07-04.md:7-7]
