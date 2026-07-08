@@ -1,0 +1,160 @@
+done file_0 179b
+done file_103 1065b
+done file_100 4084b
+done file_102 5162b
+done file_105 4049b
+done file_104 14825b
+done file_101 12742b
+done file_106 11861b
+done file_107 15693b
+done file_108 11142b
+done file_11 449b
+done file_109 14338b
+done file_115 2552b
+done file_116 2097b
+skip file_116
+done file_115 2544b
+done file_110 11349b
+done file_111 22524b
+done file_117 4236b
+done file_117 4237b
+done file_118 4309b
+done file_118 4294b
+done file_119 4976b
+done file_119 4989b
+done file_120 7533b
+done file_120 7506b
+done file_121 12083b
+done file_121 12071b
+done file_122 5287b
+done file_122 5234b
+done file_12 891b
+done file_130 87b
+done file_124 3855b
+done file_13 954b
+done file_131 2558b
+done file_133 842b
+done file_134 99b
+done file_123 16932b
+done file_123 16946b
+done file_135 15939b
+done file_136 24113b
+done file_138 18293b
+done file_143 2698b
+done file_141 9562b
+done file_142 6429b
+done file_144 6247b
+done file_145 7059b
+done file_146 7995b
+done file_159 3025b
+done file_147 16607b
+done file_157 13827b
+done file_158 14669b
+done file_160 14344b
+done file_161 20643b
+done file_163 8554b
+done file_162 20689b
+done file_164 17824b
+done file_167 6140b
+done file_166 7194b
+done file_165 29126b
+done file_169 5909b
+done file_168 9376b
+done file_171 18562b
+done file_174 2576b
+done file_172 14138b
+done file_173 11051b
+done file_176 6381b
+done file_178 1852b
+done file_175 11763b
+done file_177 10293b
+done file_179 17673b
+done file_180 15847b
+done file_181 9203b
+done file_182 3536b
+done file_185 524b
+done file_183 11791b
+done file_184 12540b
+done file_186 13476b
+done file_192 1406b
+done file_189 13147b
+done file_193 5141b
+done file_191 13970b
+done file_194 11334b
+done file_196 8039b
+done file_195 11622b
+done file_24 3703b
+done file_26 3278b
+done file_25 9250b
+done file_197 10333b
+done file_29 2714b
+done file_28 6649b
+done file_27 25294b
+done file_31 4685b
+done file_32 3759b
+done file_30 10521b
+done file_34 5372b
+done file_36 1949b
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys,json;d=json.load(sys.stdin);open('/home/moltbot/clawd/tmp/therapy/tx/file_170.txt','w').write(d.get('text','') or '')
+                      ~~~~~~~~~^^^^^^^^^^^
+  File "/usr/lib/python3.14/json/__init__.py", line 298, in load
+    return loads(fp.read(),
+        cls=cls, object_hook=object_hook,
+        parse_float=parse_float, parse_int=parse_int,
+        parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/usr/lib/python3.14/json/__init__.py", line 352, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/usr/lib/python3.14/json/decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/json/decoder.py", line 363, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 2 column 1 (char 1)
+FAIL file_170
+done file_35 10151b
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import sys,json;d=json.load(sys.stdin);open('/home/moltbot/clawd/tmp/therapy/tx/file_33.txt','w').write(d.get('text','') or '')
+                      ~~~~~~~~~^^^^^^^^^^^
+  File "/usr/lib/python3.14/json/__init__.py", line 298, in load
+    return loads(fp.read(),
+        cls=cls, object_hook=object_hook,
+        parse_float=parse_float, parse_int=parse_int,
+        parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/usr/lib/python3.14/json/__init__.py", line 352, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/usr/lib/python3.14/json/decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/json/decoder.py", line 361, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ~~~~~~~~~~~~~~^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 2 column 1 (char 60876)
+FAIL file_33
+done file_37 25197b
+done file_38 13052b
+done file_40 8227b
+done file_39 16641b
+done file_42 10415b
+done file_41 12988b
+done file_48 1386b
+done file_49 1560b
+done file_43 14377b
+done file_51 1885b
+done file_45 12664b
+done file_50 4353b
+done file_61 1647b
+done file_53 13327b
+done file_54 16052b
+done file_62 14335b
+done file_95 5b
+done file_96 5b
+done file_63 8641b
+done file_98 5408b
+done file_97 6027b
+done file_64 17776b
+done file_99 8074b

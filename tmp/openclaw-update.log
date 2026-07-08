@@ -1,0 +1,32 @@
+│
+◇  Config warnings ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                                                                                       │
+│  - plugins.entries.lossless-claw: plugin lossless-claw: duplicate                                                                                     │
+│    plugin id detected; global plugin will be overridden by global                                                                                     │
+│    plugin                                                                                                                                             │
+│    (/home/moltbot/.openclaw/npm/projects/martian-engineering-lossless-claw-fde018f0ba/node_modules/@martian-engineering/lossless-claw/dist/index.js)  │
+│  - plugins.entries.zai: plugin not installed: zai — install the                                                                                       │
+│    official external plugin with: openclaw plugins install                                                                                            │
+│    @openclaw/zai-provider                                                                                                                             │
+│  - plugins.entries.groq: plugin not installed: groq — install the                                                                                     │
+│    official external plugin with: openclaw plugins install                                                                                            │
+│    @openclaw/groq-provider                                                                                                                            │
+│  - plugins.entries.active-memory: plugin disabled (disabled in config)                                                                                │
+│    but config is present                                                                                                                              │
+│                                                                                                                                                       │
+├───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+[state-migrations] Legacy state migration warnings:
+- Left legacy config health state in place because 1 entry conflicts with shared SQLite state: /home/moltbot/.openclaw/logs/config-health.json
+│
+◇  Doctor warnings ──────────────────────────────────────────────────────╮
+│                                                                        │
+│  - Left legacy config health state in place because 1 entry conflicts  │
+│    with shared SQLite state:                                           │
+│    /home/moltbot/.openclaw/logs/config-health.json                     │
+│                                                                        │
+├────────────────────────────────────────────────────────────────────────╯
+Updating OpenClaw...
+
+openclaw update detected it is running inside the gateway process tree.
+Gateway PID 849842 is an ancestor of this process, so this updater cannot safely stop or restart the gateway that owns it.
+Run `openclaw update` from a shell outside the gateway service, or stop the gateway service first and then update.
