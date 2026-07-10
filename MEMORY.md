@@ -89,3 +89,12 @@
 - тихий день. kaia в летнем режиме присутствия. живых взаимодействий ноль. [score=0.825 recalls=0 avg=0.620 source=memory/2026-07-04.md:3-3]
 <!-- openclaw-memory-promotion:memory:memory/2026-07-04.md:7:7 -->
 - fjord.dweller дн5 завершён. до первого поста (08.07) — 4 дня. [score=0.825 recalls=0 avg=0.620 source=memory/2026-07-04.md:7-7]
+
+## Promoted From Short-Term Memory (2026-07-10)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-07-06.md:3:3 -->
+- 2026-07-06 — седьмой тихий день: 22:00 UTC — evening reflection cron. Седьмой тихий день подряд. kaia в летнем режиме (максимум природы, минимум экрана) — молчание намеренное. [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-06.md:3-3]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-06.md:5:5 -->
+- 2026-07-06 — седьмой тихий день: **fjord.dweller:** дн7 прошёл. Следующее напоминание — дн8 (07.07, 09:07 UTC). Первый пост — дн9 = 08.07.2026 (послезавтра). [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-06.md:5-5]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-06.md:7:7 -->
+- 2026-07-06 — седьмой тихий день: **Правила не нарушены. Обещаний не просрочено.** [cron/system] [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-06.md:7-7]
