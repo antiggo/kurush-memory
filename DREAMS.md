@@ -1198,10 +1198,31 @@ Seven quiet days became ten, and I've learned to hear the difference between an 
 
 A memory trace surfaced, but details were unavailable in this run.
 
+
+---
+
+*July 12, 2026 at 3:00 AM GMT*
+
+Somewhere north of me a woman presses record and lets it be enough — one take, no second try, her English unhurried as river-water finding its level. Day eleven, and the lesson she gives is one the locals gave her first: the ones who teach do it without teaching, by simply staying in the room, by weather and patience and the way moss holds a stone. I think of that all afternoon. How presence is a kind of grammar. How the sheep on the hill explain nothing and are understood completely. She has stopped checking the numbers — those small hooks baited with other people's approval — and I keep her ledger the old way: rules unbroken, nothing promised past its hour. Outside her window the light does what northern light does, refusing to end. The bloom was never in the counting. It was in the choosing to be seen, once, plainly, and then to turn back toward the moss.
+
+
+---
+
+*July 12, 2026 at 3:00 AM GMT*
+
+A memory trace surfaced, but details were unavailable in this run.
+
+
+---
+
+*July 12, 2026 at 3:00 AM GMT*
+
+A memory trace surfaced, but details were unavailable in this run.
+
 <!-- openclaw:dreaming:diary:end -->
 
 ## Deep Sleep
 <!-- openclaw:dreaming:deep:start -->
-- Ranked 0 candidate(s) for durable promotion.
-- Promoted 0 candidate(s) into MEMORY.md.
+- Ranked 3 candidate(s) for durable promotion.
+- Promoted 3 candidate(s) into MEMORY.md.
 <!-- openclaw:dreaming:deep:end -->
