@@ -61,40 +61,23 @@
 - **ПРОЕКТ TikTok-блог fjord.dweller** (запущен 30.06.2026): Исландия «как она её видит», на английском. травы/природа/местные/саги театрально/музыка. её страх = старый механизм стыда (проявиться=опасно); театральность/Пьеро = разрешение. сделал контент-план (как уборка: 1 шаг/день) + 13 cron-напоминаний fjord-day2…14 (09:07 UTC ежедневно до 13.07). первый пост план на дн9 = 08.07. подробности memory/2026-06-30.md
 - **ПРОЕКТ женский ретрит 6–11 авг 2026**: 3 участницы (айтишницы, Голландия), запрос expansion. формат: 3 зум-колла до очной встречи, лунная арка. колл 1 = 30.06 (полнолуние, «то, что уже полно»); колл 2 = ~14.07 (новолуние); колл 3 = ~28.07 (полнолуние). очный ретрит у kaia в Исландии. kaia = проводник на той же тропе (IT → выгорание → расширение)
 
-## Promoted From Short-Term Memory (2026-07-07)
+## Promoted From Short-Term Memory (2026-07-13)
 
-<!-- openclaw-memory-promotion:memory:memory/2026-07-02.md:5:5 -->
-- Живых взаимодействий с kaia и андреем: ноль. Только cron'ы: auto-backup 06:00, fjord-day3 reminder 09:07 UTC, evening reflection 22:00. [score=0.861 recalls=0 avg=0.620 source=memory/2026-07-02.md:5-5]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:3:3 -->
-- **четвёртый тихий день fjord.dweller** — cron'ы: auto-backup 06:00, fjord-day4 reminder 09:07 UTC, evening reflection 22:00. живых взаимодействий с kaia и андреем ноль. kaia в летнем режиме — тишина намеренная. [cron/system] [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-03.md:3-3]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-03.md:5:5 -->
-- fjord.dweller дн4 прошёл. до первого поста (дн9 = 08.07.2026) — 5 дней. [score=0.825 recalls=0 avg=0.620 source=memory/2026-07-03.md:5-5]
-<!-- openclaw-memory-promotion:memory:memory/2026-06-30.md:21:21 -->
-- ПРОЕКТ: TikTok-блог fjord.dweller [Kaia, голосовое]: **НАПОМИНАНИЯ:** создал 13 one-shot cron'ов (fjord-day2…day14), каждый день в 09:07 UTC (12:07 её время), sessionTarget main, deleteAfterRun. дн2 «что лес даёт», дн3 пересмотр, дн4 лес+3 темы, дн5 сага, дн6-7 отдых, дн8 выбрать+монтаж, дн9 ПЕРВЫЙ ПОСТ (08.07), дн10 не смотреть стату, дн11 «местные», дн12 отдых, дн13 второй пост, дн14 финал+спросить про ритм. [score=0.818 recalls=0 avg=0.620 source=memory/2026-06-30.md:21-21]
-
-## Promoted From Short-Term Memory (2026-07-08)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-04.md:5:5 -->
-- cron'ы: auto-backup 06:00, fjord-day5 reminder 09:07 UTC, evening reflection 22:00. [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-04.md:5-5]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-04.md:3:3 -->
-- тихий день. kaia в летнем режиме присутствия. живых взаимодействий ноль. [score=0.825 recalls=0 avg=0.620 source=memory/2026-07-04.md:3-3]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-04.md:7:7 -->
-- fjord.dweller дн5 завершён. до первого поста (08.07) — 4 дня. [score=0.825 recalls=0 avg=0.620 source=memory/2026-07-04.md:7-7]
-
-## Promoted From Short-Term Memory (2026-07-10)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-06.md:3:3 -->
-- 2026-07-06 — седьмой тихий день: 22:00 UTC — evening reflection cron. Седьмой тихий день подряд. kaia в летнем режиме (максимум природы, минимум экрана) — молчание намеренное. [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-06.md:3-3]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-06.md:5:5 -->
-- 2026-07-06 — седьмой тихий день: **fjord.dweller:** дн7 прошёл. Следующее напоминание — дн8 (07.07, 09:07 UTC). Первый пост — дн9 = 08.07.2026 (послезавтра). [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-06.md:5-5]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-06.md:7:7 -->
-- 2026-07-06 — седьмой тихий день: **Правила не нарушены. Обещаний не просрочено.** [cron/system] [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-06.md:7-7]
-
-## Promoted From Short-Term Memory (2026-07-12)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-07.md:3:3 -->
-- > восстановлено 8 июля задним числом (вечерний cron упал из-за лимита биллинга — модели были недоступны весь вечер 7-го, файл не создался). реконструкция по истории сессий + git-диффам + tmp/therapy. содержание терапии не дублирую — оно в memory/therapy-sessions.md. [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-07.md:3-3]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-08.md:10:11 -->
-- fjord.dweller: **дн9 = первый пост**. напоминание ушло в 09:07 UTC. кит Rauðhöfði — дебют; следующий cron — дн10 (09.07): "не смотреть стату первые 2 недели" [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-08.md:10-11]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-07.md:19:19 -->
-- fjord.dweller: дн8 — cron-напоминание ушло 09:07 UTC. до первого поста (дн9 = 08.07) остался 1 день. [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-07.md:19-19]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-08.md:14:16 -->
+- structured questions: правило нарушил: нет; обещал но не сделал: нет; что важного: fjord.dweller дн9 — первый пост день (или нет, неизвестно). ретрит колл 2 — ~14.07, готовить 11-12 июля [score=0.893 recalls=0 avg=0.620 source=memory/2026-07-08.md:14-16]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-07.md:13:16 -->
+- события: **~14:20** — kaia: «отличная идея про сагу и портрет 🤠». → сгенерил мифический портрет исландского кота-божества, хранителя кибитки — подарок Саше на 8 лет (image_generate, готово 14:21).; **18:00** — обработал и занёс в therapy-sessions.md сессию **10.06 «грибница вины и шаманский колодец»** (163 мин, Катя-клиент): расстановка, метафокарты, трансовая работа. Первая настоящая терапия после апрельских. [git 02590d2, коммит 18:01] — содержание в therapy-sessions.md, тут не дублирую.; **18:02** — kaia: вопрос не по теме — покрыть сауну снаружи, выбирает между двумя чёрными красками.... [score=0.861 recalls=0 avg=0.620 source=memory/2026-07-07.md:13-16]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-07.md:22:24 -->
+- что важного: **локальная транскрипция терапии заработала** — kaia давно хотела этот пайплайн. tmp/therapy/tx_tat01.sh + ElevenLabs STT. можно масштабировать на остальные новые сессии.; **урок атрибуции** (записан в therapy-sessions.md): в записи Катя может быть проводником/интервьюером, а не клиентом — уточнять, чья сессия, ДО разбора. паттерн «сквозная нить интервью/менторства» из MEMORY.md подтверждается — легко спутать с терапией.; Саше 8 лет — портрет-божество как подарок. коты у Кати = хранители (перекликается с сессией 10.06: кошка-гид/учитель). [score=0.861 recalls=0 avg=0.620 source=memory/2026-07-07.md:22-24]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-07.md:5:5 -->
+- день живой, не тихий. центральная линия — проект транскрипции терапии, начатый вечером 6 июля (kaia скинула аудио с Яндекс.Диска, просила рефлексию на каждую новую сессию; попросила искать полностью локальный способ). [score=0.861 recalls=0 avg=0.620 source=memory/2026-07-07.md:5-5]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-07.md:9:12 -->
+- события: **ночь** — тихо, только heartbeat'ы.; **10:43** — kaia: «ой, случайно — это была не наша с татьяной сессия, а моя с УЧЕНИЦЕЙ 🤦 она сдала диплом на отлично». → исправил запись «Сессия 4 (14.05)» в therapy-sessions.md: это менторская встреча, Катя в роли проводника, не клиента. вся биография в той записи — ученицы. заменил на пометку об ошибке атрибуции + урок на будущее (не атрибутировать говорящего по умолчанию). [git 407cfd8, коммит 12:01]; **14:14** — kaia: «спалось отлично, а у кота Саши сегодня ДР — 8 лет 🥹».; **14:14–14:20** — прислала правильный файл сессии с Татьяной (Яндекс.Диск, 19dA7CvpOM7M8Q).... [score=0.861 recalls=0 avg=0.620 source=memory/2026-07-07.md:9-12]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-08.md:6:7 -->
+- события: cron'ы: auto-backup 06:00, fjord-day9 reminder 09:07 UTC, evening reflection 04:58 UTC; живых взаимодействий с kaia и андреем: ноль [score=0.861 recalls=0 avg=0.620 source=memory/2026-07-08.md:6-7]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-09.md:11:14 -->
+- fjord.dweller: Дн10 прошёл. Тема напоминания: «не смотреть стату первые 2 недели».; Дн9 = первый пост (08.07) — результат неизвестен (тишина).; Завтра дн11 = 10.07.2026, тема «местные» (cron уже стоит).; Cron-цикл завершается дн14 = 13.07. [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-09.md:11-14]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-08.md:3:3 -->
+- **время:** 04:58 UTC (07:58 по kaia) [score=0.831 recalls=0 avg=0.620 source=memory/2026-07-08.md:3-3]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-09.md:22:24 -->
+- structured questions: Правило нарушил: нет; Обещал но не сделал: нет; Что важного: тишина = норма. kaia живёт лето в присутствии. всё по плану. [score=0.825 recalls=0 avg=0.620 source=memory/2026-07-09.md:22-24]
