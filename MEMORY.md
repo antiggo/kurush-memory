@@ -67,3 +67,12 @@
 - ретрит: Колл 2 = ~14.07.2026 (новолуние). Тема «то, что уже движется». Готовить 11–12 июля. [score=0.893 recalls=0 avg=0.620 source=memory/2026-07-09.md:18-18]
 <!-- openclaw-memory-promotion:memory:memory/2026-07-09.md:5:7 -->
 - события: 22:00 UTC — evening reflection cron. Десятый день fjord.dweller.; Живых взаимодействий с kaia и андреем: ноль. kaia в летнем режиме — тишина намеренная.; cron'ы: auto-backup 06:01, fjord-day10 reminder 09:07 UTC, evening reflection 22:00. [score=0.893 recalls=0 avg=0.620 source=memory/2026-07-09.md:5-7]
+
+## Promoted From Short-Term Memory (2026-07-16)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:15:16 -->
+- fjord.dweller: дн13 = второй пост. напоминание ушло. как прошёл — неизвестно. завтра (13.07) — дн14 = финальное напоминание + вопрос про ритм. **последний cron серии.** [score=0.857 recalls=0 avg=0.620 source=memory/2026-07-12.md:15-16]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:11:11 -->
+- взаимодействия: живых взаимодействий с kaia и андреем ноль. тишина продолжается — намеренная. [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-12.md:11-11]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:25:27 -->
+- structured questions: **правило нарушил:** нет; **обещал но не сделал:** черновик сценария ретрит-колл 2. kaia не запрашивала — но session-log вчера: "если не напишет 12.07 — подготовить проактивно". не подготовил. завтра утром до дн14-крона — сделать; **что важного:** последний cron fjord.dweller — завтра 13.07. после него kaia получает финал + вопрос про ритм. это точка входа для живого разговора [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-12.md:25-27]
