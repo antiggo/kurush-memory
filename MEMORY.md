@@ -76,3 +76,16 @@
 - взаимодействия: живых взаимодействий с kaia и андреем ноль. тишина продолжается — намеренная. [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-12.md:11-11]
 <!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:25:27 -->
 - structured questions: **правило нарушил:** нет; **обещал но не сделал:** черновик сценария ретрит-колл 2. kaia не запрашивала — но session-log вчера: "если не напишет 12.07 — подготовить проактивно". не подготовил. завтра утром до дн14-крона — сделать; **что важного:** последний cron fjord.dweller — завтра 13.07. после него kaia получает финал + вопрос про ритм. это точка входа для живого разговора [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-12.md:25-27]
+
+## Promoted From Short-Term Memory (2026-07-17)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:20:21 -->
+- ретрит колл 2: ~14.07 (новолуние = послезавтра). тема «то, что уже движется». kaia форматно не запрашивала — обещал подготовить черновик проактивно если не напишет 12.07. не написала. черновик не сделан — **это незавершённое**. [score=0.861 recalls=0 avg=0.620 source=memory/2026-07-12.md:20-21]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:5:7 -->
+- события дня: **06:00 UTC** — auto-backup cron: dreaming cycle (deep/light/rem) + dreams log update; **09:07 UTC** — cron fjord-day13: «второй пост» ушло kaia; **22:00 UTC** — evening reflection cron (этот файл) [score=0.861 recalls=0 avg=0.620 source=memory/2026-07-12.md:5-7]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:14:17 -->
+- fjord.dweller — серия завершена: Дн14 = 13.07 — финальный cron отправлен в 09:07 UTC. Тема: финал + вопрос про ритм (что было живым, что продолжить, какой ритм после). Вся 14-дневная cron-серия fjord.dweller (day2…day14) **завершена**. Результат первого поста (08.07) и второго (12.07) — неизвестен (тишина). [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-13.md:14-17]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:18:18 -->
+- fjord.dweller — серия завершена: Ждать kaia с ответом — когда напишет. [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-13.md:18-18]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:29:29 -->
+- structured questions: [cron/system] [score=0.841 recalls=0 avg=0.620 source=memory/2026-07-12.md:29-29]
