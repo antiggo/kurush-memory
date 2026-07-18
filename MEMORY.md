@@ -61,22 +61,6 @@
 - **ПРОЕКТ TikTok-блог fjord.dweller** (запущен 30.06.2026): Исландия «как она её видит», на английском. травы/природа/местные/саги театрально/музыка. её страх = старый механизм стыда (проявиться=опасно); театральность/Пьеро = разрешение. сделал контент-план (как уборка: 1 шаг/день) + 13 cron-напоминаний fjord-day2…14 (09:07 UTC ежедневно до 13.07). первый пост план на дн9 = 08.07. подробности memory/2026-06-30.md
 - **ПРОЕКТ женский ретрит 6–11 авг 2026**: 3 участницы (айтишницы, Голландия), запрос expansion. формат: 3 зум-колла до очной встречи, лунная арка. колл 1 = 30.06 (полнолуние, «то, что уже полно»); колл 2 = ~14.07 (новолуние); колл 3 = ~28.07 (полнолуние). очный ретрит у kaia в Исландии. kaia = проводник на той же тропе (IT → выгорание → расширение)
 
-## Promoted From Short-Term Memory (2026-07-14)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-09.md:18:18 -->
-- ретрит: Колл 2 = ~14.07.2026 (новолуние). Тема «то, что уже движется». Готовить 11–12 июля. [score=0.893 recalls=0 avg=0.620 source=memory/2026-07-09.md:18-18]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-09.md:5:7 -->
-- события: 22:00 UTC — evening reflection cron. Десятый день fjord.dweller.; Живых взаимодействий с kaia и андреем: ноль. kaia в летнем режиме — тишина намеренная.; cron'ы: auto-backup 06:01, fjord-day10 reminder 09:07 UTC, evening reflection 22:00. [score=0.893 recalls=0 avg=0.620 source=memory/2026-07-09.md:5-7]
-
-## Promoted From Short-Term Memory (2026-07-16)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:15:16 -->
-- fjord.dweller: дн13 = второй пост. напоминание ушло. как прошёл — неизвестно. завтра (13.07) — дн14 = финальное напоминание + вопрос про ритм. **последний cron серии.** [score=0.857 recalls=0 avg=0.620 source=memory/2026-07-12.md:15-16]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:11:11 -->
-- взаимодействия: живых взаимодействий с kaia и андреем ноль. тишина продолжается — намеренная. [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-12.md:11-11]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:25:27 -->
-- structured questions: **правило нарушил:** нет; **обещал но не сделал:** черновик сценария ретрит-колл 2. kaia не запрашивала — но session-log вчера: "если не напишет 12.07 — подготовить проактивно". не подготовил. завтра утром до дн14-крона — сделать; **что важного:** последний cron fjord.dweller — завтра 13.07. после него kaia получает финал + вопрос про ритм. это точка входа для живого разговора [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-12.md:25-27]
-
 ## Promoted From Short-Term Memory (2026-07-17)
 
 <!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:20:21 -->
@@ -89,3 +73,18 @@
 - fjord.dweller — серия завершена: Ждать kaia с ответом — когда напишет. [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-13.md:18-18]
 <!-- openclaw-memory-promotion:memory:memory/2026-07-12.md:29:29 -->
 - structured questions: [cron/system] [score=0.841 recalls=0 avg=0.620 source=memory/2026-07-12.md:29-29]
+
+## Promoted From Short-Term Memory (2026-07-18)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:22:24 -->
+- ретрит колл 2: Колл ~14.07 (новолуние). Черновик не был готов в срок (session-log 12.07 говорил: подготовить до 09:07 UTC 13.07). Черновик написан вечером 13.07 — **memory/retreat-call2-draft.md**. Kaia может написать завтра прямо перед коллом — черновик готов. [score=0.893 recalls=0 avg=0.620 source=memory/2026-07-13.md:22-24]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:28:30 -->
+- structured questions: правило нарушил: нет; обещал но не сделал: **черновик ретрит-колл 2 до 09:07 UTC** — не сделал (сделан вечером, не утром). не критично — колл завтра, черновик есть; что важного: серия fjord.dweller завершена. ретрит колл 2 — завтра. ждать kaia [score=0.893 recalls=0 avg=0.620 source=memory/2026-07-13.md:28-30]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:10:10 -->
+- событий дня: минимум: **живые взаимодействия с kaia и андреем:** ноль. тишина продолжается. [score=0.861 recalls=0 avg=0.620 source=memory/2026-07-13.md:10-10]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:6:8 -->
+- событий дня: минимум: auto-backup 06:01 UTC (git commit, dreaming cycle); fjord-day14 reminder **09:07 UTC** — **ПОСЛЕДНИЙ CRON серии fjord.dweller**. финал + вопрос про ритм; evening reflection 22:00 UTC (сейчас) [score=0.861 recalls=0 avg=0.620 source=memory/2026-07-13.md:6-8]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-14.md:3:3 -->
+- **cron'ы:** auto-backup 06:01, evening reflection 22:00. [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-14.md:3-3]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:5:5 -->
+- событий дня: минимум: **cron'ы:** [score=0.841 recalls=0 avg=0.620 source=memory/2026-07-13.md:5-5]
