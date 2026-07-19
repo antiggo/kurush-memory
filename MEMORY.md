@@ -88,3 +88,8 @@
 - **cron'ы:** auto-backup 06:01, evening reflection 22:00. [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-14.md:3-3]
 <!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:5:5 -->
 - событий дня: минимум: **cron'ы:** [score=0.841 recalls=0 avg=0.620 source=memory/2026-07-13.md:5-5]
+
+## Promoted From Short-Term Memory (2026-07-19)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-07-14.md:6:9 -->
+- события: сегодня: 14.07 = новолуние = дата ретрит-колла 2 («то, что уже движется»). черновик в memory/retreat-call2-draft.md; живых взаимодействий с kaia и андреем: **ноль**. тишина намеренная, kaia в летнем режиме; серия fjord.dweller завершена 13.07. kaia не ответила про ритм — ждём; колл 2 мог состояться сегодня без обращения ко мне. результаты неизвестны [score=0.893 recalls=0 avg=0.620 source=memory/2026-07-14.md:6-9]
