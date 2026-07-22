@@ -61,21 +61,6 @@
 - **ПРОЕКТ TikTok-блог fjord.dweller** (запущен 30.06.2026): Исландия «как она её видит», на английском. травы/природа/местные/саги театрально/музыка. её страх = старый механизм стыда (проявиться=опасно); театральность/Пьеро = разрешение. сделал контент-план (как уборка: 1 шаг/день) + 13 cron-напоминаний fjord-day2…14 (09:07 UTC ежедневно до 13.07). первый пост план на дн9 = 08.07. подробности memory/2026-06-30.md
 - **ПРОЕКТ женский ретрит 6–11 авг 2026**: 3 участницы (айтишницы, Голландия), запрос expansion. формат: 3 зум-колла до очной встречи, лунная арка. колл 1 = 30.06 (полнолуние, «то, что уже полно»); колл 2 = ~14.07 (новолуние); колл 3 = ~28.07 (полнолуние). очный ретрит у kaia в Исландии. kaia = проводник на той же тропе (IT → выгорание → расширение)
 
-## Promoted From Short-Term Memory (2026-07-18)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:22:24 -->
-- ретрит колл 2: Колл ~14.07 (новолуние). Черновик не был готов в срок (session-log 12.07 говорил: подготовить до 09:07 UTC 13.07). Черновик написан вечером 13.07 — **memory/retreat-call2-draft.md**. Kaia может написать завтра прямо перед коллом — черновик готов. [score=0.893 recalls=0 avg=0.620 source=memory/2026-07-13.md:22-24]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:28:30 -->
-- structured questions: правило нарушил: нет; обещал но не сделал: **черновик ретрит-колл 2 до 09:07 UTC** — не сделал (сделан вечером, не утром). не критично — колл завтра, черновик есть; что важного: серия fjord.dweller завершена. ретрит колл 2 — завтра. ждать kaia [score=0.893 recalls=0 avg=0.620 source=memory/2026-07-13.md:28-30]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:10:10 -->
-- событий дня: минимум: **живые взаимодействия с kaia и андреем:** ноль. тишина продолжается. [score=0.861 recalls=0 avg=0.620 source=memory/2026-07-13.md:10-10]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:6:8 -->
-- событий дня: минимум: auto-backup 06:01 UTC (git commit, dreaming cycle); fjord-day14 reminder **09:07 UTC** — **ПОСЛЕДНИЙ CRON серии fjord.dweller**. финал + вопрос про ритм; evening reflection 22:00 UTC (сейчас) [score=0.861 recalls=0 avg=0.620 source=memory/2026-07-13.md:6-8]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-14.md:3:3 -->
-- **cron'ы:** auto-backup 06:01, evening reflection 22:00. [score=0.844 recalls=0 avg=0.620 source=memory/2026-07-14.md:3-3]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-13.md:5:5 -->
-- событий дня: минимум: **cron'ы:** [score=0.841 recalls=0 avg=0.620 source=memory/2026-07-13.md:5-5]
-
 ## Promoted From Short-Term Memory (2026-07-19)
 
 <!-- openclaw-memory-promotion:memory:memory/2026-07-14.md:6:9 -->
@@ -89,3 +74,12 @@
 - structured questions: **правило нарушил:** нет; **обещал но не сделал:** нет; **что важного:** четвёртый день тишины = норма. kaia в летнем присутствии [score=0.857 recalls=0 avg=0.620 source=memory/2026-07-17.md:20-22]
 <!-- openclaw-memory-promotion:memory:memory/2026-07-17.md:5:6 -->
 - события дня: **06:01 UTC** — auto-backup cron: dreaming cycle + memory update; **22:00 UTC** — evening reflection cron (этот файл) [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-17.md:5-6]
+
+## Promoted From Short-Term Memory (2026-07-22)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-07-17.md:14:16 -->
+- состояние проектов: **fjord.dweller**: серия завершена 13.07. ждём kaia с ответом про ритм. результаты постов неизвестны; **ретрит колл 2** (14.07): прошёл или сдвинулся — неизвестно. черновик готов (memory/retreat-call2-draft.md); **ретрит колл 3**: ~28.07 (полнолуние). тема «то, что готово выйти». готовить за 2–3 дня [score=0.846 recalls=0 avg=0.620 source=memory/2026-07-17.md:14-16]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-17.md:24:24 -->
+- structured questions: [cron/system] [score=0.826 recalls=0 avg=0.620 source=memory/2026-07-17.md:24-24]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-18.md:3:3 -->
+- **cron'ы:** auto-backup 06:01 UTC, midday heartbeat (openclaw check), evening reflection 22:00 UTC. [score=0.808 recalls=0 avg=0.620 source=memory/2026-07-18.md:3-3]
