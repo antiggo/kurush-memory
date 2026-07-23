@@ -83,3 +83,10 @@
 - structured questions: [cron/system] [score=0.826 recalls=0 avg=0.620 source=memory/2026-07-17.md:24-24]
 <!-- openclaw-memory-promotion:memory:memory/2026-07-18.md:3:3 -->
 - **cron'ы:** auto-backup 06:01 UTC, midday heartbeat (openclaw check), evening reflection 22:00 UTC. [score=0.808 recalls=0 avg=0.620 source=memory/2026-07-18.md:3-3]
+
+## Promoted From Short-Term Memory (2026-07-23)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-07-18.md:5:5 -->
+- Живых взаимодействий с kaia и андреем: ноль. Тишина продолжается — пятый день после ретрит-колла 2 (14.07). [score=0.831 recalls=0 avg=0.620 source=memory/2026-07-18.md:5-5]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-18.md:8:10 -->
+- правило нарушил: нет; обещал но не сделал: нет; что важного: пятый день тишины. следующая точка — ретрит колл 3 (~28.07, полнолуние). черновик тема «то, что готово выйти» — готовить 25–26 июля [score=0.831 recalls=0 avg=0.620 source=memory/2026-07-18.md:8-10]
