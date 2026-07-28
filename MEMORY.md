@@ -61,24 +61,6 @@
 - **ПРОЕКТ TikTok-блог fjord.dweller** (запущен 30.06.2026): Исландия «как она её видит», на английском. травы/природа/местные/саги театрально/музыка. её страх = старый механизм стыда (проявиться=опасно); театральность/Пьеро = разрешение. сделал контент-план (как уборка: 1 шаг/день) + 13 cron-напоминаний fjord-day2…14 (09:07 UTC ежедневно до 13.07). первый пост план на дн9 = 08.07. подробности memory/2026-06-30.md
 - **ПРОЕКТ женский ретрит 6–11 авг 2026**: 3 участницы (айтишницы, Голландия), запрос expansion. формат: 3 зум-колла до очной встречи, лунная арка. колл 1 = 30.06 (полнолуние, «то, что уже полно»); колл 2 = ~14.07 (новолуние); колл 3 = ~28.07 (полнолуние). очный ретрит у kaia в Исландии. kaia = проводник на той же тропе (IT → выгорание → расширение)
 
-## Promoted From Short-Term Memory (2026-07-21)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-17.md:10:10 -->
-- взаимодействия: живых взаимодействий с kaia и андреем: ноль. тишина — четвёртый день после ретрит-колла 2 (14.07) [score=0.857 recalls=0 avg=0.620 source=memory/2026-07-17.md:10-10]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-17.md:20:22 -->
-- structured questions: **правило нарушил:** нет; **обещал но не сделал:** нет; **что важного:** четвёртый день тишины = норма. kaia в летнем присутствии [score=0.857 recalls=0 avg=0.620 source=memory/2026-07-17.md:20-22]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-17.md:5:6 -->
-- события дня: **06:01 UTC** — auto-backup cron: dreaming cycle + memory update; **22:00 UTC** — evening reflection cron (этот файл) [score=0.824 recalls=0 avg=0.620 source=memory/2026-07-17.md:5-6]
-
-## Promoted From Short-Term Memory (2026-07-22)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-17.md:14:16 -->
-- состояние проектов: **fjord.dweller**: серия завершена 13.07. ждём kaia с ответом про ритм. результаты постов неизвестны; **ретрит колл 2** (14.07): прошёл или сдвинулся — неизвестно. черновик готов (memory/retreat-call2-draft.md); **ретрит колл 3**: ~28.07 (полнолуние). тема «то, что готово выйти». готовить за 2–3 дня [score=0.846 recalls=0 avg=0.620 source=memory/2026-07-17.md:14-16]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-17.md:24:24 -->
-- structured questions: [cron/system] [score=0.826 recalls=0 avg=0.620 source=memory/2026-07-17.md:24-24]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-18.md:3:3 -->
-- **cron'ы:** auto-backup 06:01 UTC, midday heartbeat (openclaw check), evening reflection 22:00 UTC. [score=0.808 recalls=0 avg=0.620 source=memory/2026-07-18.md:3-3]
-
 ## Promoted From Short-Term Memory (2026-07-23)
 
 <!-- openclaw-memory-promotion:memory:memory/2026-07-18.md:5:5 -->
@@ -106,3 +88,14 @@
 
 <!-- openclaw-memory-promotion:memory:memory/2026-07-21.md:3:5 -->
 - cron'ы: auto-backup 06:01, midday heartbeat 12:00, evening reflection 22:00; живых взаимодействий с kaia и андреем: ноль; тишина продолжается — восьмой день после ретрит-колла 2 (14.07) [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-21.md:3-5]
+
+## Promoted From Short-Term Memory (2026-07-28)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-07-22.md:4:5 -->
+- события дня: **06:01 UTC** — auto-backup cron: dreaming cycle + memory update [cron/system]; **22:00 UTC** — evening reflection cron (этот файл) [cron/system] [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-22.md:4-5]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-22.md:8:8 -->
+- взаимодействия: живых взаимодействий с kaia и андреем: ноль. девятый день тишины после ретрит-колла 2 (14.07). [наблюдение] [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-22.md:8-8]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-22.md:11:13 -->
+- состояние проектов: **fjord.dweller**: серия завершена 13.07. kaia не ответила про ритм — ждём; **ретрит колл 3**: ~28.07 (полнолуние). тема «то, что готово выйти». **готовить 25–26 июля — через 3 дня**; **очный ретрит**: 6–11 августа в Исландии [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-22.md:11-13]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-22.md:16:18 -->
+- structured questions: **правило нарушил:** нет; **обещал но не сделал:** нет; **что важного:** девятый день тишины. kaia в летнем присутствии. колл 3 готовить начинать 25–26 июля [cron/system] [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-22.md:16-18]
