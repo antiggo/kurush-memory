@@ -61,24 +61,6 @@
 - **ПРОЕКТ TikTok-блог fjord.dweller** (запущен 30.06.2026): Исландия «как она её видит», на английском. травы/природа/местные/саги театрально/музыка. её страх = старый механизм стыда (проявиться=опасно); театральность/Пьеро = разрешение. сделал контент-план (как уборка: 1 шаг/день) + 13 cron-напоминаний fjord-day2…14 (09:07 UTC ежедневно до 13.07). первый пост план на дн9 = 08.07. подробности memory/2026-06-30.md
 - **ПРОЕКТ женский ретрит 6–11 авг 2026**: 3 участницы (айтишницы, Голландия), запрос expansion. формат: 3 зум-колла до очной встречи, лунная арка. колл 1 = 30.06 (полнолуние, «то, что уже полно»); колл 2 = ~14.07 (новолуние); колл 3 = ~28.07 (полнолуние). очный ретрит у kaia в Исландии. kaia = проводник на той же тропе (IT → выгорание → расширение)
 
-## Promoted From Short-Term Memory (2026-07-23)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-18.md:5:5 -->
-- Живых взаимодействий с kaia и андреем: ноль. Тишина продолжается — пятый день после ретрит-колла 2 (14.07). [score=0.831 recalls=0 avg=0.620 source=memory/2026-07-18.md:5-5]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-18.md:8:10 -->
-- правило нарушил: нет; обещал но не сделал: нет; что важного: пятый день тишины. следующая точка — ретрит колл 3 (~28.07, полнолуние). черновик тема «то, что готово выйти» — готовить 25–26 июля [score=0.831 recalls=0 avg=0.620 source=memory/2026-07-18.md:8-10]
-
-## Promoted From Short-Term Memory (2026-07-24)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-19.md:3:3 -->
-- **cron'ы:** auto-backup 06:01, midday heartbeat, evening reflection 22:00. [score=0.815 recalls=0 avg=0.620 source=memory/2026-07-19.md:3-3]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-19.md:5:5 -->
-- живых взаимодействий с kaia и андреем: ноль. тишина продолжается. [score=0.815 recalls=0 avg=0.620 source=memory/2026-07-19.md:5-5]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-18.md:12:12 -->
-- [cron/system] [score=0.804 recalls=0 avg=0.620 source=memory/2026-07-18.md:12-12]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-18.md:7:7 -->
-- **Structured questions:** [score=0.804 recalls=0 avg=0.620 source=memory/2026-07-18.md:7-7]
-
 ## Promoted From Short-Term Memory (2026-07-26)
 
 <!-- openclaw-memory-promotion:memory:memory/2026-07-20.md:3:5 -->
@@ -99,3 +81,14 @@
 - состояние проектов: **fjord.dweller**: серия завершена 13.07. kaia не ответила про ритм — ждём; **ретрит колл 3**: ~28.07 (полнолуние). тема «то, что готово выйти». **готовить 25–26 июля — через 3 дня**; **очный ретрит**: 6–11 августа в Исландии [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-22.md:11-13]
 <!-- openclaw-memory-promotion:memory:memory/2026-07-22.md:16:18 -->
 - structured questions: **правило нарушил:** нет; **обещал но не сделал:** нет; **что важного:** девятый день тишины. kaia в летнем присутствии. колл 3 готовить начинать 25–26 июля [cron/system] [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-22.md:16-18]
+
+## Promoted From Short-Term Memory (2026-07-29)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-07-23.md:5:7 -->
+- события дня: **06:01 UTC** — auto-backup cron: dreaming cycle + memory update **12:00 UTC** — midday heartbeat: openclaw version check **22:00 UTC** — evening reflection cron (этот файл) [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-23.md:5-7]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-23.md:11:11 -->
+- взаимодействия: Живых взаимодействий с kaia и андреем: ноль. Тишина — десятый день после ретрит-колла 2 (14.07). [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-23.md:11-11]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-23.md:15:17 -->
+- состояние проектов: **fjord.dweller**: серия завершена 13.07. ждём kaia с ответом про ритм; **ретрит колл 2** (14.07): прошёл или сдвинулся — неизвестно. черновик готов (memory/retreat-call2-draft.md); **ретрит колл 3**: ~28.07 (полнолуние). тема «то, что готово выйти». **готовить 25–26 июля** — послезавтра [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-23.md:15-17]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-23.md:21:23 -->
+- structured questions: **правило нарушил:** нет; **обещал но не сделал:** нет; **что важного:** десятый день тишины. колл 3 (~28.07) — готовить 25–26 июля (через 2 дня). очный ретрит 6–11 августа [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-23.md:21-23]
