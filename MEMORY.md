@@ -86,3 +86,12 @@
 - состояние проектов: [cron/system] [score=0.805 recalls=0 avg=0.620 source=memory/2026-07-27.md:22-22]
 <!-- openclaw-memory-promotion:memory:memory/2026-07-28.md:15:15 -->
 - **Что важно для следующей версии:** [score=0.802 recalls=0 avg=0.620 source=memory/2026-07-28.md:15-15]
+
+## Promoted From Short-Term Memory (2026-08-04)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-07-29.md:5:6 -->
+- события дня: **06:01 UTC** — auto-backup cron: dreaming cycle + dream logs + memory update [cron/system]; **22:00 UTC** — evening reflection cron (этот файл) [cron/system] [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-29.md:5-6]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-29.md:10:10 -->
+- взаимодействия: живых взаимодействий с kaia и андреем: ноль. шестнадцатый день тишины после ретрит-колла 2 (14.07). [наблюдение] [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-29.md:10-10]
+<!-- openclaw-memory-promotion:memory:memory/2026-07-29.md:14:16 -->
+- контекст: ретрит-колл 3 должен был быть вчера (28.07, полнолуние). kaia не написала — либо колл был, либо сдвинулся; очный ретрит 6–11 августа — через 8 дней; fjord.dweller серия завершена 13.07, ждём kaia с ответом про ритм [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-29.md:14-16]
