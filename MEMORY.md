@@ -67,32 +67,6 @@
 - за 4 дня подготовки выдал: план ретрита целиком, узлы Сибирь/Урал/Анды, вегетарианское меню + покупки, список вещей для участниц, книжный список. коррекций от kaia не поступало [наблюдение]
 - Андрей: краска на штанах ~час → воспалился паховый лимфоузел. диагноз: скорее ранка на ноге, не краска. даны красные флаги и экстренные номера. к утру 05.08 — всё хорошо [Kaia]
 
-## Promoted From Short-Term Memory (2026-08-02)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-28.md:3:3 -->
-- **Контекст:** пятнадцатый день после ретрит-колла 2 (14.07). Живых взаимодействий с kaia и андреем: ноль. Только cron'ы. [score=0.827 recalls=0 avg=0.620 source=memory/2026-07-28.md:3-3]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-27.md:5:6 -->
-- события дня: **06:01 UTC** — auto-backup cron: dreaming cycle + memory update **22:00 UTC** — evening reflection cron (этот файл) [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-27.md:5-6]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-27.md:8:8 -->
-- события дня: Живых взаимодействий с kaia и андреем: ноль. Тишина — четырнадцатый день после ретрит-колла 2 (14.07). [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-27.md:8-8]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-27.md:18:20 -->
-- состояние проектов: **fjord.dweller**: серия завершена 13.07. ждём kaia с ответом про ритм. результаты неизвестны — тишина; **ретрит колл 3**: ЗАВТРА (~28.07). черновик готов. ждём kaia; **очный ретрит 6–11 августа**: через 10 дней [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-27.md:18-20]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-26.md:27:27 -->
-- structured questions: [cron/system] [score=0.805 recalls=0 avg=0.620 source=memory/2026-07-26.md:27-27]
-
-## Promoted From Short-Term Memory (2026-08-03)
-
-<!-- openclaw-memory-promotion:memory:memory/2026-07-28.md:6:8 -->
-- правило нарушил: нет; обещал но не сделал: нет; что важного: **ретрит колл 3 СЕГОДНЯ (~28.07, полнолуние)**. тема «то, что готово выйти». черновик готов (memory/retreat-call3-draft.md). очный ретрит 6–11 августа — через 9 дней [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-28.md:6-8]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-28.md:11:13 -->
-- тишина = устойчивый летний паттерн. пятнадцать дней — норма; assumptions, observations, MEMORY.md — без изменений, всё актуально; колл 3 сегодня: черновик подготовлен заранее (25.07), kaia должна его использовать сегодня вечером [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-28.md:11-13]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-28.md:16:18 -->
-- когда kaia напишет — спросить как прошёл колл 3 (28.07); **очный ретрит 6–11 августа — через 9 дней**; fjord.dweller серия завершена. ждём kaia с ответом про ритм [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-28.md:16-18]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-27.md:22:22 -->
-- состояние проектов: [cron/system] [score=0.805 recalls=0 avg=0.620 source=memory/2026-07-27.md:22-22]
-<!-- openclaw-memory-promotion:memory:memory/2026-07-28.md:15:15 -->
-- **Что важно для следующей версии:** [score=0.802 recalls=0 avg=0.620 source=memory/2026-07-28.md:15-15]
-
 ## Promoted From Short-Term Memory (2026-08-04)
 
 <!-- openclaw-memory-promotion:memory:memory/2026-07-29.md:5:6 -->
@@ -101,3 +75,16 @@
 - взаимодействия: живых взаимодействий с kaia и андреем: ноль. шестнадцатый день тишины после ретрит-колла 2 (14.07). [наблюдение] [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-29.md:10-10]
 <!-- openclaw-memory-promotion:memory:memory/2026-07-29.md:14:16 -->
 - контекст: ретрит-колл 3 должен был быть вчера (28.07, полнолуние). kaia не написала — либо колл был, либо сдвинулся; очный ретрит 6–11 августа — через 8 дней; fjord.dweller серия завершена 13.07, ждём kaia с ответом про ритм [score=0.812 recalls=0 avg=0.620 source=memory/2026-07-29.md:14-16]
+
+## Promoted From Short-Term Memory (2026-08-07)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-08-01.md:3:3 -->
+- 2026-08-01 — суббота: **День:** суббота. UTC+3 → 01:00 ночи для kaia. [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-01.md:3-3]
+<!-- openclaw-memory-promotion:memory:memory/2026-08-01.md:7:9 -->
+- события: **06:01 UTC** — auto-backup cron: dreaming cycle + memory update; **12:00 UTC** — openclaw version check cron; **22:00 UTC** — evening reflection cron (этот файл) [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-01.md:7-9]
+<!-- openclaw-memory-promotion:memory:memory/2026-08-01.md:11:11 -->
+- события: Живых взаимодействий с kaia и андреем: ноль. **Восемнадцатый день тишины** после ретрит-колла 2 (14.07). [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-01.md:11-11]
+<!-- openclaw-memory-promotion:memory:memory/2026-08-01.md:15:17 -->
+- structured questions: **правило нарушил:** нет; **обещал но не сделал:** нет; **что важного:** **ОЧНЫЙ РЕТРИТ 6–11 АВГУСТА — ЧЕРЕЗ 5 ДНЕЙ**. Колл 3 (~28.07) прошёл или сдвинулся — без вести. Тишина = летнее присутствие kaia, это нормально. [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-01.md:15-17]
+<!-- openclaw-memory-promotion:memory:memory/2026-08-01.md:21:23 -->
+- состояние проектов: **очный ретрит 6–11 августа** — через 5 дней. все три колла завершены или сдвинулись. ждём kaia; **fjord.dweller** — серия завершена 13.07. ждём kaia с ответом про ритм; **NUHÉ**, **ark.studio**, **Zenno** — на паузе, без обновлений [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-01.md:21-23]
