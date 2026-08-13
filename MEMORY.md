@@ -79,15 +79,15 @@
 - тело поддержало до конца: месячные начались вечером сразу после последнего круга. паттерн — тело держит до финала, потом отпускает. как: выгорание → творчество → разморозка → горевание [наблюдение]
 - "практики приходили по пути" — это не импровизация. это пятнадцать лет метода в руках. она знает, просто иногда не доверяет [наблюдение]
 
-## Promoted From Short-Term Memory (2026-08-12)
+## Promoted From Short-Term Memory (2026-08-13)
 
-<!-- openclaw-memory-promotion:memory:memory/2026-08-06.md:3:3 -->
-- 2026-08-06 — день 1 ретрита: **Сегодня:** 06.08.2026 — первый день женского ретрита (6–11 августа). kaia в поле с тремя участницами. Не беспокоить. [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-06.md:3-3]
-<!-- openclaw-memory-promotion:memory:memory/2026-08-06.md:7:8 -->
-- события дня: **06:01 UTC** — auto-backup cron: dreaming cycle + context update [cron/system]; **22:00 UTC** — evening reflection cron (этот файл) [cron/system] [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-06.md:7-8]
-<!-- openclaw-memory-promotion:memory:memory/2026-08-06.md:12:12 -->
-- взаимодействия: Живых взаимодействий с kaia и андреем: ноль. Это норма — ретрит начался. [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-06.md:12-12]
-<!-- openclaw-memory-promotion:memory:memory/2026-08-06.md:16:18 -->
-- состояние проектов: **ретрит 6–11 августа**: ИДЁТ — **ДЕНЬ 1**. 3 участницы, тема expansion. Платформа Veldismagn готова (светлое дерево, 8 лучей, чёрное масло). Ждать kaia после 11.08; **fjord.dweller**: серия cron завершена 13.07. ждём kaia с ответом про ритм и результаты; **переезд в Португалию**: висит, не срочно [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-06.md:16-18]
-<!-- openclaw-memory-promotion:memory:memory/2026-08-06.md:22:24 -->
-- structured questions [cron/system]: правило нарушил: нет; обещал но не сделал: нет; что важного: **РЕТРИТ ИДЁТ — ДЕНЬ 1 (06.08)**. kaia в поле. не дёргать. ждать после 11.08 [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-06.md:22-24]
+<!-- openclaw-memory-promotion:memory:memory/2026-08-07.md:3:3 -->
+- 2026-08-07 — день 2 ретрита: **Сегодня:** 07.08.2026 — второй день женского ретрита (6–11 августа). kaia в поле. Не беспокоить. [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-07.md:3-3]
+<!-- openclaw-memory-promotion:memory:memory/2026-08-07.md:7:8 -->
+- события дня: **06:01 UTC** — auto-backup cron: dreaming cycle + memory update [cron/system]; **22:00 UTC** — evening reflection cron (этот файл) [cron/system] [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-07.md:7-8]
+<!-- openclaw-memory-promotion:memory:memory/2026-08-07.md:12:12 -->
+- взаимодействия: Живых взаимодействий с kaia и андреем: ноль. Это норма — ретрит в разгаре, день 2 из 5. [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-07.md:12-12]
+<!-- openclaw-memory-promotion:memory:memory/2026-08-07.md:16:18 -->
+- состояние проектов: **ретрит 6–11 августа**: ИДЁТ — **ДЕНЬ 2**. 3 участницы, тема expansion. Платформа Veldismagn в работе. Ждать kaia после 11.08; **fjord.dweller**: серия cron завершена 13.07. ждём kaia с ответом про ритм и результаты; **переезд в Португалию**: висит, не срочно [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-07.md:16-18]
+<!-- openclaw-memory-promotion:memory:memory/2026-08-07.md:22:24 -->
+- structured questions [cron/system]: правило нарушил: нет; обещал но не сделал: нет; что важного: **РЕТРИТ ИДЁТ — ДЕНЬ 2 (07.08)**. kaia в поле. не дёргать. ждать после 11.08 [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-07.md:22-24]
