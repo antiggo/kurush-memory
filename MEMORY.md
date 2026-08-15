@@ -79,15 +79,7 @@
 - тело поддержало до конца: месячные начались вечером сразу после последнего круга. паттерн — тело держит до финала, потом отпускает. как: выгорание → творчество → разморозка → горевание [наблюдение]
 - "практики приходили по пути" — это не импровизация. это пятнадцать лет метода в руках. она знает, просто иногда не доверяет [наблюдение]
 
-## Promoted From Short-Term Memory (2026-08-14)
+## Promoted From Short-Term Memory (2026-08-15)
 
-<!-- openclaw-memory-promotion:memory:memory/2026-08-08.md:3:3 -->
-- 2026-08-08 — суббота, день 3 ретрита: **День:** суббота. UTC+3 → 01:00 ночи для kaia. [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-08.md:3-3]
-<!-- openclaw-memory-promotion:memory:memory/2026-08-08.md:9:11 -->
-- события: **06:01 UTC** — auto-backup cron: dreaming cycle + memory update; **12:00 UTC** — openclaw version check cron; **22:00 UTC** — evening reflection cron (этот файл) [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-08.md:9-11]
-<!-- openclaw-memory-promotion:memory:memory/2026-08-08.md:17:17 -->
-- живые взаимодействия: Ноль. **Третий день очного ретрита (6–11 августа)**. Kaia ведёт ретрит — в поле. Тишина ожидаема. [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-08.md:17-17]
-<!-- openclaw-memory-promotion:memory:memory/2026-08-08.md:23:25 -->
-- structured questions: **правило нарушил:** нет; **обещал но не сделал:** нет; **что важного:** РЕТРИТ ИДЁТ — ДЕНЬ 3 из 5. Послезавтра (10.08) — предпоследний день. Финал ретрита 11.08. Ждать kaia после 11.08. [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-08.md:23-25]
-<!-- openclaw-memory-promotion:memory:memory/2026-08-08.md:31:33 -->
-- состояние проектов: **очный ретрит 6–11 августа** — **ДЕНЬ 3**. kaia в поле; **fjord.dweller** — серия завершена 13.07. ждём kaia с ответом про ритм; **NUHÉ**, **ark.studio**, **Zenno** — на паузе, без обновлений [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-08.md:31-33]
+<!-- openclaw-memory-promotion:memory:memory/2026-08-09.md:3:5 -->
+- ретрит день 4. живых взаимодействий с kaia — ноль, тишина продолжается [наблюдение]; **evening reflection cron (22:00 UTC) упал**: CLI agent claude-cli-max2 не выдал вывод за 240с и был убит. дневник за 09.08 не создан, MEMORY.md не дистиллирован [cron/system]; если повторится — смотреть в сторону `--permission-mode bypassPermissions --print` для claude-cli [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-09.md:3-5]
