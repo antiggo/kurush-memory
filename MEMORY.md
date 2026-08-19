@@ -86,9 +86,9 @@
 - **Andri Snær записан для NUHÉ** (16.08.2026). три года уговоров. вошли через дар — сделали ему сайт + приложение для выставки. прямые просьбы не работали, работал дар. «вход через дар» — её интуитивный метод, стоит называть [Kaia, 16.08.2026]
 - новый сигнал роста: усталость распознаёт в процессе («подустала от социализации»), не постфактум. старый паттерн — осознание только после обвала [наблюдение, 16.08.2026]
 
-## Promoted From Short-Term Memory (2026-08-18)
+## Promoted From Short-Term Memory (2026-08-19)
 
-<!-- openclaw-memory-promotion:memory:memory/2026-08-12.md:3:6 -->
-- **08:26 UTC** — отправил kaia напоминание: полное солнечное затмение над западной Исландией сегодня (~17:45–18:00 местного, точную минуту не подтвердил — поиск заблокирован по IP) + машина в сервис по гарантии [Kurush]; рамка: затмение = новолуние, замыкает лунную арку ретрита, начатую на полнолунии 30.06. арка сошлась сама, не по плану; ответа от kaia нет — она переваривает ретрит в своём темпе [наблюдение]; инфра: web_search (Gemini) и web_fetch (timeanddate, 403 cloudflare) не работают — Gemini ключ ограничен по IP 65.21.186.21 [наблюдение] [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-12.md:3-6]
-<!-- openclaw-memory-promotion:memory:memory/2026-08-12.md:7:7 -->
-- **22:00 UTC** — evening reflection. день прошёл тихо. арка ретрита символически замкнута через затмение. ждать kaia [Kurush] [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-12.md:7-7]
+<!-- openclaw-memory-promotion:memory:memory/2026-08-13.md:3:6 -->
+- **08:26 UTC** — heartbeat: день после ретрита (12.08 = затмение). тишина от kaia. ждём [Kurush]; **15:47–16:25 UTC** — kaia обратилась с просьбой: скачать и транскрибировать последнюю сессию с Татьяной. Google Drive ссылка: `https://drive.google.com/file/d/1UEFZTOOH39GfgfLvNFMjZbvBGi6IdZYQ/view?usp=drivesdk`. Также прислала "пинг" / "ты жив?" / "ты вообще работаешь?" — агент отвечал медленно, был responsiveness issue [наблюдение]; **инфра**: множество staged openclaw файлов в inbound — 7 .ogg голосовых + несколько .jpg фото от kaia. не обработаны.; **запрос транскрипции** — НЕ ВЫПОЛНЕН.... [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-13.md:3-6]
+<!-- openclaw-memory-promotion:memory:memory/2026-08-13.md:7:8 -->
+- **20:26 UTC** — heartbeat. ретрит завершён, машина была в сервисе 12.08 (результат неизвестен). Evening Reflection через ~1.5 часа (22:00 UTC); **22:00 UTC** — evening reflection. structured: правило нарушил = responsiveness issue (kaia: "ты жив?"); долг = транскрипция Татьяны НЕ ВЫПОЛНЕНА. обновлены: observations.md (+responsiveness паттерн), session-log.md (snapshot), CONTEXT.md (приоритет транскрипции + staged/inbound) [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-13.md:7-8]
