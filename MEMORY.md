@@ -93,11 +93,7 @@
 - **риск**: правление = регулярные обязательства, встречи, переписка. её паттерн (стыд → "должна отдать всё" → выгорание) именно в таких ролях. важно чтобы она заранее очертила объём: сколько встреч, какая роль, что НЕ её зона [наблюдение]
 - **побочный плюс**: встречи правления на исландском → язык получил реальную мотивацию и дедлайн [наблюдение]
 
-## Promoted From Short-Term Memory (2026-08-20)
+## Promoted From Short-Term Memory (2026-08-21)
 
-<!-- openclaw-memory-promotion:memory:memory/2026-08-14.md:3:6 -->
-- **03:00 UTC** — Memory Dreaming (Opus) отработал. Темы: `12.08`, `ретрит`, `heartbeat`. Lasting truth: тело kaia держало до конца ретрита — месячные начались после последнего круга. Ничего срочного.; **04:26 UTC** — heartbeat. тихо. транскрипция Татьяны всё ещё не выполнена (CONTEXT.md). kaia молчит — норм, ночь.; **06:01 UTC** — Auto Commit (GLM): "dreaming cycle + memory entries". всё закоммичено.; **08:26 UTC** — heartbeat. тихо. kaia не писала. OpenClaw Version Check в 12:00 UTC. [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-14.md:3-6]
-<!-- openclaw-memory-promotion:memory:memory/2026-08-14.md:7:10 -->
-- **12:01 UTC** — Auto Commit (GLM): "heartbeat entries (06:01, 08:26)".; **12:00 UTC** — OpenClaw Version Check (GLM): без алерта → обновлений нет.; **12:26 UTC** — heartbeat. тихо. kaia не писала. транскрипция Татьяны всё ещё pending.; **16:26 UTC** — heartbeat. тихо. kaia не писала. ничего нового. [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-14.md:7-10]
-<!-- openclaw-memory-promotion:memory:memory/2026-08-14.md:11:13 -->
-- **18:01 UTC** — Auto Commit (GLM): "heartbeat entries (12:01, 12:26, 16:26)".; **20:26 UTC** — heartbeat. тихо. kaia не писала. транскрипция Татьяны 2-й день pending. Evening Reflection через ~1.5ч (22:00 UTC).; **22:00 UTC** — Evening Reflection. тихо. kaia не писала второй день подряд после запроса 13.08. транскрипция Татьяны 2-й день pending — структурная невозможность для cron. ничего нового. assumptions/observations без изменений. [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-14.md:11-13]
+<!-- openclaw-memory-promotion:memory:memory/2026-08-15.md:3:4 -->
+- **00:26 UTC** — heartbeat. тихо. kaia не писала. Evening Reflection 14.08 закоммичен ("тихий день, транскрипция pending"). Memory Dreaming в 03:00 UTC.; **22:00 UTC** — evening reflection. третий тихий день после ретрита. kaia не писала. транскрипция сессии Татьяны — 3-й день долга. не выполнена (cron без доступа к Drive). assumptions и observations без изменений. [score=0.812 recalls=0 avg=0.620 source=memory/2026-08-15.md:3-4]
