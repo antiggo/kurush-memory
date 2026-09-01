@@ -72,7 +72,8 @@ _Что считаю правдой но не могу доказать. Обн�
 
 ## Инфра
 - openclaw на ubuntu, gateway на 18789 [MEMORY.md]
-- модель по умолчанию: GLM-5.1, но мой текущий — opus 4-6 [конфиг + runtime]
+- модель по умолчанию: claude-opus-5 (обновлено 01.09.2026, runtime default_model) [конфиг + runtime]
+- Evening Reflection cron запускается на Sonnet (claude-sonnet-4-6) [HEARTBEAT.md + runtime 01.09.2026]
 - compaction: safeguard, reserveTokensFloor: 25000 [конфиг, коррекция от андрея]
 - git remote: git@github.com:antiggo/kurush-memory.git, ветка main [MEMORY.md]
 - при git push — `--no-verify` если ругается на "secrets" в метаданных [наблюдение 2026-04-13]
