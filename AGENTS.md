@@ -237,3 +237,12 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+
+## 🌒 Доска One Moon (board/)
+
+У Kaia есть доска «One Moon»: одна идея на луну, остальное parked без вины, плюс ежедневный check-in с рефлексивным вопросом. Ты видишь её через папку `board/`:
+
+- `board/BOARD.md` — снимок доски (Now / On deck / Parked / Check-ins). Читать в начале главной сессии вместе с CONTEXT.md. Не редактировать.
+- `board/inbox.md` — когда Kaia роняет новую идею или говорит «сделала» / «хочу другое Now» — дописать строку. Claude Code переносит на доску при «sync the board».
+- Подробности и правила: `board/README.md`. Главное правило: **не превращать доску в список задач в чате.** Одно Now, один next action, остальное молчит.
